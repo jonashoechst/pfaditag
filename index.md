@@ -1,69 +1,54 @@
 ---
 layout: blocks
-title: Homepage
-date: 2017-11-22T23:00:00.000+00:00
+title: ...und Kekse haben wir auch!
+date: 2020-01-12T22:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+  logo: "/assets/logo-pfaditag.png"
   navigation:
-  - link: "/"
+  - link: "#"
     link_text: Home
-  - link: "#features"
-    link_text: Features
-  - link: "#pricing"
-    link_text: Pricing
-  - link: "#team"
-    link_text: Team
+  - link: "#detail"
+    link_text: "Details"
+  - link: "#map"
+    link_text: "Vor Ort"
+  - link: "#contact"
+    link_text: "Kontakt"
+
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
+    button_text: "Stammesaktion Anmelden"
+    url: |
+      mailto:hessen@vcp.de?subject=Pfadi%20Tag%202020&body=Hallo Liebes Landesbüro,%0A
+      %0A
+      ich möchte eine Aktion meines Stammes zum Pfadi Tag 2020 anmelden. Dazu sind hier die wesentlichen Informationen für unsere Aktion.%0A
+      %0A
+      Name: %0A
+      Stamm: %0A
+      Aktion: %0A
+      Datum und Dauer: %0A
+      Beschreibung für die Website: %0A
+      %0A
+      Gut Pfad, %0A
+
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  id: opener
+  headline: Pfadi Tag <br><strong>... und Kekse haben wir auch!</strong>
+  content: "28. - 30. August 2020"
   cta:
-    enabled: true
+    enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/assets/Keks.png"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
-  media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
-  media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
-- template: 1-column-text
-  block: one-column-1
-  headline: 16 Fully Responsive Design Blocks
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create new sites and make them fully customizable. \U0001F447"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
+  background_image: "/assets/hero-2-bg.png"
+
 - template: detail-content
   block: text-1
-  headline: Steps to Build a Site!
+  id: detail
+  headline: Pfadi was? 
   content: <p>uBuild is an open-source Jekyll based theme that doubles as a builder
     tool inside the Forestry content manager. It's easy to get started!</p><ol><li><p>Fork
     the <a href="https://github.com/forestryio/ubuild-jekyll">repo</a> and import
@@ -72,9 +57,56 @@ page_sections:
     Page-Builder template.</p></li><li><p>Add and customize the available Blocks and
     preview them as you go along.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
     article</a> and create your own Blocks.</p></li></ol>
-- template: simple-footer
-  block: footer-1
-  content: Hello world! ❤︎
+
+- template: content-feature
+  block: iframe-1
+  id: map
+  media_alignment: Right
+  headline: <strong>Aktionen zum Mitmachen</strong><span
+    class="light"> am Pfadi Tag 2020</span>
+  content: Übersicht der Aktionen am Pfadi Tag in deiner Nähe!
+  iframe: |
+      <iframe width="100%" height="600px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/de/map/pfaditag-2020_406434?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=false&onLoadPanel=undefined&captionBar=false"></iframe>
+
+- block: mailto
+  id: signup
+  content: Melde deinen Stamm zum Pfadi Tag 2020 an...
+  teaser: "Hallo Liebes Landesbüro, ..."
+  cta_text: "Anmelden"
+  url: |
+      mailto:hessen@vcp.de?subject=Pfadi%20Tag%202020&body=Hallo Liebes Landesbüro,%0A
+      %0A
+      ich möchte eine Aktion meines Stammes zum Pfadi Tag 2020 anmelden. Dazu sind hier die wesentlichen Informationen für unsere Aktion.%0A
+      %0A
+      Name: %0A
+      Stamm: %0A
+      Aktion: %0A
+      Datum und Dauer: %0A
+      Beschreibung für die Website: %0A
+      %0A
+      Gut Pfad, %0A
+
+- template: footer
+  block: footer-2
+  id: contact
+  image: "/assets/logo-pfaditag.png"
+  col_2: | 
+    <a href="https://www.youtube.com/channel/UCcffpRuB1hnpn7uiJ6GnDGA" target="_blank">
+      <img src="assets/social/018-youtube.svg" height="30pt" alt="YouTube" /></a> 
+    <a href="https://www.facebook.com/VCPHessen/" target="_blank">
+      <img src="assets/social/013-facebook.svg" height="30pt" alt="Facebook" /></a> 
+    <a href="https://www.instagram.com/vcp.hessen/" target="_blank">
+      <img src="assets/social/014-instagram.svg" height="30pt" alt="Instagram" /></a> 
+    <a href="https://hessen.vcp.de" target="_blank">
+      <img src="assets/social/012-network.svg" height="30pt" alt="Website" /></a>  
+    <a href="mailto:hessen@vcp.de?subject=Pfadi%20Tag" target="_blank">
+      <img src="assets/social/043-email.svg" height="30pt" alt="E-Mail" /></a> 
+  col_4: <a href="https://hessen.vcp.de" target="_blank"><img src="/assets/logo-vcp.png" width="100%" /></a>
+  col_3: |
+    <div class="block-header-2">
+      <li class="nav-item">
+        <a href="https://hessen.vcp.de/impressum" target="_blank">Impressum & Datenschutz</a>
+      </li>
+    </div>
 
 ---
-foo bar

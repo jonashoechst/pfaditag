@@ -1,4 +1,4 @@
-<section class="block block-media-2">
+<section class="block block-media-2" id="{{ section.id }}">
   <div class="container">
     <div class="columns">
       <div class="column">
@@ -7,15 +7,15 @@
           {% if section.image_1.caption %}
           <figcaption>{{ section.image_1.caption }}</figcaption>
           {% endif %}
-        </figure>        
+        </figure>
       </div>
       <div class="column">
         <figure>
-            <img src="{{ section.image_2.image | relative_url }}" alt="{{ section.image_2.caption }}">
-            {% if section.image_2.caption %}
-            <figcaption>{{ section.image_2.caption }}</figcaption>
-            {% endif %}
-        </figure>        
+          <img src="{{ section.image_2.image | relative_url }}" alt="{{ section.image_2.caption }}">
+          {% if section.image_2.caption %}
+          <figcaption>{{ section.image_2.caption }}</figcaption>
+          {% endif %}
+        </figure>
       </div>
     </div>
   </div>

@@ -1,7 +1,5 @@
-<section class="block block-hero-2" 
-{% if section.background_image %}
-style="background-image: url('{{ section.background_image | relative_url }}')"
-{% endif %}>
+<section class="block block-hero-2" {% if section.background_image %}
+  style="background-image: url('{{ section.background_image | relative_url }}')" {% endif %} id="{{ section.id }}">
   <div class="container">
     <div class="columns">
       <div class="column text">
