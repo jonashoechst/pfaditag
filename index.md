@@ -5,7 +5,7 @@ date: 2020-01-12T22:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/assets/logo-pfaditag.png"
+  logo: "assets/logo-pfaditag.png"
   navigation:
   - link: "#"
     link_text: Home
@@ -41,9 +41,9 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/assets/Keks.png"
+    image: "assets/Keks.png"
     alt_text: Product Shot
-  background_image: "/assets/hero-2-bg.png"
+  background_image: "assets/hero-2-bg.png"
 
 - template: detail-content
   block: text-1
@@ -89,7 +89,7 @@ page_sections:
 - template: footer
   block: footer-2
   id: contact
-  image: "/assets/logo-pfaditag.png"
+  image: "assets/logo-pfaditag.png"
   col_2: | 
     <a href="https://www.youtube.com/channel/UCcffpRuB1hnpn7uiJ6GnDGA" target="_blank">
       <img src="assets/social/018-youtube.svg" height="30pt" alt="YouTube" /></a> 
@@ -101,7 +101,7 @@ page_sections:
       <img src="assets/social/012-network.svg" height="30pt" alt="Website" /></a>  
     <a href="mailto:hessen@vcp.de?subject=Pfadi%20Tag" target="_blank">
       <img src="assets/social/043-email.svg" height="30pt" alt="E-Mail" /></a> 
-  col_4: <a href="https://hessen.vcp.de" target="_blank"><img src="/assets/logo-vcp.png" width="100%" /></a>
+  col_4: <a href="https://hessen.vcp.de" target="_blank"><img src="assets/logo-vcp.png" width="100%" /></a>
   col_3: |
     <div class="block-header-2">
       <li class="nav-item">
