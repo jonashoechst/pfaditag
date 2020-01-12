@@ -17,7 +17,7 @@ page_sections:
     link_text: "Kontakt"
 
   cta:
-    button_text: "Stammesaktion Anmelden"
+    button_text: "Stamm Anmelden"
     url: |
       mailto:hessen@vcp.de?subject=Pfadi%20Tag%202020&body=Hallo Liebes Landesbüro,%0A
       %0A
