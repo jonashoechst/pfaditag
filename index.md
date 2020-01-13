@@ -13,6 +13,8 @@ page_sections:
     link_text: "Details"
   - link: "#map"
     link_text: "Vor Ort"
+  - link: "#posters"
+    link_text: "Poster"
   - link: "#contact"
     link_text: "Kontakt"
 
@@ -67,6 +69,23 @@ page_sections:
   content: Übersicht der Aktionen am Pfadi Tag in deiner Nähe!
   iframe: |
       <iframe width="100%" height="600px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/de/map/pfaditag-2020_406434?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=false&onLoadPanel=undefined&captionBar=false"></iframe>
+
+- template: detail-content
+  block: media-4
+  id: posters
+  images:
+    - image: assets/pfaditag-poster1.jpg
+      caption: "Poster 1: Essen"
+      link: downloads/pfaditag-poster1.jpg
+    - image: assets/pfaditag-poster2.jpg
+      caption: "Poster 2: Gute Nacht"
+      link: downloads/pfaditag-poster2.jpg
+    - image: assets/pfaditag-poster3.jpg
+      caption: "Poster 3: Gruppenleiter"
+      link: downloads/pfaditag-poster3.jpg
+    - image: assets/pfaditag-poster4.jpg
+      caption: "Poster 4: Singerunde"
+      link: downloads/pfaditag-poster4.jpg
 
 - block: mailto
   id: signup

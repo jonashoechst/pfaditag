@@ -1,0 +1,18 @@
+<section class="block block-media-2" id="{{ section.id }}">
+  <div class="container">
+    <div class="columns">
+      {% for image in section.images %}
+      <div class="column">
+        <figure>
+          <a {% if image.link %}href="{{ image.link }}" {% endif %}>
+            <img src="{{ image.image | relative_url }}" alt="{{ image.caption }}">
+          </a>
+          {% if image.caption %}
+          <figcaption>{{ image.caption }}</figcaption>
+          {% endif %}
+        </figure>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
