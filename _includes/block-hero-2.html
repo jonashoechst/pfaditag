@@ -1,3 +1,16 @@
+<style type="text/css" media="screen">
+  .image {
+    overflow: hidden;
+    transition-duration: 0.8s;
+    transition-property: transform;
+  }
+
+  .image:hover {
+    transform: rotate(30deg);
+    -webkit-transform: rotate(30deg);
+  }
+</style>
+
 <section class="block block-hero-2" {% if section.background_image %}
   style="background-image: url('{{ section.background_image | relative_url }}')" {% endif %} id="{{ section.id }}">
   <div class="container">
@@ -10,7 +23,7 @@
         {% endif %}
       </div>
       <div class="column media">
-        <img src="{{ section.image.image | relative_url }}" alt="{{ section.image.alt_text }}">
+        <img src="{{ section.image.image | relative_url }}" alt="{{ section.image.alt_text }}" class="image">
       </div>
     </div>
   </div>
