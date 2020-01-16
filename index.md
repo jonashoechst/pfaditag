@@ -51,14 +51,17 @@ page_sections:
   block: text-1
   id: detail
   headline: Pfadi was? 
-  content: <p>uBuild is an open-source Jekyll based theme that doubles as a builder
-    tool inside the Forestry content manager. It's easy to get started!</p><ol><li><p>Fork
-    the <a href="https://github.com/forestryio/ubuild-jekyll">repo</a> and import
-    the site into <a href="https://forestry.io/">Forestry</a> (or use <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks#even-quicker-start">our
-    magic button</a>).</p></li><li><p>Click on 'Add New' in Forestry and select the
-    Page-Builder template.</p></li><li><p>Add and customize the available Blocks and
-    preview them as you go along.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li></ol>
+  content: |
+    <p>Vielleicht hast Du ja schon was davon gehört, vielleicht hiermit zum ersten Mal. Ganz egal, hier die wichtigsten Infos zum Pfaditag.</p>
+    <ol>
+      <li><p><i>Was ist?</i> Der Pfaditag ist eine neue Aktion im VCP Hessen, die wir gerne mal ausprobieren möchten.</p> 
+      <li><p><i>Was genau?</i> Am Pfaditag macht Ihr Werbung für Euren Stamm und das, was Ihr genau erreichen wollt: eine neue Gruppe, neue Mitarbeitende, Geld, Liebe und Anerkennung – was auch immer.</p> 
+      <li><p><i>Wer macht?</i> Euer Stamm macht die Aktion vor Ort, so wie Ihr es braucht. Das Land unterstützt Euch mit einer Werbekampagne, Material und wenn Ihr wollt auch Besuch von der Landesführungsrunde.</p> 
+      <li><p><i>Wir sollen das ganze Wochenende...</i> könnt Ihr, muss aber nicht sein. Ob Eure Aktion jetzt 2 oder 72 Stunden geht bleibt ganz Euch überlassen. Schaut, was Ihr bewältigen könnt.</p> 
+      <li><p><i>Und was macht das Land?</i> Wir haben Plakate für Euch gestaltet, die Ihr nutzen könnt. Da ist Platz für Eure eigenen Infos. Wir haben Werbeschnickschnack und wir haben eine Backmischung für Kekse, die Ihr bestellen könnt. Dazu gibt es eine Homepage, auf der Ihr Ideen für die Durchführung bekommt. Wenn Ihr Lust habt, könnt Ihr auch jemand von der Lafü einladen, zum Helfen, hübsch sein, Reden halten, was auch immer. Je nachdem wie viele Stämme mitmachen, werben wir auch mehr und überregionaler?</p> 
+      <li><p><i>Aber wieso denn?</i> Jeder Stamm macht immer wieder Werbung für sich und organisiert dafür kleine Veranstaltungen. Genau das wollen wir unterstützen und ein bisschen bekannter machen, so dass vielleicht auch Leute vom Nachbarort kommen oder Menschen, die keinen Gemeindebrief lesen.</p> 
+      <li><p><i>Und jetzt?</i> Bitte gebt uns bis zur Landesversammlung am 13. März Rückmeldung, ob Euer Stamm da mitmachen möchte. Der allerletzte Anmeldeschluss ist der 24. April. </p> 
+    </ol>
 
 - template: content-feature
   block: iframe-1
