@@ -7,16 +7,16 @@ page_sections:
   block: header-2
   logo: "assets/logo-pfaditag.png"
   navigation:
-  - link: "#"
-    link_text: Home
+  # - link: "#"
+  #   link_text: Home
   - link: "#detail"
     link_text: "Details"
   - link: "#map"
     link_text: "Vor Ort"
   - link: "#posters"
-    link_text: "Poster"
-  - link: "#contact"
-    link_text: "Kontakt"
+    link_text: "Materialien"
+  # - link: "#contact"
+  #   link_text: "Kontakt"
 
   cta:
     button_text: "Stamm Anmelden"
@@ -53,15 +53,13 @@ page_sections:
   headline: Pfadi was? 
   content: |
     <p>Vielleicht hast Du ja schon was davon gehört, vielleicht hiermit zum ersten Mal. Ganz egal, hier die wichtigsten Infos zum Pfaditag.</p>
-    <ol>
-      <li><p><i>Was ist?</i> Der Pfaditag ist eine neue Aktion im VCP Hessen, die wir gerne mal ausprobieren möchten.</p> 
-      <li><p><i>Was genau?</i> Am Pfaditag macht Ihr Werbung für Euren Stamm und das, was Ihr genau erreichen wollt: eine neue Gruppe, neue Mitarbeitende, Geld, Liebe und Anerkennung – was auch immer.</p> 
-      <li><p><i>Wer macht?</i> Euer Stamm macht die Aktion vor Ort, so wie Ihr es braucht. Das Land unterstützt Euch mit einer Werbekampagne, Material und wenn Ihr wollt auch Besuch von der Landesführungsrunde.</p> 
-      <li><p><i>Wir sollen das ganze Wochenende...</i> könnt Ihr, muss aber nicht sein. Ob Eure Aktion jetzt 2 oder 72 Stunden geht bleibt ganz Euch überlassen. Schaut, was Ihr bewältigen könnt.</p> 
-      <li><p><i>Und was macht das Land?</i> Wir haben Plakate für Euch gestaltet, die Ihr nutzen könnt. Da ist Platz für Eure eigenen Infos. Wir haben Werbeschnickschnack und wir haben eine Backmischung für Kekse, die Ihr bestellen könnt. Dazu gibt es eine Homepage, auf der Ihr Ideen für die Durchführung bekommt. Wenn Ihr Lust habt, könnt Ihr auch jemand von der Lafü einladen, zum Helfen, hübsch sein, Reden halten, was auch immer. Je nachdem wie viele Stämme mitmachen, werben wir auch mehr und überregionaler?</p> 
-      <li><p><i>Aber wieso denn?</i> Jeder Stamm macht immer wieder Werbung für sich und organisiert dafür kleine Veranstaltungen. Genau das wollen wir unterstützen und ein bisschen bekannter machen, so dass vielleicht auch Leute vom Nachbarort kommen oder Menschen, die keinen Gemeindebrief lesen.</p> 
-      <li><p><i>Und jetzt?</i> Bitte gebt uns bis zur Landesversammlung am 13. März Rückmeldung, ob Euer Stamm da mitmachen möchte. Der allerletzte Anmeldeschluss ist der 24. April. </p> 
-    </ol>
+    <p><b>Was ist?</b> Der Pfaditag ist eine neue Aktion im VCP Hessen, die wir gerne mal ausprobieren möchten.</p> 
+    <p><b>Was genau?</b> Am Pfaditag macht Ihr Werbung für Euren Stamm und das, was Ihr genau erreichen wollt: eine neue Gruppe, neue Mitarbeitende, Geld, Liebe und Anerkennung – was auch immer.</p> 
+    <p><b>Wer macht?</b> Euer Stamm macht die Aktion vor Ort, so wie Ihr es braucht. Das Land unterstützt Euch mit einer Werbekampagne, Material und wenn Ihr wollt auch Besuch von der Landesführungsrunde.</p> 
+    <p><b>Wir sollen das ganze Wochenende...</b> könnt Ihr, muss aber nicht sein. Ob Eure Aktion jetzt 2 oder 72 Stunden geht bleibt ganz Euch überlassen. Schaut, was Ihr bewältigen könnt.</p> 
+    <p><b>Und was macht das Land?</b> Wir haben Plakate für Euch gestaltet, die Ihr nutzen könnt. Da ist Platz für Eure eigenen Infos. Wir haben Werbeschnickschnack und wir haben eine Backmischung für Kekse, die Ihr bestellen könnt. Dazu gibt es eine Homepage, auf der Ihr Ideen für die Durchführung bekommt. Wenn Ihr Lust habt, könnt Ihr auch jemand von der Lafü einladen, zum Helfen, hübsch sein, Reden halten, was auch immer. Je nachdem wie viele Stämme mitmachen, werben wir auch mehr und überregionaler?</p> 
+    <p><b>Aber wieso denn?</b> Jeder Stamm macht immer wieder Werbung für sich und organisiert dafür kleine Veranstaltungen. Genau das wollen wir unterstützen und ein bisschen bekannter machen, so dass vielleicht auch Leute vom Nachbarort kommen oder Menschen, die keinen Gemeindebrief lesen.</p> 
+    <p><b>Und jetzt?</b> Bitte gebt uns bis zur Landesversammlung am 13. März 2020 Rückmeldung, ob Euer Stamm da mitmachen möchte. Der allerletzte Anmeldeschluss ist der 24. April 2020. </p> 
 
 - template: content-feature
   block: iframe-1
