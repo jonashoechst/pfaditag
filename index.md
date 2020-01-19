@@ -112,21 +112,17 @@ page_sections:
   image: "assets/logo-pfaditag.png"
   col_2: | 
     <a href="https://www.youtube.com/channel/UCcffpRuB1hnpn7uiJ6GnDGA" target="_blank">
-      <img src="assets/social/018-youtube.svg" height="30pt" alt="YouTube" /></a> 
+      <img src="assets/social/018-youtube.svg" height="20pt" alt="YouTube" /></a> 
     <a href="https://www.facebook.com/VCPHessen/" target="_blank">
-      <img src="assets/social/013-facebook.svg" height="30pt" alt="Facebook" /></a> 
+      <img src="assets/social/013-facebook.svg" height="20pt" alt="Facebook" /></a> 
     <a href="https://www.instagram.com/vcp.hessen/" target="_blank">
-      <img src="assets/social/014-instagram.svg" height="30pt" alt="Instagram" /></a> 
+      <img src="assets/social/014-instagram.svg" height="20pt" alt="Instagram" /></a> 
     <a href="https://hessen.vcp.de" target="_blank">
-      <img src="assets/social/012-network.svg" height="30pt" alt="Website" /></a>  
+      <img src="assets/social/012-network.svg" height="20pt" alt="Website" /></a>  
     <a href="mailto:hessen@vcp.de?subject=Pfadi%20Tag" target="_blank">
-      <img src="assets/social/043-email.svg" height="30pt" alt="E-Mail" /></a> 
+      <img src="assets/social/043-email.svg" height="20pt" alt="E-Mail" /></a> 
   col_4: <a href="https://hessen.vcp.de" target="_blank"><img src="assets/logo-vcp.png" width="100%" /></a>
   col_3: |
-    <div class="block-header-2">
-      <li class="nav-item">
-        <a href="https://hessen.vcp.de/impressum" target="_blank">Impressum & Datenschutz</a>
-      </li>
-    </div>
+    <a href="https://hessen.vcp.de/impressum" target="_blank" style="text-decoration: none;">Impressum & Datenschutz</a> 
 
 ---
