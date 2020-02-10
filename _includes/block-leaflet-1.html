@@ -1,0 +1,52 @@
+<!-- Leaflet -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+  integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+  crossorigin="" />
+<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+  integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+  crossorigin=""></script>
+
+<!-- Leaflet Vector Markers -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="assets/leaflet-vector-markers.css">
+<script src="assets/leaflet-vector-markers.js"></script>
+
+{% if section.media_alignment and section.media_alignment == "Left" %}
+{% include block-leaflet-2.html %}
+{% else %}
+
+<section class="block block-feature-1" id="{{ section.id }}">
+  <div class="container">
+    <div class="columns">
+      <div class="column text">
+        <h2><span class="light">{{ section.headline }}</span></h2>
+        <p>{{ section.content }}</p>
+      </div>
+      <div class="column media">
+        <div id="{{ section.id }}-map" style="height: 800px;"></div>
+      </div>
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<script>
+  var map = L.map('{{ section.id }}-map').setView([50.50, 9.10], 8);
+  L.tileLayer('{{ section.tilesUrl }}', {attribution: '{{ section.attribution }}', }).addTo(map);
+
+  var redMarker = L.VectorMarkers.icon({ icon: 'circle', markerColor: '#e94854', prefix: 'fa' });
+
+  // L.marker([50.5554376, 9.6807718], { icon: redMarker }).addTo(map).bindPopup(
+  //   "<b>Stamm Graf Folke Bernadotte, Fulda</b><br> <a href='http://vcp-fd.de'>http://vcp-fd.de</a>");
+
+  // L.marker([50.8204667, 8.9193417], { icon: redMarker }).addTo(map).bindPopup(
+  //   "<b>Neuanfang Kirchhain</b>");
+
+  // L.marker([50.6743844, 8.8621879], { icon: redMarker }).addTo(map).bindPopup(
+  //   "<b>Stamm Martin Luther, Lumdatal</b>");
+  
+{% for m in section.markers %}
+  L.marker([{{ m.lat }}, {{ m.lon }}], { icon: redMarker }).addTo(map).bindPopup("{{ m.text }}");
+{% endfor %}
+
+</script>

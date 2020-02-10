@@ -62,14 +62,35 @@ page_sections:
     <p><b>Und jetzt?</b> Bitte gebt uns bis zur Landesversammlung am 13. März 2020 Rückmeldung, ob Euer Stamm da mitmachen möchte. Der allerletzte Anmeldeschluss ist der 24. April 2020. </p> 
 
 - template: content-feature
-  block: iframe-1
-  id: map
+  block: leaflet-1
+  id: events
   media_alignment: Right
   headline: <strong>Aktionen zum Mitmachen</strong><span
     class="light"> am Pfadi Tag 2020</span>
   content: Übersicht der Aktionen am Pfadi Tag in deiner Nähe!
-  iframe: |
-      <iframe width="100%" height="600px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/de/map/pfaditag-2020_406434?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=false&onLoadPanel=undefined&captionBar=false"></iframe>
+  tilesUrl: https://api.mapbox.com/styles/v1/mapbox/light-v10/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiaG9lY2hzdCIsImEiOiJjazVueDhyMWkwenpuM2RydzltNjhraDAzIn0.HntghYG9IBZvVd0bUJEY9Q
+  attribution: Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>
+  markers:
+    - text: <b>Landesbüro VCP Hessen, Bad Nauheim</b><br> <a href='https://hessen.vcp.de/'>https://hessen.vcp.de/</a>
+      lat: 50.36552
+      lon: 8.73049
+    # Kurhessen
+    - text: <b>Stamm Graf Folke Bernadotte, Fulda</b><br> <a href='http://vcp-fd.de'>http://vcp-fd.de</a>
+      lat: 50.5554376
+      lon: 9.6807718
+    - text: <b>Stamm Kirchhain</b><br> <a href='https://vcp-kirchhain.de'>https://vcp-kirchhain.de</a>
+      lat: 50.8204667
+      lon: 8.9193417
+    - text: <b>Stamm Martin Luther, Lumdatal</b><br> <a href='https://vcp-lumdatal.de'>https://vcp-lumdatal.de</a>
+      lat: 50.6743844
+      lon: 8.8621879
+    - text: <b>Stamm Mückenstürmer, Bad Hersfeld</b><br> <a href='https://vcp-hef.de'>https://vcp-hef.de</a>
+      lat: 50.8450519
+      lon: 9.7016599
+    # Rhein-Main
+    - text: <b>Stamm Schinderhannes, Taunusstein</b><br> <a href='http://www.vcp-taunusstein.de/'>http://www.vcp-taunusstein.de/</a>
+      lat: 50.1371867
+      lon: 8.1385843
 
 - template: detail-content
   block: media-4
