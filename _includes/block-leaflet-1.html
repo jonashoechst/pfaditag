@@ -32,21 +32,12 @@
 
 <script>
   var map = L.map('{{ section.id }}-map').setView([50.50, 9.10], 8);
-  L.tileLayer('{{ section.tilesUrl }}', {attribution: '{{ section.attribution }}', }).addTo(map);
+  L.tileLayer('{{ section.tilesUrl }}', { attribution: '{{ section.attribution }}', }).addTo(map);
 
   var redMarker = L.VectorMarkers.icon({ icon: 'circle', markerColor: '#e94854', prefix: 'fa' });
 
-  // L.marker([50.5554376, 9.6807718], { icon: redMarker }).addTo(map).bindPopup(
-  //   "<b>Stamm Graf Folke Bernadotte, Fulda</b><br> <a href='http://vcp-fd.de'>http://vcp-fd.de</a>");
-
-  // L.marker([50.8204667, 8.9193417], { icon: redMarker }).addTo(map).bindPopup(
-  //   "<b>Neuanfang Kirchhain</b>");
-
-  // L.marker([50.6743844, 8.8621879], { icon: redMarker }).addTo(map).bindPopup(
-  //   "<b>Stamm Martin Luther, Lumdatal</b>");
-  
-{% for m in section.markers %}
+  {% for m in section.markers %}
   L.marker([{{ m.lat }}, {{ m.lon }}], { icon: redMarker }).addTo(map).bindPopup("{{ m.text }}");
-{% endfor %}
+  {% endfor %}
 
 </script>
