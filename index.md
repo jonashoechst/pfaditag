@@ -95,7 +95,7 @@ page_sections:
 - template: detail-content
   block: media-4
   id: posters
-  caption: Poster von <a href="https://www.tobidahmen.de">Tobi Dahmen</a> &copy; VCP Hessen
+  caption: Poster von <a href="https://www.tobidahmen.de">Tobias Dahmen</a> &copy; VCP Hessen
   images:
     - image: assets/pfaditag-poster1.jpg
       caption: "Poster 1: Essen"
