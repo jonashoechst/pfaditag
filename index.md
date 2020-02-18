@@ -75,15 +75,18 @@ page_sections:
       lat: 50.36552
       lon: 8.73049
     # Kurhessen
-    # - text: <b>Stamm Graf Folke Bernadotte, Fulda</b><br> <a href='http://vcp-fd.de'>http://vcp-fd.de</a>
-    #   lat: 50.5554376
-    #   lon: 9.6807718
+    - text: <b>Stamm Graf Folke Bernadotte, Fulda</b><br> <a href='http://vcp-fd.de'>http://vcp-fd.de</a>
+      lat: 50.5554376
+      lon: 9.6807718
     - text: <b>Stamm Kirchhain</b><br> <a href='https://vcp-kirchhain.de'>https://vcp-kirchhain.de</a>
       lat: 50.8204667
       lon: 8.9193417
-    # - text: <b>Stamm Martin Luther, Lumdatal</b><br> <a href='https://vcp-lumdatal.de'>https://vcp-lumdatal.de</a>
-    #   lat: 50.6743844
-    #   lon: 8.8621879
+    - text: <b>Stamm Martin Luther, Lumdatal</b><br> <a href='https://vcp-lumdatal.de'>https://vcp-lumdatal.de</a>
+      lat: 50.6743844
+      lon: 8.8621879
+    - text: <b>Stamm Gottfried von Ebersberg, Hettenhausen</b><br> <a href='https://www.vcp-hettenhausen.de'>https://www.vcp-hettenhausen.de</a>
+      lat: 50.4518321
+      lon: 9.8146037
     # - text: <b>Stamm Mückenstürmer, Bad Hersfeld</b><br> <a href='https://vcp-hef.de'>https://vcp-hef.de</a>
     #   lat: 50.8450519
     #   lon: 9.7016599
