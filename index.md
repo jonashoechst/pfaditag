@@ -75,22 +75,31 @@ page_sections:
       lat: 50.36552
       lon: 8.73049
     # Kurhessen
-    - text: <b>Stamm Graf Folke Bernadotte, Fulda</b><br> <a href='http://vcp-fd.de'>http://vcp-fd.de</a>
-      lat: 50.5554376
-      lon: 9.6807718
+    # - text: <b>Stamm Graf Folke Bernadotte, Fulda</b><br> <a href='http://vcp-fd.de'>http://vcp-fd.de</a>
+    #   lat: 50.5554376
+    #   lon: 9.6807718
     - text: <b>Stamm Kirchhain</b><br> <a href='https://vcp-kirchhain.de'>https://vcp-kirchhain.de</a>
       lat: 50.8204667
       lon: 8.9193417
-    - text: <b>Stamm Martin Luther, Lumdatal</b><br> <a href='https://vcp-lumdatal.de'>https://vcp-lumdatal.de</a>
-      lat: 50.6743844
-      lon: 8.8621879
-    - text: <b>Stamm Mückenstürmer, Bad Hersfeld</b><br> <a href='https://vcp-hef.de'>https://vcp-hef.de</a>
-      lat: 50.8450519
-      lon: 9.7016599
+    # - text: <b>Stamm Martin Luther, Lumdatal</b><br> <a href='https://vcp-lumdatal.de'>https://vcp-lumdatal.de</a>
+    #   lat: 50.6743844
+    #   lon: 8.8621879
+    # - text: <b>Stamm Mückenstürmer, Bad Hersfeld</b><br> <a href='https://vcp-hef.de'>https://vcp-hef.de</a>
+    #   lat: 50.8450519
+    #   lon: 9.7016599
+    # Wetterau
+    - text: <b>Stamm Friedberg</b>
+      lat:  50.3323554
+      lon: 8.7519085
     # Rhein-Main
     - text: <b>Stamm Schinderhannes, Taunusstein</b><br> <a href='http://www.vcp-taunusstein.de/'>http://www.vcp-taunusstein.de/</a>
       lat: 50.1371867
       lon: 8.1385843
+    # Main-Kinzig
+    - text: <b>Stamm Eschersheim, Frankfurt</b><br> <a href='https://www.efrg.de/gemeindeleben/kinder-und-jugendliche/integrative-pfadfindergruppen/'>https://www.efrg.de/gemeindeleben/kinder-und-jugendliche/integrative-pfadfindergruppen//</a>
+      lat: 50.1452377
+      lon: 8.6674053
+    # Starkenburg
 
 - template: detail-content
   block: media-4
