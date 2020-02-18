@@ -14,5 +14,10 @@
       </div>
       {% endfor %}
     </div>
+    {% if section.caption %}
+    <figcaption>
+      {{ section.caption }}
+    </figcaption>
+    {% endif %}
   </div>
 </section>
