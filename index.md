@@ -21,17 +21,40 @@ page_sections:
   cta:
     button_text: "Stamm Anmelden"
     url: |
-      mailto:hessen@vcp.de?subject=Pfadi%20Tag%202020&body=Hallo Liebes Landesbüro,%0A
+      mailto:hessen@vcp.de?subject=Pfadi%20Tag%202020&body=Hallo,%0A
       %0A
       ich möchte eine Aktion meines Stammes zum Pfadi Tag 2020 anmelden. Dazu sind hier die wesentlichen Informationen für unsere Aktion.%0A
       %0A
-      Name: %0A
       Stamm: %0A
-      Aktion: %0A
-      Datum und Dauer: %0A
-      Beschreibung für die Website: %0A
+      Ansprechpartner*innen: %0A
+      Telefon: %0A
+      Email: %0A
+      Adresse: %0A
+      Ziel unserer Aktion (bitte ankreuzen):%0A
+          [ ] Kinder für unsere Gruppen%0A
+          [ ] neue Mitarbeitende%0A
+          [ ] Spenden für unseren Stamm%0A
+          [ ] Anerkennung im Ort%0A
+          [ ] Sonstiges: %0A
+      %0A
+      Dauer unserer Aktion:%0A
+          [ ] Freitag abend%0A
+          [ ] Samstag früh%0A
+          [ ] Samstag mittag%0A
+          [ ] Samstag abend%0A
+          [ ] Sonntag früh%0A
+          [ ] Sonntag mittag%0A
+      %0A
+      Wir können gebrauchen:%0A
+          [ ] Zeltmaterial%0A
+          [ ] Geräte zum Kochen%0A
+          [ ] Gast von der LaFü%0A
+          [ ] Geräte für Aktionen (Siebdruck, Buttonmaschine, Bälle, ...)%0A
+          [ ] Hessen-Keks-Backmischung für __ Kekse%0A
+          [ ] Sonstiges: %0A
       %0A
       Gut Pfad, %0A
+          %0A
 
 - template: hero-banner-w-image
   block: hero-2
@@ -125,20 +148,43 @@ page_sections:
 - block: mailto
   id: signup
   content: Melde deinen Stamm zum Pfadi Tag 2020 an...
-  teaser: "Hallo Liebes Landesbüro, ..."
+  teaser: "Hallo, ich möchte eine Aktion..."
   cta_text: "Anmelden"
   url: |
-      mailto:hessen@vcp.de?subject=Pfadi%20Tag%202020&body=Hallo Liebes Landesbüro,%0A
+      mailto:hessen@vcp.de?subject=Pfadi%20Tag%202020&body=Hallo,%0A
       %0A
       ich möchte eine Aktion meines Stammes zum Pfadi Tag 2020 anmelden. Dazu sind hier die wesentlichen Informationen für unsere Aktion.%0A
       %0A
-      Name: %0A
       Stamm: %0A
-      Aktion: %0A
-      Datum und Dauer: %0A
-      Beschreibung für die Website: %0A
+      Ansprechpartner*innen: %0A
+      Telefon: %0A
+      Email: %0A
+      Adresse: %0A
+      Ziel unserer Aktion (bitte ankreuzen):%0A
+          [ ] Kinder für unsere Gruppen%0A
+          [ ] neue Mitarbeitende%0A
+          [ ] Spenden für unseren Stamm%0A
+          [ ] Anerkennung im Ort%0A
+          [ ] Sonstiges: %0A
+      %0A
+      Dauer unserer Aktion:%0A
+          [ ] Freitag abend%0A
+          [ ] Samstag früh%0A
+          [ ] Samstag mittag%0A
+          [ ] Samstag abend%0A
+          [ ] Sonntag früh%0A
+          [ ] Sonntag mittag%0A
+      %0A
+      Wir können gebrauchen:%0A
+          [ ] Zeltmaterial%0A
+          [ ] Geräte zum Kochen%0A
+          [ ] Gast von der LaFü%0A
+          [ ] Geräte für Aktionen (Siebdruck, Buttonmaschine, Bälle, ...)%0A
+          [ ] Hessen-Keks-Backmischung für __ Kekse%0A
+          [ ] Sonstiges: %0A
       %0A
       Gut Pfad, %0A
+          %0A
 
 - template: footer
   block: footer-2
