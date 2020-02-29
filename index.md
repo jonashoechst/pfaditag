@@ -134,16 +134,16 @@ page_sections:
   images:
     - image: assets/pfaditag-poster1.jpg
       caption: "Poster 1: Essen"
-      link: downloads/pfaditag-poster1.jpg
+      link: assets/pfaditag-poster1.jpg
     - image: assets/pfaditag-poster2.jpg
       caption: "Poster 2: Gute Nacht"
-      link: downloads/pfaditag-poster2.jpg
+      link: assets/pfaditag-poster2.jpg
     - image: assets/pfaditag-poster3.jpg
       caption: "Poster 3: Gruppenleiter"
-      link: downloads/pfaditag-poster3.jpg
+      link: assets/pfaditag-poster3.jpg
     - image: assets/pfaditag-poster4.jpg
       caption: "Poster 4: Singerunde"
-      link: downloads/pfaditag-poster4.jpg
+      link: assets/pfaditag-poster4.jpg
 
 - block: mailto
   id: signup
