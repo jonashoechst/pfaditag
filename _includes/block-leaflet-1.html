@@ -11,6 +11,10 @@
 <link rel="stylesheet" href="assets/leaflet-vector-markers.css">
 <script src="assets/leaflet-vector-markers.js"></script>
 
+<!-- Leaflet Locate -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol/dist/L.Control.Locate.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol/dist/L.Control.Locate.min.js" charset="utf-8"></script>
+
 {% if section.media_alignment and section.media_alignment == "Left" %}
 {% include block-leaflet-2.html %}
 {% else %}
@@ -33,7 +37,8 @@
 <script>
   var map = L.map('{{ section.id }}-map').setView([50.50, 9.10], 8);
   L.tileLayer('{{ section.tilesUrl }}', { attribution: '{{ section.attribution }}', }).addTo(map);
-
+  var locator = L.control.locate({ locateOptions: { maxZoom: 9 } }).addTo(map);
+  locator.start();
   var redMarker = L.VectorMarkers.icon({ icon: 'circle', markerColor: '#e94854', prefix: 'fa' });
 
   {% for m in section.markers %}
