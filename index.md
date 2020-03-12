@@ -121,6 +121,9 @@ page_sections:
     - text: <b>Stamm Schinderhannes, Taunusstein</b><br> <a href='http://www.vcp-taunusstein.de/'>http://www.vcp-taunusstein.de/</a>
       lat: 50.1371867
       lon: 8.1385843
+    - text: <b>Stamm Franken, Wiesbaden Erbenheim</b><br> Unsere Aktion findet am 21.08.2020 statt.s
+      lat: 50.0583014
+      lon: 8.3030815
     # Main-Kinzig
     - text: <b>Stamm Eschersheim, Frankfurt</b><br> <a href='https://www.efrg.de/gemeindeleben/kinder-und-jugendliche/integrative-pfadfindergruppen/'>https://www.efrg.de/gemeindeleben/kinder-und-jugendliche/integrative-pfadfindergruppen//</a>
       lat: 50.1452377
