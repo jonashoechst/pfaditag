@@ -38,7 +38,7 @@
   var map = L.map('{{ section.id }}-map').setView([50.50, 9.10], 8);
   L.tileLayer('{{ section.tilesUrl }}', { attribution: '{{ section.attribution }}', }).addTo(map);
   var locator = L.control.locate({ locateOptions: { maxZoom: 9 } }).addTo(map);
-  locator.start();
+  // locator.start();
   var redMarker = L.VectorMarkers.icon({ icon: 'circle', markerColor: '#e94854', prefix: 'fa' });
 
   {% for m in section.markers %}
