@@ -121,7 +121,10 @@ page_sections:
     - text: <b>Stamm Schinderhannes, Taunusstein</b><br> <a href='http://www.vcp-taunusstein.de/'>http://www.vcp-taunusstein.de/</a>
       lat: 50.1371867
       lon: 8.1385843
-    - text: <b>Stamm Franken, Wiesbaden Erbenheim</b><br> Unsere Aktion findet am 21.08.2020 statt.s
+    - text: <b>Stamm Ottheinrich von der Pfalz, Ingelheim</b><br> <a href='https://www.vcp-ingelheim.de/'>https://www.vcp-ingelheim.de/</a>
+      lat: 49.9649018
+      lon: 8.0619247
+    - text: <b>Stamm Franken, Wiesbaden Erbenheim</b><br> Unsere Aktion findet bereits am 21.08.2020 statt.
       lat: 50.0583014
       lon: 8.3030815
     # Main-Kinzig
