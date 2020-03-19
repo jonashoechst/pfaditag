@@ -127,6 +127,9 @@ page_sections:
     - text: <b>Stamm Franken, Wiesbaden Erbenheim</b><br> Unsere Aktion findet bereits am 21.08.2020 statt.
       lat: 50.0583014
       lon: 8.3030815
+    - text: <b>Stamm Ansgar, Dauborn</b><br> <a href='http://vcp-dauborn.de/'>http://vcp-dauborn.de/</a>
+      lat: 50.3277451
+      lon: 8.1744336
     # Main-Kinzig
     - text: <b>Stamm Eschersheim, Frankfurt</b><br> <a href='https://www.efrg.de/gemeindeleben/kinder-und-jugendliche/integrative-pfadfindergruppen/'>https://www.efrg.de/gemeindeleben/kinder-und-jugendliche/integrative-pfadfindergruppen//</a>
       lat: 50.1452377
