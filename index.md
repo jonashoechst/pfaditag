@@ -117,6 +117,9 @@ page_sections:
     - text: <b>Stamm Friedberg</b>
       lat:  50.3323554
       lon: 8.7519085
+    - text: <b>Stamm Kojoten, Nieder Mörlen</b>
+      lat:  50.3620209
+      lon: 8.7539428
     # Rhein-Main
     - text: <b>Stamm Schinderhannes, Taunusstein</b><br> <a href='http://www.vcp-taunusstein.de/'>http://www.vcp-taunusstein.de/</a>
       lat: 50.1371867
