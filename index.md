@@ -133,6 +133,12 @@ page_sections:
     - text: <b>Stamm Ansgar, Dauborn</b><br> <a href='http://vcp-dauborn.de/'>http://vcp-dauborn.de/</a>
       lat: 50.3277451
       lon: 8.1744336
+    - text: <b>Stamm Sophie Scholl, Neuenhain</b><br> <a href='http://vcp-rhein-main.de/staemme/vcp-neuenhain/'>http://vcp-rhein-main.de/staemme/vcp-neuenhain/</a>
+      lat: 50.1602265
+      lon: 8.4708935
+    - text: <b>Stamm Ulrich von Hutten, Weilbach</b><br> <a href='http://vcp-rhein-main.de/staemme/vcp-weilbach/'>http://vcp-rhein-main.de/staemme/vcp-weilbach/</a>
+      lat: 50.0429466
+      lon: 8.4301517
     # Main-Kinzig
     - text: <b>Stamm Eschersheim, Frankfurt</b><br> <a href='https://www.efrg.de/gemeindeleben/kinder-und-jugendliche/integrative-pfadfindergruppen/'>https://www.efrg.de/gemeindeleben/kinder-und-jugendliche/integrative-pfadfindergruppen//</a>
       lat: 50.1452377
