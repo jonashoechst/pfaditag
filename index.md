@@ -140,10 +140,13 @@ page_sections:
       lat: 50.0429466
       lon: 8.4301517
     # Main-Kinzig
-    - text: <b>Stamm Eschersheim, Frankfurt</b><br> <a href='https://www.efrg.de/gemeindeleben/kinder-und-jugendliche/integrative-pfadfindergruppen/'>https://www.efrg.de/gemeindeleben/kinder-und-jugendliche/integrative-pfadfindergruppen//</a>
+    - text: <b>Stamm Eschersheim, Frankfurt</b><br> <a href='https://www.efrg.de/gemeindeleben/kinder-und-jugendliche/integrative-pfadfindergruppen/'>https://www.efrg.de/gemeindeleben/kinder-und-jugendliche/integrative-pfadfindergruppen/</a>
       lat: 50.1452377
       lon: 8.6674053
     # Starkenburg
+    - text: <b>Stamm Eldar, Pfungstadt</b><br> <a href='http://vcp-pfungstadt.de/'>http://vcp-pfungstadt.de/</a>
+      lat: 49.7982247
+      lon: 8.6094998
 
 - template: detail-content
   block: media-4
