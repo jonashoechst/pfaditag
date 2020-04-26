@@ -147,6 +147,9 @@ page_sections:
     - text: <b>Stamm Eldar, Pfungstadt</b><br> <a href='http://vcp-pfungstadt.de/'>http://vcp-pfungstadt.de/</a>
       lat: 49.7982247
       lon: 8.6094998
+    - text: <b>Stamm Wikinger, Ober-Ramstadt</b>
+      lat: 49.8307499
+      lon: 8.7443319
 
 - template: detail-content
   block: media-4
