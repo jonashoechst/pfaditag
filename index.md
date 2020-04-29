@@ -150,6 +150,9 @@ page_sections:
     - text: <b>Stamm Wikinger, Ober-Ramstadt</b>
       lat: 49.8307499
       lon: 8.7443319
+    - text: <b>Stamm Masilla, Messel</b>
+      lat: 49.9397811
+      lon: 8.7413121
 
 - template: detail-content
   block: media-4
