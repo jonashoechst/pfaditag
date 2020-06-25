@@ -132,9 +132,9 @@ page_sections:
     - text: <b>Stamm Gottfried von Ebersberg, Hettenhausen</b><br> <a href='https://www.vcp-hettenhausen.de'>https://www.vcp-hettenhausen.de</a>
       lat: 50.4518321
       lon: 9.8146037
-    # - text: <b>Stamm Mückenstürmer, Bad Hersfeld</b><br> <a href='https://vcp-hef.de'>https://vcp-hef.de</a>
-    #   lat: 50.8450519
-    #   lon: 9.7016599
+    - text: <b>Stamm Mückenstürmer, Bad Hersfeld</b><br> <a href='https://vcp-hef.de'>https://vcp-hef.de</a>
+      lat: 50.8450519
+      lon: 9.7016599
     # Wetterau
     - text: <b>Stamm Friedberg</b>
       lat:  50.3323554
@@ -149,9 +149,9 @@ page_sections:
     - text: <b>Stamm Ottheinrich von der Pfalz, Ingelheim</b><br> <a href='https://www.vcp-ingelheim.de/'>https://www.vcp-ingelheim.de/</a>
       lat: 49.9649018
       lon: 8.0619247
-    - text: <b>Stamm Franken, Wiesbaden Erbenheim</b><br> Unsere Aktion findet bereits am 21.08.2020 statt.
-      lat: 50.0583014
-      lon: 8.3030815
+    # - text: <b>Stamm Franken, Wiesbaden Erbenheim</b><br> Unsere Aktion findet bereits am 21.08.2020 statt.
+    #   lat: 50.0583014
+    #   lon: 8.3030815
     - text: <b>Stamm Ansgar, Dauborn</b><br> <a href='http://vcp-dauborn.de/'>http://vcp-dauborn.de/</a>
       lat: 50.3277451
       lon: 8.1744336
