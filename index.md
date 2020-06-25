@@ -9,6 +9,8 @@ page_sections:
   navigation:
   # - link: "#"
   #   link_text: Home
+  - link: "#trailer"
+    link_text: "Pfadfinder?"
   - link: "#detail"
     link_text: "Details"
   - link: "#map"
@@ -18,43 +20,47 @@ page_sections:
   # - link: "#contact"
   #   link_text: "Kontakt"
 
+  # cta:
+  #   button_text: "Stamm Anmelden"
+  #   url: |
+  #     mailto:hessen@vcp.de?subject=Pfadi%20Tag%202020&body=Hallo,%0A
+  #     %0A
+  #     ich möchte eine Aktion meines Stammes zum Pfadi Tag 2020 anmelden. Dazu sind hier die wesentlichen Informationen für unsere Aktion.%0A
+  #     %0A
+  #     Stamm: %0A
+  #     Ansprechpartner*innen: %0A
+  #     Telefon: %0A
+  #     Email: %0A
+  #     Adresse: %0A
+  #     Ziel unserer Aktion (bitte ankreuzen):%0A
+  #         [ ] Kinder für unsere Gruppen%0A
+  #         [ ] neue Mitarbeitende%0A
+  #         [ ] Spenden für unseren Stamm%0A
+  #         [ ] Anerkennung im Ort%0A
+  #         [ ] Sonstiges: %0A
+  #     %0A
+  #     Dauer unserer Aktion:%0A
+  #         [ ] Freitag abend%0A
+  #         [ ] Samstag früh%0A
+  #         [ ] Samstag mittag%0A
+  #         [ ] Samstag abend%0A
+  #         [ ] Sonntag früh%0A
+  #         [ ] Sonntag mittag%0A
+  #     %0A
+  #     Wir können gebrauchen:%0A
+  #         [ ] Zeltmaterial%0A
+  #         [ ] Geräte zum Kochen%0A
+  #         [ ] Gast von der LaFü%0A
+  #         [ ] Geräte für Aktionen (Siebdruck, Buttonmaschine, Bälle, ...)%0A
+  #         [ ] Hessen-Keks-Backmischung für __ Kekse%0A
+  #         [ ] Sonstiges: %0A
+  #     %0A
+  #     Gut Pfad, %0A
+  #         %0A
+
   cta:
-    button_text: "Stamm Anmelden"
-    url: |
-      mailto:hessen@vcp.de?subject=Pfadi%20Tag%202020&body=Hallo,%0A
-      %0A
-      ich möchte eine Aktion meines Stammes zum Pfadi Tag 2020 anmelden. Dazu sind hier die wesentlichen Informationen für unsere Aktion.%0A
-      %0A
-      Stamm: %0A
-      Ansprechpartner*innen: %0A
-      Telefon: %0A
-      Email: %0A
-      Adresse: %0A
-      Ziel unserer Aktion (bitte ankreuzen):%0A
-          [ ] Kinder für unsere Gruppen%0A
-          [ ] neue Mitarbeitende%0A
-          [ ] Spenden für unseren Stamm%0A
-          [ ] Anerkennung im Ort%0A
-          [ ] Sonstiges: %0A
-      %0A
-      Dauer unserer Aktion:%0A
-          [ ] Freitag abend%0A
-          [ ] Samstag früh%0A
-          [ ] Samstag mittag%0A
-          [ ] Samstag abend%0A
-          [ ] Sonntag früh%0A
-          [ ] Sonntag mittag%0A
-      %0A
-      Wir können gebrauchen:%0A
-          [ ] Zeltmaterial%0A
-          [ ] Geräte zum Kochen%0A
-          [ ] Gast von der LaFü%0A
-          [ ] Geräte für Aktionen (Siebdruck, Buttonmaschine, Bälle, ...)%0A
-          [ ] Hessen-Keks-Backmischung für __ Kekse%0A
-          [ ] Sonstiges: %0A
-      %0A
-      Gut Pfad, %0A
-          %0A
+    button_text: "Kontakt"
+    url: mailto:hessen@vcp.de?subject=Pfadi%20Tag%202020
 
 - template: hero-banner-w-image
   block: hero-2
@@ -62,31 +68,47 @@ page_sections:
   headline: Pfadi Tag <br><strong>... und Kekse haben wir auch!</strong>
   content: "28. - 30. August 2020"
   cta:
-    enabled: false
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    enabled: true
+    url: "#trailer"
+    button_text: 'Pfadfinder?'
   image:
     image: "assets/keks.png"
-    alt_text: Product Shot
+    alt_text: "Ein angebissener Pfadfinderkeks."
   background_image: "assets/hero-2-bg.png"
+
+# - template: detail-content
+#   block: text-1
+#   id: detail
+#   headline: Pfadi was? 
+#   content: |
+#     <p>Vielleicht hast Du ja schon was davon gehört, vielleicht hiermit zum ersten Mal. Ganz egal, hier die wichtigsten Infos zum Pfaditag.</p>
+#     <p><b>Was ist?</b> Der Pfaditag ist eine neue Aktion im VCP Hessen, die wir gerne mal ausprobieren möchten.</p> 
+#     <p><b>Was genau?</b> Am Pfaditag macht Ihr Werbung für Euren Stamm und das, was Ihr genau erreichen wollt: eine neue Gruppe, neue Mitarbeitende, Geld, Liebe und Anerkennung – was auch immer.</p> 
+#     <p><b>Wer macht?</b> Euer Stamm macht die Aktion vor Ort, so wie Ihr es braucht. Das Land unterstützt Euch mit einer Werbekampagne, Material und wenn Ihr wollt auch Besuch von der Landesführungsrunde.</p> 
+#     <p><b>Wir sollen das ganze Wochenende...</b> könnt Ihr, muss aber nicht sein. Ob Eure Aktion jetzt 2 oder 72 Stunden geht bleibt ganz Euch überlassen. Schaut, was Ihr bewältigen könnt.</p> 
+#     <p><b>Und was macht das Land?</b> Wir haben Plakate für Euch gestaltet, die Ihr nutzen könnt. Da ist Platz für Eure eigenen Infos. Wir haben Werbeschnickschnack und wir haben eine Backmischung für Kekse, die Ihr bestellen könnt. Dazu gibt es eine Homepage, auf der Ihr Ideen für die Durchführung bekommt. Wenn Ihr Lust habt, könnt Ihr auch jemand von der Lafü einladen, zum Helfen, hübsch sein, Reden halten, was auch immer. Je nachdem wie viele Stämme mitmachen, werben wir auch mehr und überregionaler?</p> 
+#     <p><b>Aber wieso denn?</b> Jeder Stamm macht immer wieder Werbung für sich und organisiert dafür kleine Veranstaltungen. Genau das wollen wir unterstützen und ein bisschen bekannter machen, so dass vielleicht auch Leute vom Nachbarort kommen oder Menschen, die keinen Gemeindebrief lesen.</p> 
+#     <p><b>Und jetzt?</b> Bitte gebt uns bis zur Landesversammlung am 13. März 2020 Rückmeldung, ob Euer Stamm da mitmachen möchte. Der allerletzte Anmeldeschluss ist der 24. April 2020. </p> 
+
+- template: content-feature
+  block: iframe-1
+  id: trailer
+  headline: Pfadfinder?
+  iframe: <iframe src="https://www.youtube.com/embed/62mAaBb8EnY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - template: detail-content
   block: text-1
   id: detail
-  headline: Pfadi was? 
+  headline: Draußen sein, Gemeinschaft erleben, Verantwortung übernehmen – und viel viel Spaß haben.
   content: |
-    <p>Vielleicht hast Du ja schon was davon gehört, vielleicht hiermit zum ersten Mal. Ganz egal, hier die wichtigsten Infos zum Pfaditag.</p>
-    <p><b>Was ist?</b> Der Pfaditag ist eine neue Aktion im VCP Hessen, die wir gerne mal ausprobieren möchten.</p> 
-    <p><b>Was genau?</b> Am Pfaditag macht Ihr Werbung für Euren Stamm und das, was Ihr genau erreichen wollt: eine neue Gruppe, neue Mitarbeitende, Geld, Liebe und Anerkennung – was auch immer.</p> 
-    <p><b>Wer macht?</b> Euer Stamm macht die Aktion vor Ort, so wie Ihr es braucht. Das Land unterstützt Euch mit einer Werbekampagne, Material und wenn Ihr wollt auch Besuch von der Landesführungsrunde.</p> 
-    <p><b>Wir sollen das ganze Wochenende...</b> könnt Ihr, muss aber nicht sein. Ob Eure Aktion jetzt 2 oder 72 Stunden geht bleibt ganz Euch überlassen. Schaut, was Ihr bewältigen könnt.</p> 
-    <p><b>Und was macht das Land?</b> Wir haben Plakate für Euch gestaltet, die Ihr nutzen könnt. Da ist Platz für Eure eigenen Infos. Wir haben Werbeschnickschnack und wir haben eine Backmischung für Kekse, die Ihr bestellen könnt. Dazu gibt es eine Homepage, auf der Ihr Ideen für die Durchführung bekommt. Wenn Ihr Lust habt, könnt Ihr auch jemand von der Lafü einladen, zum Helfen, hübsch sein, Reden halten, was auch immer. Je nachdem wie viele Stämme mitmachen, werben wir auch mehr und überregionaler?</p> 
-    <p><b>Aber wieso denn?</b> Jeder Stamm macht immer wieder Werbung für sich und organisiert dafür kleine Veranstaltungen. Genau das wollen wir unterstützen und ein bisschen bekannter machen, so dass vielleicht auch Leute vom Nachbarort kommen oder Menschen, die keinen Gemeindebrief lesen.</p> 
-    <p><b>Und jetzt?</b> Bitte gebt uns bis zur Landesversammlung am 13. März 2020 Rückmeldung, ob Euer Stamm da mitmachen möchte. Der allerletzte Anmeldeschluss ist der 24. April 2020. </p> 
+    <p><b>Pfadfinden</b> bietet so vieles und ist damit top aktuell. Bei uns können Kinder und Jugendliche echte Erfahrungen machen. In wöchentlichen Gruppenstunden lernen sie sich und viele Pfadfindertechniken kennen. Auf Fahrten und Zeltlagern können sie ausprobieren und erleben, wie toll es ist, wenn man sich in der Gruppe aufeinander verlassen kann. Jede*r bringt seine Fähigkeiten ein. Als christliche Pfadfinder*innen sind wir offen für alle und zugleich klar in unserer Überzeugung: wir wollen die Natur schützen, wir stehen für eine Gesellschaft ohne Rassismus und für soziale Verantwortung.</p>
+    <p><b>Bei uns</b> engagieren sich junge Menschen ehrenamtlich für Kinder und Jugendliche.  Das macht unseren Verband bunt, lebendig, manchmal ein bisschen chaotisch und immer demokratischen Entscheidungen verpflichtet. Die Gruppen vor Ort, die sogenannten Stämme, machen dabei ihr eigenes Programm und sind oft Teil einer lebendigen Gemeindearbeit.</p>
+    <p><b>Beim Pfaditag 2020</b> stellen sich die Stämme des VCP Hessen vor. Bestimmt ist einer in Ihrer Nähe. Schauen Sie doch mal mit ihren Kindern vorbei und erleben sie, was die Pfadfinder*innen so alles zu bieten haben.</p>
+
 
 - template: content-feature
   block: leaflet-1
-  id: events
+  id: map
   media_alignment: Right
   headline: <strong>Aktionen zum Mitmachen</strong><span
     class="light"> am Pfadi Tag 2020</span>
@@ -172,46 +194,53 @@ page_sections:
       caption: "Poster 4: Singerunde"
       link: assets/pfaditag-poster4.jpg
 
+# - block: mailto
+#   id: signup
+#   content: Melde deinen Stamm zum Pfadi Tag 2020 an...
+#   teaser: "Hallo, ich möchte eine Aktion..."
+#   cta_text: "Anmelden"
+#   url: |
+#       mailto:hessen@vcp.de?subject=Pfadi%20Tag%202020&body=Hallo,%0A
+#       %0A
+#       ich möchte eine Aktion meines Stammes zum Pfadi Tag 2020 anmelden. Dazu sind hier die wesentlichen Informationen für unsere Aktion.%0A
+#       %0A
+#       Stamm: %0A
+#       Ansprechpartner*innen: %0A
+#       Telefon: %0A
+#       Email: %0A
+#       Adresse: %0A
+#       Ziel unserer Aktion (bitte ankreuzen):%0A
+#           [ ] Kinder für unsere Gruppen%0A
+#           [ ] neue Mitarbeitende%0A
+#           [ ] Spenden für unseren Stamm%0A
+#           [ ] Anerkennung im Ort%0A
+#           [ ] Sonstiges: %0A
+#       %0A
+#       Dauer unserer Aktion:%0A
+#           [ ] Freitag abend%0A
+#           [ ] Samstag früh%0A
+#           [ ] Samstag mittag%0A
+#           [ ] Samstag abend%0A
+#           [ ] Sonntag früh%0A
+#           [ ] Sonntag mittag%0A
+#       %0A
+#       Wir können gebrauchen:%0A
+#           [ ] Zeltmaterial%0A
+#           [ ] Geräte zum Kochen%0A
+#           [ ] Gast von der LaFü%0A
+#           [ ] Geräte für Aktionen (Siebdruck, Buttonmaschine, Bälle, ...)%0A
+#           [ ] Hessen-Keks-Backmischung für __ Kekse%0A
+#           [ ] Sonstiges: %0A
+#       %0A
+#       Gut Pfad, %0A
+#           %0A
+
 - block: mailto
   id: signup
-  content: Melde deinen Stamm zum Pfadi Tag 2020 an...
-  teaser: "Hallo, ich möchte eine Aktion..."
-  cta_text: "Anmelden"
-  url: |
-      mailto:hessen@vcp.de?subject=Pfadi%20Tag%202020&body=Hallo,%0A
-      %0A
-      ich möchte eine Aktion meines Stammes zum Pfadi Tag 2020 anmelden. Dazu sind hier die wesentlichen Informationen für unsere Aktion.%0A
-      %0A
-      Stamm: %0A
-      Ansprechpartner*innen: %0A
-      Telefon: %0A
-      Email: %0A
-      Adresse: %0A
-      Ziel unserer Aktion (bitte ankreuzen):%0A
-          [ ] Kinder für unsere Gruppen%0A
-          [ ] neue Mitarbeitende%0A
-          [ ] Spenden für unseren Stamm%0A
-          [ ] Anerkennung im Ort%0A
-          [ ] Sonstiges: %0A
-      %0A
-      Dauer unserer Aktion:%0A
-          [ ] Freitag abend%0A
-          [ ] Samstag früh%0A
-          [ ] Samstag mittag%0A
-          [ ] Samstag abend%0A
-          [ ] Sonntag früh%0A
-          [ ] Sonntag mittag%0A
-      %0A
-      Wir können gebrauchen:%0A
-          [ ] Zeltmaterial%0A
-          [ ] Geräte zum Kochen%0A
-          [ ] Gast von der LaFü%0A
-          [ ] Geräte für Aktionen (Siebdruck, Buttonmaschine, Bälle, ...)%0A
-          [ ] Hessen-Keks-Backmischung für __ Kekse%0A
-          [ ] Sonstiges: %0A
-      %0A
-      Gut Pfad, %0A
-          %0A
+  content: Noch Fragen? Schreibe unserem Landesbüro...
+  teaser: "Hallo, ..."
+  cta_text: "E-Mail schreiben"
+  url: mailto:hessen@vcp.de?subject=Pfadi%20Tag%202020
 
 - template: footer
   block: footer-2
