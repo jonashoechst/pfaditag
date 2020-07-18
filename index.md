@@ -123,7 +123,7 @@ page_sections:
     - text: <b>Stamm Graf Folke Bernadotte, Fulda</b><br> <a href='http://vcp-fd.de'>http://vcp-fd.de</a>
       lat: 50.5554376
       lon: 9.6807718
-    - text: <b>Stamm Kirchhain</b><br> <a href='https://vcp-kirchhain.de'>https://vcp-kirchhain.de</a>
+    - text: <b>Neuanfang, Kirchhain</b><br> <a href='https://vcp-kirchhain.de'>https://vcp-kirchhain.de</a>
       lat: 50.8204667
       lon: 8.9193417
     - text: <b>Stamm Martin Luther, Lumdatal</b><br> <a href='https://vcp-lumdatal.de'>https://vcp-lumdatal.de</a>
@@ -135,6 +135,12 @@ page_sections:
     - text: <b>Stamm Mückenstürmer, Bad Hersfeld</b><br> <a href='https://vcp-hef.de'>https://vcp-hef.de</a>
       lat: 50.8450519
       lon: 9.7016599
+    - text: <b>Stamm St. Georg, Hann. Münden</b><br> <a href='https://vcp-muenden.de'>https://vcp-muenden.de</a>
+      lat: 51.4131858
+      lon: 9.6522681
+    - text: <b>Neuanfang, Niestetal</b><br> <a href='https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/'>https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/</a>
+      lat: 51.3068659
+      lon: 9.5797486
     # Wetterau
     - text: <b>Stamm Friedberg</b>
       lat:  50.3323554
