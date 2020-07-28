@@ -116,71 +116,111 @@ page_sections:
   tilesUrl: https://api.mapbox.com/styles/v1/mapbox/light-v10/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiaG9lY2hzdCIsImEiOiJjazVueDhyMWkwenpuM2RydzltNjhraDAzIn0.HntghYG9IBZvVd0bUJEY9Q
   attribution: Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>
   markers:
-    - text: <b>Landesbüro VCP Hessen, Bad Nauheim</b><br> <a href='https://hessen.vcp.de/'>https://hessen.vcp.de/</a>
+    - text: >-
+        <b>Landesbüro VCP Hessen, Bad Nauheim</b><br> 
+        <a href='https://hessen.vcp.de/'>https://hessen.vcp.de/</a>
       lat: 50.36552
       lon: 8.73049
     # Kurhessen
-    - text: <b>Stamm Graf Folke Bernadotte, Fulda</b><br> <a href='http://vcp-fd.de'>http://vcp-fd.de</a>
+    - text: >-
+        <b>Stamm Graf Folke Bernadotte, Fulda</b><br> 
+        <a href='http://vcp-fd.de'>http://vcp-fd.de</a>
       lat: 50.5554376
       lon: 9.6807718
-    - text: <b>Neuanfang, Kirchhain</b><br> <a href='https://vcp-kirchhain.de'>https://vcp-kirchhain.de</a>
+    - text: >-
+        <b>Neuanfang, Kirchhain</b><br> 
+        <a href='https://vcp-kirchhain.de'>https://vcp-kirchhain.de</a>
       lat: 50.8204667
       lon: 8.9193417
-    - text: <b>Stamm Martin Luther, Lumdatal</b><br> <a href='https://vcp-lumdatal.de'>https://vcp-lumdatal.de</a>
+    - text: >-
+        <b>Stamm Martin Luther, Lumdatal</b><br> 
+        <a href='https://vcp-lumdatal.de'>https://vcp-lumdatal.de</a>
       lat: 50.6743844
       lon: 8.8621879
-    - text: <b>Stamm Gottfried von Ebersberg, Hettenhausen</b><br> <a href='https://www.vcp-hettenhausen.de'>https://www.vcp-hettenhausen.de</a>
+    - text: >-
+        <b>Stamm Gottfried von Ebersberg, Hettenhausen</b><br> 
+        <a href='https://www.vcp-hettenhausen.de'>https://www.vcp-hettenhausen.de</a>
       lat: 50.4518321
       lon: 9.8146037
-    - text: <b>Stamm Mückenstürmer, Bad Hersfeld</b><br> <a href='https://vcp-hef.de'>https://vcp-hef.de</a>
+    - text: >-
+        <b>Stamm Mückenstürmer, Bad Hersfeld</b><br> 
+        <a href='https://vcp-hef.de'>https://vcp-hef.de</a>
       lat: 50.8450519
       lon: 9.7016599
-    - text: <b>Stamm St. Georg, Hann. Münden</b><br> <a href='https://vcp-muenden.de'>https://vcp-muenden.de</a>
+    - text: >-
+        <b>Stamm St. Georg, Hann. Münden</b><br> 
+        <a href='https://vcp-muenden.de'>https://vcp-muenden.de</a>
       lat: 51.4131858
       lon: 9.6522681
-    - text: <b>Neuanfang, Niestetal</b><br> <a href='https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/'>https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/</a>
+    - text: >-
+        <b>Neuanfang, Niestetal</b><br> 
+        <a href='https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/'>https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/</a>
       lat: 51.3068659
       lon: 9.5797486
     # Wetterau
-    - text: <b>Stamm Friedberg</b>
-      lat:  50.3323554
-      lon: 8.7519085
-    - text: <b>Stamm Kojoten, Nieder Mörlen</b>
-      lat:  50.3620209
+    # - text: >-
+    #     <b>Stamm Friedberg</b> # Machen doch nicht mit.
+    #   lat:  50.3323554
+    #   lon: 8.7519085
+    - text: >-
+        <b>Stamm Kojoten, Nieder Mörlen</b>
+      lat: 50.3620209
       lon: 8.7539428
     # Rhein-Main
-    - text: <b>Stamm Schinderhannes, Taunusstein</b><br> <a href='http://www.vcp-taunusstein.de/'>http://www.vcp-taunusstein.de/</a>
+    - text: >-
+        <b>Stamm Schinderhannes, Taunusstein</b><br> 
+        <a href='http://www.vcp-taunusstein.de/'>http://www.vcp-taunusstein.de/</a>
       lat: 50.1371867
       lon: 8.1385843
-    - text: <b>Stamm Ottheinrich von der Pfalz, Ingelheim</b><br> <a href='https://www.vcp-ingelheim.de/'>https://www.vcp-ingelheim.de/</a>
+    - text: >-
+        <b>Stamm Ottheinrich von der Pfalz, Ingelheim</b><br> 
+        <a href='https://www.vcp-ingelheim.de/'>https://www.vcp-ingelheim.de/</a>
       lat: 49.9649018
       lon: 8.0619247
-    # - text: <b>Stamm Franken, Wiesbaden Erbenheim</b><br> Unsere Aktion findet bereits am 21.08.2020 statt.
+    # - text: >-
+    #     <b>Stamm Franken, Wiesbaden Erbenheim</b><br> Unsere Aktion findet bereits am 21.08.2020 statt.
     #   lat: 50.0583014
     #   lon: 8.3030815
-    - text: <b>Stamm Ansgar, Dauborn</b><br> <a href='http://vcp-dauborn.de/'>http://vcp-dauborn.de/</a>
+    - text: >-
+        <b>Stamm Ansgar, Dauborn</b><br> 
+        <a href='http://vcp-dauborn.de/'>http://vcp-dauborn.de/</a>
       lat: 50.3277451
       lon: 8.1744336
-    - text: <b>Stamm Sophie Scholl, Neuenhain</b><br> <a href='http://vcp-rhein-main.de/staemme/vcp-neuenhain/'>http://vcp-rhein-main.de/staemme/vcp-neuenhain/</a>
+    - text: >-
+        <b>Stamm Sophie Scholl, Neuenhain</b><br> 
+        <a href='http://vcp-rhein-main.de/staemme/vcp-neuenhain/'>http://vcp-rhein-main.de/staemme/vcp-neuenhain/</a>
       lat: 50.1602265
       lon: 8.4708935
-    - text: <b>Stamm Ulrich von Hutten, Weilbach</b><br> <a href='http://vcp-rhein-main.de/staemme/vcp-weilbach/'>http://vcp-rhein-main.de/staemme/vcp-weilbach/</a>
+    - text: >-
+        <b>Stamm Ulrich von Hutten, Weilbach</b><br> 
+        <a href='http://vcp-rhein-main.de/staemme/vcp-weilbach/'>http://vcp-rhein-main.de/staemme/vcp-weilbach/</a>
       lat: 50.0429466
       lon: 8.4301517
     # Main-Kinzig
-    - text: <b>Stamm Eschersheim, Frankfurt</b><br> <a href='https://www.efrg.de/gemeindeleben/kinder-und-jugendliche/integrative-pfadfindergruppen/'>https://www.efrg.de/gemeindeleben/kinder-und-jugendliche/integrative-pfadfindergruppen/</a>
+    - text: >-
+        <b>Stamm Eschersheim, Frankfurt</b><br> 
+        <a href='https://www.efrg.de/gemeindeleben/kinder-und-jugendliche/integrative-pfadfindergruppen/'>https://www.efrg.de/gemeindeleben/kinder-und-jugendliche/integrative-pfadfindergruppen/</a>
       lat: 50.1452377
       lon: 8.6674053
     # Starkenburg
-    - text: <b>Stamm Eldar, Pfungstadt</b><br> <a href='http://vcp-pfungstadt.de/'>http://vcp-pfungstadt.de/</a>
+    - text: >-
+        <b>Stamm Eldar, Pfungstadt</b><br> 
+        <a href='http://vcp-pfungstadt.de/'>http://vcp-pfungstadt.de/</a>
       lat: 49.7982247
       lon: 8.6094998
-    - text: <b>Stamm Wikinger, Ober-Ramstadt</b>
+    - text: >-
+        <b>Stamm Wikinger, Ober-Ramstadt</b>
       lat: 49.8307499
       lon: 8.7443319
-    - text: <b>Stamm Masilla, Messel</b>
+    - text: >-
+        <b>Stamm Masilla, Messel</b>
       lat: 49.9397811
-      lon: 8.7413121
+      lon: 8.7413121   
+    - text: >-
+        <b>Stamm Parzival, Niedernhausen</b><br> 
+        <a href='http://www.vcp-niedernhausen.de'>http://www.vcp-niedernhausen.de</a>
+      lat: 50.161476
+      lon: 8.312123
 
 - template: detail-content
   block: media-4
