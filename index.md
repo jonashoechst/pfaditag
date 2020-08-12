@@ -116,25 +116,43 @@ page_sections:
   tilesUrl: https://api.mapbox.com/styles/v1/mapbox/light-v10/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiaG9lY2hzdCIsImEiOiJjazVueDhyMWkwenpuM2RydzltNjhraDAzIn0.HntghYG9IBZvVd0bUJEY9Q
   attribution: Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>
   markers:
-    - text: >-
-        <b>Landesbüro VCP Hessen, Bad Nauheim</b><br> 
-        <a href='https://hessen.vcp.de/'>https://hessen.vcp.de/</a>
-      lat: 50.36552
-      lon: 8.73049
+    # - text: >-
+    #     <b>Landesbüro VCP Hessen, Bad Nauheim</b><br>
+    #     <a href='https://hessen.vcp.de/'>https://hessen.vcp.de/</a>
+    #   lat: 50.36552
+    #   lon: 8.73049
     # Kurhessen
     - text: >-
-        <b>Stamm Graf Folke Bernadotte, Fulda</b><br> 
-        <a href='http://vcp-fd.de'>http://vcp-fd.de</a>
+        <b>Stamm Graf Folke Bernadotte, Fulda</b><br>
+        <a href='http://vcp-fd.de'>http://vcp-fd.de</a><br>
+        <span>Wir treffen uns am 29.08.2020 auf der Wiese am Heinrich-von-Bibra-Platz 14a um 12 Uhr. Die ganze Aktion geht bis ungefähr 17 Uhr. Unsere Aktion ist nicht spezifisch für ein Alter, sondern jeder kann in den Alltag eines Pfadfinders reinschnuppern.</span><br><br>
+        <span><b>Treffpunkt: </b><br>Wiese vor dem Haus Oranien <br>(Heinrich-von-Bibra-Platz 14a, Fulda)</span><br>
+        <span><b>Zeitraum: </b>Sa, 29.08.2020, 12:00 bis 17:00 Uhr</span><br>
+        <span><b>Altersgruppe: </b>7 bis 16 Jahre</b><br>
+        <span><b>Ansprechperson: </b><a href='mailto:stammesfuehrer@vcp-fd.de'>Cara Corell</a>
+
       lat: 50.5554376
       lon: 9.6807718
     - text: >-
         <b>Neuanfang, Kirchhain</b><br> 
-        <a href='https://vcp-kirchhain.de'>https://vcp-kirchhain.de</a>
+        <a href='https://vcp-kirchhain.de'>https://vcp-kirchhain.de</a><br>
+        <span>Wir vom Neuanfang in Kirchhain treffen uns am 29.08.2020 um 14:00 Uhr auf der Wiese vor der alten Rektoratsschule an der Ev. Kirche in Kirchhain. Wir werden verschiedene pfadfindertypische Aktionen und Spiele in kleinen Gruppen anbieten und laden dazu alle Kinder und Jugendlichen ab 11 Jahren ein.</span><br><br>
+        <span><b>Treffpunkt: </b><br>Wiese vor der Ev. Kirche <br>(Hinterm Kirchhof 25, Kirchhain)</span><br>
+        <span><b>Zeitraum: </b>Sa, 29.08.2020, 14:00 bis 18:30 Uhr</span><br>
+        <span><b>Altersgruppe: </b>11 bis 15 Jahre</b><br>
+        <span><b>Ansprechperson: </b><a href='mailto:pfadfinder@jonashoechst.de'>Jonas Höchst</a>
+
       lat: 50.8204667
       lon: 8.9193417
     - text: >-
         <b>Stamm Martin Luther, Lumdatal</b><br> 
-        <a href='https://vcp-lumdatal.de'>https://vcp-lumdatal.de</a>
+        <a href='https://vcp-lumdatal.de'>https://vcp-lumdatal.de</a><br>
+        <span>Unsere Aktion findet am Samstag von 15:00 bis 20:00 Uhr statt. Wir machen einen Stationenlauf und treffen uns auf der Wiese neben dem Gemeindehaus in Londorf.</span><br><br>
+        <span><b>Treffpunkt: </b><br>Wiese neben dem Gemeindehaus <br>(Gießener Str. 32, Londorf)</span><br>
+        <span><b>Zeitraum: </b>Sa, 29.08.2020, 15:00 bis 20:00 Uhr</span><br>
+        <span><b>Altersgruppe: </b>7 bis 16 Jahre</b><br>
+        <span><b>Ansprechperson: </b><a href='mailto:madita.peper@web.de'>Madita Peper</a>
+
       lat: 50.6743844
       lon: 8.8621879
     - text: >-
@@ -149,7 +167,14 @@ page_sections:
       lon: 9.7016599
     - text: >-
         <b>Stamm St. Georg, Hann. Münden</b><br> 
-        <a href='https://vcp-muenden.de'>https://vcp-muenden.de</a>
+        <a href='https://vcp-muenden.de'>https://vcp-muenden.de</a><br>
+        <span>Unser Stamm macht beim PfadiTag eine Aktion am Samstag, den 29.08.2020 von 9 Uhr bis 18 Uhr. Der Treffpunkt ist an unserem Pfadiheim die Adresse lautet: Am Feuerteich 17a, Hann Münden. Wir haben uns auf Kinder ab 6 Jahren geeinigt aber auch ältere Kinder sind willkommen. </span><br><br>
+        <span><b>Treffpunkt: </b><br>
+        Pfadiheim <br>(Am Feuerteich 17a, Hann Münden)</span><br>
+        <span><b>Zeitraum: </b>Sa, 29.08.2020, 09:00 bis 18:00 Uhr</span><br>
+        <span><b>Altersgruppe: </b>Kinder ab 6 Jahren<br>
+        <span><b>Ansprechperson: </b><a href='mailto:l.cemus@t-online.de'>Lucie Cemus</a>
+
       lat: 51.4131858
       lon: 9.6522681
     - text: >-
@@ -162,10 +187,10 @@ page_sections:
     #     <b>Stamm Friedberg</b> # Machen doch nicht mit.
     #   lat:  50.3323554
     #   lon: 8.7519085
-    - text: >-
-        <b>Stamm Kojoten, Nieder Mörlen</b>
-      lat: 50.3620209
-      lon: 8.7539428
+    # - text: >-
+    #     <b>Stamm Kojoten, Nieder Mörlen</b>
+    #   lat: 50.3620209
+    #   lon: 8.7539428
     # Rhein-Main
     - text: >-
         <b>Stamm Schinderhannes, Taunusstein</b><br> 
@@ -181,19 +206,26 @@ page_sections:
     #     <b>Stamm Franken, Wiesbaden Erbenheim</b><br> Unsere Aktion findet bereits am 21.08.2020 statt.
     #   lat: 50.0583014
     #   lon: 8.3030815
-    - text: >-
-        <b>Stamm Ansgar, Dauborn</b><br> 
-        <a href='http://vcp-dauborn.de/'>http://vcp-dauborn.de/</a>
-      lat: 50.3277451
-      lon: 8.1744336
+    # - text: >-
+    #     <b>Stamm Ansgar, Dauborn</b><br>
+    #     <a href='http://vcp-dauborn.de/'>http://vcp-dauborn.de/</a>
+    #   lat: 50.3277451
+    #   lon: 8.1744336
     - text: >-
         <b>Stamm Sophie Scholl, Neuenhain</b><br> 
         <a href='http://vcp-rhein-main.de/staemme/vcp-neuenhain/'>http://vcp-rhein-main.de/staemme/vcp-neuenhain/</a>
       lat: 50.1602265
       lon: 8.4708935
     - text: >-
-        <b>Stamm Ulrich von Hutten, Weilbach</b><br> 
-        <a href='http://vcp-rhein-main.de/staemme/vcp-weilbach/'>http://vcp-rhein-main.de/staemme/vcp-weilbach/</a>
+        <b>Stamm Ulrich von Hutten, Weilbach</b><br>
+        <a href='http://vcp-rhein-main.de/staemme/vcp-weilbach/'>http://vcp-rhein-main.de/staemme/vcp-weilbach/</a><br>
+        <br>
+        <span>In unserem Stamm gibt es zwei Aktionen zum PfadiTag. Am Freitag gibt es ab 19:00 Uhr einen Singeabend, der offen für alle ist. Am Samstag findet ab 13:00 Uhr die Weilbach Rallye für Kinder ab 8 Jahren statt. </span><br><br>
+        <span><b>Treffpunkt: </b><br>Ev. Gemeindezentum (Dorothee-Sölle-Weg 1, Weilbach)</span><br>
+        <span><b>Zeitraum: </b><br>Freitag, 28.08.2020, 19:00 Uhr (Singeabend)<br>Samstag, 29.08.2020, 13:00 Uhr mit offenem Ende (Weilbach Rallye)</span><br>
+        <span><b>Altersgruppe: </b><br>Singeabend für alle<br>Weilbach Rallye für Kinder von 8 bis 14.<br>
+        <span><b>Ansprechperson: </b><a href='mailto:info@pfadfinder-weilbach.de'>Stammesführer</a>
+
       lat: 50.0429466
       lon: 8.4301517
     # Main-Kinzig
