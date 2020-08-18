@@ -244,15 +244,15 @@ page_sections:
         <b>Stamm Wikinger, Ober-Ramstadt</b>
       lat: 49.8307499
       lon: 8.7443319
-    - text: >-
-        <b>Stamm Masilla, Messel</b>
-      lat: 49.9397811
-      lon: 8.7413121   
-    - text: >-
-        <b>Stamm Parzival, Niedernhausen</b><br> 
-        <a href='http://www.vcp-niedernhausen.de'>http://www.vcp-niedernhausen.de</a>
-      lat: 50.161476
-      lon: 8.312123
+    # - text: >-
+    #     <b>Stamm Masilla, Messel</b>
+    #   lat: 49.9397811
+    #   lon: 8.7413121
+    # - text: >-
+    #     <b>Stamm Parzival, Niedernhausen</b><br>
+    #     <a href='http://www.vcp-niedernhausen.de'>http://www.vcp-niedernhausen.de</a>
+    #   lat: 50.161476
+    #   lon: 8.312123
 
 - template: detail-content
   block: media-4
