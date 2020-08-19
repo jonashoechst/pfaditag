@@ -198,6 +198,11 @@ page_sections:
       lat: 50.1371867
       lon: 8.1385843
     - text: >-
+        <b>Stamm Robin Hood, Bad Schwalbach</b><br> 
+        <a href='https://vcp-badschwalbach.de'>https://vcp-badschwalbach.de</a>
+      lat: 50.1405409
+      lon: 8.0714279
+    - text: >-
         <b>Stamm Ottheinrich von der Pfalz, Ingelheim</b><br> 
         <a href='https://www.vcp-ingelheim.de/'>https://www.vcp-ingelheim.de/</a>
       lat: 49.9649018
