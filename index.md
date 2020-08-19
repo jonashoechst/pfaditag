@@ -157,7 +157,12 @@ page_sections:
       lon: 8.8621879
     - text: >-
         <b>Stamm Gottfried von Ebersberg, Hettenhausen</b><br> 
-        <a href='https://www.vcp-hettenhausen.de'>https://www.vcp-hettenhausen.de</a>
+        <a href='https://www.vcp-hettenhausen.de'>https://www.vcp-hettenhausen.de</a><br>
+        <span>Wir treffen uns am 29.08.2020 von 18:00 Uhr - 21:00 Uhr beim Martin-Luther-Haus in Hettenhausen. Auf dem Plan stehen Stockbrot, Lagerfeuer, Kothe/Jurte und ein paar kontaktlose Spiele.</span><br><br>
+        <span><b>Treffpunkt: </b><br>Martin-Luther-Haus (Ebersberger Str. 11, 36129 Hettenhausen)</span><br>
+        <span><b>Zeitraum: </b>Sa, 29.08.2020, 18:00 bis 21:00 Uhr</span><br>
+        <span><b>Ansprechperson: </b><a href='mailto:soescharf3105@gmail.com'>Sören Scharf</a>
+
       lat: 50.4518321
       lon: 9.8146037
     - text: >-
