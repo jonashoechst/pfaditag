@@ -116,11 +116,16 @@ page_sections:
   tilesUrl: https://api.mapbox.com/styles/v1/mapbox/light-v10/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiaG9lY2hzdCIsImEiOiJjazVueDhyMWkwenpuM2RydzltNjhraDAzIn0.HntghYG9IBZvVd0bUJEY9Q
   attribution: Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>
   markers:
-    # - text: >-
-    #     <b>Landesbüro VCP Hessen, Bad Nauheim</b><br>
-    #     <a href='https://hessen.vcp.de/'>https://hessen.vcp.de/</a>
-    #   lat: 50.36552
-    #   lon: 8.73049
+    - text: >-
+        <b>Landesbüro VCP Hessen, Bad Nauheim</b><br>
+        <a href='https://hessen.vcp.de/'>https://hessen.vcp.de/</a>
+      lat: 50.36552
+      lon: 8.73049
+    - text: >-
+        <b>Pfadfinderzentrum Donnerskopf, Bodenrod</b><br>
+        <a href='https://donnerskopf.de/'>https://donnerskopf.de/</a>
+      lat: 50.3953602
+      lon: 8.5456105
     # Kurhessen
     - text: >-
         <b>Stamm Graf Folke Bernadotte, Fulda</b><br>
@@ -133,6 +138,7 @@ page_sections:
 
       lat: 50.5554376
       lon: 9.6807718
+      style: red
     - text: >-
         <b>Neuanfang, Kirchhain</b><br> 
         <a href='https://vcp-kirchhain.de'>https://vcp-kirchhain.de</a><br>
@@ -144,6 +150,7 @@ page_sections:
 
       lat: 50.8204667
       lon: 8.9193417
+      style: red
     - text: >-
         <b>Stamm Martin Luther, Lumdatal</b><br> 
         <a href='https://vcp-lumdatal.de'>https://vcp-lumdatal.de</a><br>
@@ -155,6 +162,7 @@ page_sections:
 
       lat: 50.6743844
       lon: 8.8621879
+      style: red
     - text: >-
         <b>Stamm Gottfried von Ebersberg, Hettenhausen</b><br> 
         <a href='https://www.vcp-hettenhausen.de'>https://www.vcp-hettenhausen.de</a><br>
@@ -165,6 +173,7 @@ page_sections:
 
       lat: 50.4518321
       lon: 9.8146037
+      style: red
     - text: >-
         <b>Stamm Mückenstürmer, Bad Hersfeld</b><br> 
         <a href='https://vcp-hef.de'>https://vcp-hef.de</a>
@@ -182,48 +191,98 @@ page_sections:
 
       lat: 51.4131858
       lon: 9.6522681
+      style: red
     - text: >-
         <b>Neuanfang, Niestetal</b><br> 
         <a href='https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/'>https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/</a>
       lat: 51.3068659
       lon: 9.5797486
+      style: red
+    - text: >-
+        <b>Neuanfang, Schrecksbach</b><br> 
+        <a href='https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/'>https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/</a>
+      lat: 50.8345016
+      lon: 9.2870296
+    - text: >-
+        <b>Stamm Martin von Tours, Bad Salzschlirf / Großenlüder</b><br> 
+        <a href='https://www.kirchengemeinde-salzschlirf-grossenlueder.de/gemeindeleben/familie-kinder/'>https://www.kirchengemeinde-salzschlirf-grossenlueder.de/gemeindeleben/familie-kinder/</a>
+      lat: 50.6264805
+      lon: 9.49833
     # Wetterau
+    - text: >-
+        <b>Stamm Friedberg</b>
+      lat:  50.3323554
+      lon: 8.7519085
+    - text: >-
+        <b>Stamm Kojoten, Nieder Mörlen</b>
+      lat: 50.3620209
+      lon: 8.7539428
+    - text: >-
+        <b>Stamm Bad Nauheim</b>
+      lat: 50.3641348
+      lon: 8.7294721
+    - text: >-
+        <b>Stamm Zecke, Grävenwiesbach</b>
+      lat: 50.38234
+      lon: 8.4554513
     # - text: >-
-    #     <b>Stamm Friedberg</b> # Machen doch nicht mit.
-    #   lat:  50.3323554
-    #   lon: 8.7519085
-    # - text: >-
-    #     <b>Stamm Kojoten, Nieder Mörlen</b>
-    #   lat: 50.3620209
-    #   lon: 8.7539428
+    #     <b>Stamm Butzbach</b>
+    #   lat: 
+    #   lon: 
     # Rhein-Main
     - text: >-
         <b>Stamm Schinderhannes, Taunusstein</b><br> 
-        <a href='http://www.vcp-taunusstein.de/'>http://www.vcp-taunusstein.de/</a>
+        <a href='http://www.vcp-taunusstein.de/'>http://www.vcp-taunusstein.de/</a><br>
+        <span>Radtour & Gottesdienst Sonntag, 09:30 Uhr an der Kirche St. Peter auf dem Berg. Die Tour geht dann durchs Aartal und ist auch für Kinder und Familien geeignet (ca. 7 km). Für Impulse, Gebete, Lieder und eine Aktion zum Mitmachen hält die Gruppe an geeigneten Stellen an. Gegen 11:00 Uhr findet an der Kirche ein Abschlussgottesdienst im Freien statt. Hierzu sind auch alle eingeladen, die nicht mit dem Fahrrad fahren können oder wollen. Bei Regen Gottesdienst um 10:00 Uhr in der Kirche St. Peter auf dem Berg statt. <br>Mit dabei sind: Arbeitskreis AKTE - Taunussteiner Energiewende, Lokale Agenda 21 und der Pfadfinderstamm Schinderhannes.</span><br><br>
+        <span><b>Treffpunkt: </b>Kirche St. Peter</span><br>
+        <span><b>Zeitraum: </b>So, 30.08.2020, 09:30 bis 12:00 Uhr</span><br>
+        <span><b>Ansprechperson: </b><a href='mailto:kirchengemeinde.bleidenstadt@ekhn.de'>Kirchengemeinde Bleidenstadt</a>
+
       lat: 50.1371867
       lon: 8.1385843
+      style: red
     - text: >-
         <b>Stamm Robin Hood, Bad Schwalbach</b><br> 
-        <a href='https://vcp-badschwalbach.de'>https://vcp-badschwalbach.de</a>
+        <a href='https://vcp-badschwalbach.de'>https://vcp-badschwalbach.de</a><br>
+        <span>Infostand im Rahmen der Schrottsammelaktion. Von 8:00 - 14:00 Uhr steht ein Container auf dem Busparkplatz der Wiedbachschule (hinter dem Schmidtbergplatz) bereit. </span><br><br>
+        <span><b>Treffpunkt: </b><br>
+        Wiedbachschule <br>(Rudolf-Höhn-Straße 23, 65307 Bad Schwalbach)</span><br>
+        <span><b>Zeitraum: </b>Sa, 29.08.2020, 08:00 bis 14:00 Uhr</span><br>
       lat: 50.1405409
       lon: 8.0714279
+      style: red
     - text: >-
         <b>Stamm Ottheinrich von der Pfalz, Ingelheim</b><br> 
         <a href='https://www.vcp-ingelheim.de/'>https://www.vcp-ingelheim.de/</a>
       lat: 49.9649018
       lon: 8.0619247
-    # - text: >-
-    #     <b>Stamm Franken, Wiesbaden Erbenheim</b><br> Unsere Aktion findet bereits am 21.08.2020 statt.
-    #   lat: 50.0583014
-    #   lon: 8.3030815
-    # - text: >-
-    #     <b>Stamm Ansgar, Dauborn</b><br>
-    #     <a href='http://vcp-dauborn.de/'>http://vcp-dauborn.de/</a>
-    #   lat: 50.3277451
-    #   lon: 8.1744336
+    - text: >-
+        <b>Stamm Dittrich von Bern, Hofheim</b><br> 
+        <a href='https://www.vcphofheim.de'>https://www.vcphofheim.de</a>
+      lat: 50.0787893
+      lon: 8.4320407
+    - text: >-
+        <b>Stamm Franken, Wiesbaden Erbenheim</b>
+      lat: 50.0583014
+      lon: 8.3030815
+    - text: >-
+        <b>Stamm Ansgar, Dauborn</b><br>
+        <a href='http://vcp-dauborn.de/'>http://vcp-dauborn.de/</a>
+      lat: 50.3277451
+      lon: 8.1744336
+    - text: >-
+        <b>Stamm Johannes Opilio de Elss, Elz</b><br>
+        <a href='https://opilio-elz.de'>https://opilio-elz.de</a>
+      lat: 50.414979
+      lon: 8.0456274
     - text: >-
         <b>Stamm Sophie Scholl, Neuenhain</b><br> 
         <a href='http://vcp-rhein-main.de/staemme/vcp-neuenhain/'>http://vcp-rhein-main.de/staemme/vcp-neuenhain/</a>
+      lat: 50.1602265
+      lon: 8.4708935
+    - text: >-
+        <b>Stamm Johann Friedrich Oberlin, Weilmünster</b><br> 
+        <a href='https://ev-kirchengemeinde-weilmuenster.ekhn.de/startseite/gruppen/pfadfinder.html'>https://ev-kirchengemeinde-weilmuenster.ekhn.de/startseite/gruppen/pfadfinder.html</a>
       lat: 50.1602265
       lon: 8.4708935
     - text: >-
@@ -238,31 +297,69 @@ page_sections:
 
       lat: 50.0429466
       lon: 8.4301517
+      style: red
     # Main-Kinzig
     - text: >-
         <b>Stamm Eschersheim, Frankfurt</b><br> 
-        <a href='https://www.efrg.de/gemeindeleben/kinder-und-jugendliche/integrative-pfadfindergruppen/'>https://www.efrg.de/gemeindeleben/kinder-und-jugendliche/integrative-pfadfindergruppen/</a>
+        <a href='https://www.efrg.de/gemeindeleben/kinder-und-jugendliche/integrative-pfadfindergruppen/'>https://www.efrg.de/gemeindeleben/kinder-und-jugendliche/integrative-pfadfindergruppen/</a><br>
+        <span><b>Treffpunkt: </b><br>
+        Französisch Ref. Gemeinde <br>(Eschersheimer Landstr. 393, Frankfurt (Main))</span><br>
+        <span><b>Zeitraum: </b>Sa, 29.08.2020, 11:00 bis 17:00 Uhr</span><br>
       lat: 50.1452377
       lon: 8.6674053
+      style: red
+    - text: >-
+        <b>Stamm Wächtersbach</b><br> 
+      lat: 50.257821
+      lon: 9.2879058
+    - text: >-
+        <b>Stamm Gelnhausen</b><br> 
+      lat: 50.2023812
+      lon: 9.1907133
     # Starkenburg
     - text: >-
         <b>Stamm Eldar, Pfungstadt</b><br> 
-        <a href='http://vcp-pfungstadt.de/'>http://vcp-pfungstadt.de/</a>
+        <a href='http://vcp-pfungstadt.de/'>http://vcp-pfungstadt.de/</a><br>
+        <span><b>Treffpunkt: </b><br>
+        Gemeindehausvorplatz und Außengelände <br>(Odenwaldstraße 1, Pfungstadt)</span><br>
+        <span><b>Zeitraum: </b>So, 30.08.2020, 14:00 bis 17:00 Uhr</span><br>
       lat: 49.7982247
       lon: 8.6094998
+      style: red
     - text: >-
-        <b>Stamm Wikinger, Ober-Ramstadt</b>
+        <b>Stamm Eldar, Crumstadt</b><br> 
+        <span><b>Treffpunkt: </b><br>
+        Kirchvorplatz <br>(Darmstädter Str. 1, Riedstadt)</span><br>
+        <span><b>Zeitraum: </b>Sa, 29.08.2020, 15:00 bis 18:00 Uhr</span><br>
+      lat: 49.80925
+      lon: 8.5129013
+      style: red
+    - text: >-
+        <b>Stamm Wikinger, Ober-Ramstadt</b><br> 
+        <span><b>Treffpunkt: </b><br>
+        Gemeindegarten am Prälat-Diehl-Haus <br>(Grafengasse 15, Ober-Ramstadt)</span><br>
+        <span><b>Zeitraum: </b>So, 30.08.2020, 14:30 bis 18:00 Uhr</span><br>
       lat: 49.8307499
       lon: 8.7443319
-    # - text: >-
-    #     <b>Stamm Masilla, Messel</b>
-    #   lat: 49.9397811
-    #   lon: 8.7413121
-    # - text: >-
-    #     <b>Stamm Parzival, Niedernhausen</b><br>
-    #     <a href='http://www.vcp-niedernhausen.de'>http://www.vcp-niedernhausen.de</a>
-    #   lat: 50.161476
-    #   lon: 8.312123
+      style: red
+    - text: >-
+        <b>Stamm Masilla, Messel</b>
+      lat: 49.9397811
+      lon: 8.7413121
+    - text: >-
+        <b>Stamm Ginsheim</b>
+      lat: 49.9634016
+      lon: 8.3443731
+    - text: >-
+        <b>Stamm Hermann von Salza, Nauheim</b><br>
+        <a href='https://hermann-von-salza.vcp-starkenburg.de'>https://hermann-von-salza.vcp-starkenburg.de</a>
+      lat: 49.9448646
+      lon: 8.4549813
+    - text: >-
+        <b>Stamm Parzival, Niedernhausen</b><br>
+        <a href='http://www.vcp-niedernhausen.de'>http://www.vcp-niedernhausen.de</a>
+      lat: 50.161476
+      lon: 8.312123
 
 - template: detail-content
   block: media-4
