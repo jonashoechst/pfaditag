@@ -293,7 +293,7 @@ page_sections:
         <span><b>Treffpunkt: </b><br>Ev. Gemeindezentum (Dorothee-Sölle-Weg 1, Weilbach)</span><br>
         <span><b>Zeitraum: </b><br>Freitag, 28.08.2020, 19:00 Uhr (Singeabend)<br>Samstag, 29.08.2020, 13:00 Uhr mit offenem Ende (Weilbach Rallye)</span><br>
         <span><b>Altersgruppe: </b><br>Singeabend für alle<br>Weilbach Rallye für Kinder von 8 bis 14.<br>
-        <span><b>Ansprechperson: </b><a href='mailto:info@pfadfinder-weilbach.de'>Stammesführer</a>
+        <span><b>Ansprechperson: </b><a href='mailto:mailto:ulrich_von_hutten@web.de'>Stammesführer</a>
 
       lat: 50.0429466
       lon: 8.4301517
