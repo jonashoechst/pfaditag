@@ -39,7 +39,7 @@
   L.tileLayer('{{ section.tilesUrl }}', { attribution: '{{ section.attribution }}', }).addTo(map);
   var locator = L.control.locate({ locateOptions: { maxZoom: 9 } }).addTo(map);
   // locator.start();
-  var red = L.VectorMarkers.icon({ icon: 'circle', markerColor: '#e94854', prefix: 'fa' });
+  var focus = L.VectorMarkers.icon({ icon: 'circle', markerColor: '#006666', prefix: 'fa' });
   var grey = L.VectorMarkers.icon({ icon: 'circle', markerColor: '#c0c0c0', prefix: 'fa' });
 
   {% for m in section.markers %}

@@ -95,7 +95,7 @@ p {
 }
 
 .button.primary {
-    background-color: #e94854;
+    background-color: #006666;
     color:#fff
 }
 
@@ -106,7 +106,7 @@ p {
 
 .button.secondary {
     background-color: transparent;
-    border:1.5px solid #e94854
+    border:1.5px solid #006666
 }
 
 .button.small {
@@ -184,7 +184,7 @@ input.inverted::placeholder {
 }
 
 .block-header-1 .nav-item.active a {
-    color:#e94854
+    color:#006666
 }
 
 .block-header-1 .nav-item a {
@@ -197,7 +197,7 @@ input.inverted::placeholder {
 }
 
 .block-header-1 .nav-item.active a:hover {
-    color:#e94854
+    color:#006666
 }
 
 .block-header-1 .nav-item:last-of-type {
@@ -239,7 +239,7 @@ input.inverted::placeholder {
 }
 
 .block-header-2 .nav-item.active a {
-    color:#e94854
+    color:#006666
 }
 
 .block-header-2 .nav-item a {
@@ -252,7 +252,7 @@ input.inverted::placeholder {
 }
 
 .block-header-2 .nav-item.active a:hover {
-    color:#e94854
+    color:#006666
 }
 
 .block-header-2 .nav-item:last-of-type {
@@ -282,7 +282,7 @@ input.inverted::placeholder {
 }
 
 .block-hero-1 {
-    --bg: #e94854;
+    --bg: #006666;
     --text: #fff;
     display: -ms-flexbox;
     display: flex;
@@ -305,7 +305,7 @@ input.inverted::placeholder {
 }
 
 .block-hero-2 {
-    --bg: #e94854;
+    --bg: #006666;
     --text: #fff;
     -ms-flex-direction: column;
     flex-direction: column;
@@ -472,7 +472,7 @@ input.inverted::placeholder {
 .block-cta-bar {
     padding: 32px;
     padding: 2rem;
-    background: #e94854;
+    background: #006666;
     color:#fff
 }
 

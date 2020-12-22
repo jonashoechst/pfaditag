@@ -11,6 +11,33 @@
     -moz-transform: rotate(30deg);
     -o-transform: rotate(30deg);
   }
+
+  .progress {
+    background: rgba(255, 255, 255, 0.1);
+    justify-content: flex-start;
+    border-radius: 100px;
+    align-items: center;
+    position: relative;
+    padding: 0 5px;
+    display: flex;
+    height: 40px;
+    width: 500px;
+  }
+
+  .progress-value {
+    color: black;
+    text-align: right;
+    animation: load 3s normal forwards;
+    border-radius: 100px;
+    background: #fff;
+    height: 30px;
+    width: 0;
+  }
+
+  @keyframes load {
+    0% { width: 0; }
+    100% { width: {{ section.progress.percent }}%; }
+  }
 </style>
 
 <section class="block block-hero-2" {% if section.background_image %}
@@ -29,4 +56,11 @@
       </div>
     </div>
   </div>
+  {% if section.progress %}
+  <div class="progress">
+    <div class="progress-value"></div>
+  </div>
+  <br />
+  {{ section.progress.message }}
+  {% endif %}
 </section>
