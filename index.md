@@ -69,14 +69,14 @@ page_sections:
   content: "10. - 12. September 2021"
   cta:
     enabled: true
-    url: "#trailer"
-    button_text: 'Pfadfinder?'
+    url: "#detail"
+    button_text: 'PfadiTag?'
   image:
     image: "assets/keks.png"
     alt_text: "Ein angebissener Pfadfinderkeks."
   progress: 
     percent: 7
-    message: Unsere Pfadfinder-Stämme haben gewettet, dass wir im nächsten Jahr mindestens 7 neue Pfadfinder*innen werden. Wir wollen 100 schaffen! 
+    message: Unsere Stämme haben gewettet, dass wir im nächsten Jahr mindestens 7 neue Pfadfinder*innen werden. Schaffen wir auch hundert? 
   background_image: "assets/hero-2-bg.png"
 
 - template: detail-content
@@ -123,13 +123,13 @@ page_sections:
         <a href='https://hessen.vcp.de/'>https://hessen.vcp.de/</a>
       lat: 50.36552
       lon: 8.73049
-      style: focus
+      style: grey
     - text: >-
         <b>Pfadfinderzentrum Donnerskopf, Bodenrod</b><br>
         <a href='https://donnerskopf.de/'>https://donnerskopf.de/</a>
       lat: 50.3953602
       lon: 8.5456105
-      style: focus
+      style: grey
     # Kurhessen
     - text: >-
         <b>Stamm Graf Folke Bernadotte, Fulda</b><br>
@@ -138,7 +138,7 @@ page_sections:
 
       lat: 50.5554376
       lon: 9.6807718
-      style: focus
+      style: grey
     - text: >-
         <b>Neuanfang, Kirchhain</b><br> 
         <a href='https://vcp-kirchhain.de'>https://vcp-kirchhain.de</a><br>
@@ -146,7 +146,7 @@ page_sections:
 
       lat: 50.8204667
       lon: 8.9193417
-      style: focus
+      style: grey
     - text: >-
         <b>Stamm Martin Luther, Lumdatal</b><br> 
         <a href='https://vcp-lumdatal.de'>https://vcp-lumdatal.de</a><br>
@@ -154,7 +154,7 @@ page_sections:
 
       lat: 50.6743844
       lon: 8.8621879
-      style: focus
+      style: grey
     - text: >-
         <b>Stamm Gottfried von Ebersberg, Hettenhausen</b><br> 
         <a href='https://www.vcp-hettenhausen.de'>https://www.vcp-hettenhausen.de</a><br>
@@ -162,13 +162,13 @@ page_sections:
 
       lat: 50.4518321
       lon: 9.8146037
-      style: focus
+      style: grey
     - text: >-
         <b>Stamm Mückenstürmer, Bad Hersfeld</b><br> 
         <a href='https://vcp-hef.de'>https://vcp-hef.de</a>
       lat: 50.8450519
       lon: 9.7016599
-      style: focus
+      style: grey
     - text: >-
         <b>Stamm St. Georg, Hann. Münden</b><br> 
         <a href='https://vcp-muenden.de'>https://vcp-muenden.de</a><br>
@@ -176,46 +176,46 @@ page_sections:
 
       lat: 51.4131858
       lon: 9.6522681
-      style: focus
+      style: grey
     - text: >-
         <b>Neuanfang, Niestetal</b><br> 
         <a href='https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/'>https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/</a>
       lat: 51.3068659
       lon: 9.5797486
-      style: focus
+      style: grey
     - text: >-
         <b>Neuanfang, Schrecksbach</b><br> 
         <a href='https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/'>https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/</a>
       lat: 50.8345016
       lon: 9.2870296
-      style: focus
+      style: grey
     - text: >-
         <b>Stamm Martin von Tours, Bad Salzschlirf / Großenlüder</b><br> 
         <a href='https://www.kirchengemeinde-salzschlirf-grossenlueder.de/gemeindeleben/familie-kinder/'>https://www.kirchengemeinde-salzschlirf-grossenlueder.de/gemeindeleben/familie-kinder/</a>
       lat: 50.6264805
       lon: 9.49833
-      style: focus
+      style: grey
     # Wetterau
     - text: >-
         <b>Stamm Friedberg</b>
       lat:  50.3323554
       lon: 8.7519085
-      style: focus
+      style: grey
     - text: >-
         <b>Stamm Kojoten, Nieder Mörlen</b>
       lat: 50.3620209
       lon: 8.7539428
-      style: focus
+      style: grey
     - text: >-
         <b>Stamm Bad Nauheim</b>
       lat: 50.3641348
       lon: 8.7294721
-      style: focus
+      style: grey
     - text: >-
         <b>Stamm Zecke, Grävenwiesbach</b>
       lat: 50.38234
       lon: 8.4554513
-      style: focus
+      style: grey
     # - text: >-
     #     <b>Stamm Butzbach</b>
     #   lat: 
@@ -228,115 +228,115 @@ page_sections:
 
       lat: 50.1371867
       lon: 8.1385843
-      style: focus
+      style: grey
     - text: >-
         <b>Stamm Robin Hood, Bad Schwalbach</b><br> 
         <a href='https://vcp-badschwalbach.de'>https://vcp-badschwalbach.de</a><br>
       lat: 50.1405409
       lon: 8.0714279
-      style: focus
+      style: grey
     - text: >-
         <b>Stamm Ottheinrich von der Pfalz, Ingelheim</b><br> 
         <a href='https://www.vcp-ingelheim.de/'>https://www.vcp-ingelheim.de/</a>
       lat: 49.9649018
       lon: 8.0619247
-      style: focus
+      style: grey
     - text: >-
         <b>Stamm Dittrich von Bern, Hofheim</b><br> 
         <a href='https://www.vcphofheim.de'>https://www.vcphofheim.de</a>
       lat: 50.0787893
       lon: 8.4320407
-      style: focus
+      style: grey
     - text: >-
         <b>Stamm Franken, Wiesbaden Erbenheim</b>
       lat: 50.0583014
       lon: 8.3030815
-      style: focus
+      style: grey
     - text: >-
         <b>Stamm Ansgar, Dauborn</b><br>
         <a href='http://vcp-dauborn.de/'>http://vcp-dauborn.de/</a>
       lat: 50.3277451
       lon: 8.1744336
-      style: focus
+      style: grey
     - text: >-
         <b>Stamm Johannes Opilio de Elss, Elz</b><br>
         <a href='https://opilio-elz.de'>https://opilio-elz.de</a>
       lat: 50.414979
       lon: 8.0456274
-      style: focus
+      style: grey
     - text: >-
         <b>Stamm Sophie Scholl, Neuenhain</b><br> 
         <a href='http://vcp-rhein-main.de/staemme/vcp-neuenhain/'>http://vcp-rhein-main.de/staemme/vcp-neuenhain/</a>
       lat: 50.1602265
       lon: 8.4708935
-      style: focus
+      style: grey
     - text: >-
         <b>Stamm Johann Friedrich Oberlin, Weilmünster</b><br> 
         <a href='https://ev-kirchengemeinde-weilmuenster.ekhn.de/startseite/gruppen/pfadfinder.html'>https://ev-kirchengemeinde-weilmuenster.ekhn.de/startseite/gruppen/pfadfinder.html</a>
       lat: 50.1602265
       lon: 8.4708935
-      style: focus
+      style: grey
     - text: >-
         <b>Stamm Ulrich von Hutten, Weilbach</b><br>
         <a href='http://vcp-rhein-main.de/staemme/vcp-weilbach/'>http://vcp-rhein-main.de/staemme/vcp-weilbach/</a><br>
         <span><b>Ansprechperson: </b><a href='mailto:mailto:ulrich_von_hutten@web.de'>Stammesführer</a>
       lat: 50.0429466
       lon: 8.4301517
-      style: focus
+      style: grey
     # Main-Kinzig
     - text: >-
         <b>Stamm Eschersheim, Frankfurt</b><br> 
         <a href='https://www.efrg.de/gemeindeleben/kinder-und-jugendliche/integrative-pfadfindergruppen/'>https://www.efrg.de/gemeindeleben/kinder-und-jugendliche/integrative-pfadfindergruppen/</a><br>
       lat: 50.1452377
       lon: 8.6674053
-      style: focus
+      style: grey
     - text: >-
         <b>Stamm Wächtersbach</b><br> 
       lat: 50.257821
       lon: 9.2879058
-      style: focus
+      style: grey
     - text: >-
         <b>Stamm Gelnhausen</b><br> 
       lat: 50.2023812
       lon: 9.1907133
-      style: focus
+      style: grey
     # Starkenburg
     - text: >-
         <b>Stamm Eldar, Pfungstadt</b><br> 
         <a href='http://vcp-pfungstadt.de/'>http://vcp-pfungstadt.de/</a><br>
       lat: 49.7982247
       lon: 8.6094998
-      style: focus
+      style: grey
     - text: >-
         <b>Stamm Eldar, Crumstadt</b><br> 
       lat: 49.80925
       lon: 8.5129013
-      style: focus
+      style: grey
     - text: >-
         <b>Stamm Wikinger, Ober-Ramstadt</b><br> 
       lat: 49.8307499
       lon: 8.7443319
-      style: focus
+      style: grey
     - text: >-
         <b>Stamm Masilla, Messel</b>
       lat: 49.9397811
       lon: 8.7413121
-      style: focus
+      style: grey
     - text: >-
         <b>Stamm Ginsheim</b>
       lat: 49.9634016
       lon: 8.3443731
-      style: focus
+      style: grey
     - text: >-
         <b>Stamm Hermann von Salza, Nauheim</b><br>
       lat: 49.9448646
       lon: 8.4549813
-      style: focus
+      style: grey
     - text: >-
         <b>Stamm Parzival, Niedernhausen</b><br>
       lat: 50.161476
       lon: 8.312123
-      style: focus
+      style: grey
 
 - template: detail-content
   block: media-4
