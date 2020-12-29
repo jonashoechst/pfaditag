@@ -23,9 +23,9 @@ page_sections:
   cta:
     button_text: "Stamm Anmelden"
     url: |
-      mailto:hessen@vcp.de?subject=Pfadi%20Tag%202020&body=Hallo,%0A
+      mailto:hessen@vcp.de?subject=PfadiTag%202021&body=Hallo,%0A
       %0A
-      ich möchte eine Aktion meines Stammes zum Pfadi Tag 2021 anmelden. Dazu sind hier die wesentlichen Informationen für unsere Aktion.%0A
+      ich möchte eine Aktion meines Stammes zum PfadiTag 2021 anmelden. Dazu sind hier die wesentlichen Informationen für unsere Aktion.%0A
       %0A
       Stamm: %0A
       Ansprechpersonen: %0A
@@ -60,12 +60,12 @@ page_sections:
 
   # cta:
   #   button_text: "Kontakt"
-  #   url: mailto:hessen@vcp.de?subject=Pfadi%20Tag%202021
+  #   url: mailto:hessen@vcp.de?subject=PfadiTag%202021
 
 - template: hero-banner-w-image
   block: hero-2
   id: opener
-  headline: Pfadi Tag 2021<br><strong>... wir müssen draußen bleiben!</strong>
+  headline: PfadiTag 2021<br><strong>... wir müssen draußen bleiben!</strong>
   content: "10. - 12. September 2021"
   cta:
     enabled: true
@@ -105,7 +105,7 @@ page_sections:
 #   content: |
 #     <p><b>Pfadfinden</b> bietet so vieles und ist damit top aktuell. Bei uns können Kinder und Jugendliche echte Erfahrungen machen. In wöchentlichen Gruppenstunden lernen sie sich und viele Pfadfindertechniken kennen. Auf Fahrten und Zeltlagern können sie ausprobieren und erleben, wie toll es ist, wenn man sich in der Gruppe aufeinander verlassen kann. Jede*r bringt seine Fähigkeiten ein. Als christliche Pfadfinder*innen sind wir offen für alle und zugleich klar in unserer Überzeugung: wir wollen die Natur schützen, wir stehen für eine Gesellschaft ohne Rassismus und für soziale Verantwortung.</p>
 #     <p><b>Bei uns</b> engagieren sich junge Menschen ehrenamtlich für Kinder und Jugendliche.  Das macht unseren Verband bunt, lebendig, manchmal ein bisschen chaotisch und immer demokratischen Entscheidungen verpflichtet. Die Gruppen vor Ort, die sogenannten Stämme, machen dabei ihr eigenes Programm und sind oft Teil einer lebendigen Gemeindearbeit.</p>
-#     <p><b>Beim Pfaditag 2020</b> stellen sich die Stämme des VCP Hessen vor. Bestimmt ist einer in Ihrer Nähe. Schauen Sie doch mal mit ihren Kindern vorbei und erleben sie, was die Pfadfinder*innen so alles zu bieten haben.</p>
+#     <p><b>Beim Pfaditag</b> stellen sich die Stämme des VCP Hessen vor. Bestimmt ist einer in Ihrer Nähe. Schauen Sie doch mal mit ihren Kindern vorbei und erleben sie, was die Pfadfinder*innen so alles zu bieten haben.</p>
 
 
 - template: content-feature
@@ -113,8 +113,8 @@ page_sections:
   id: map
   media_alignment: Right
   headline: <strong>Aktionen zum Mitmachen</strong><span
-    class="light"> am Pfadi Tag 2021</span>
-  content: Übersicht der Aktionen am Pfadi Tag in deiner Nähe!
+    class="light"> am PfadiTag 2021</span>
+  content: Übersicht der Aktionen am PfadiTag in deiner Nähe!
   tilesUrl: https://api.mapbox.com/styles/v1/mapbox/light-v10/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiaG9lY2hzdCIsImEiOiJjazVueDhyMWkwenpuM2RydzltNjhraDAzIn0.HntghYG9IBZvVd0bUJEY9Q
   attribution: Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>
   markers:
@@ -358,13 +358,13 @@ page_sections:
 
 - block: mailto
   id: signup
-  content: Melde deinen Stamm zum Pfadi Tag 2020 an...
+  content: Melde deinen Stamm zum PfadiTag 2021 an...
   teaser: "Hallo, ich möchte eine Aktion..."
   cta_text: "Anmelden"
   url: |
-      mailto:hessen@vcp.de?subject=Pfadi%20Tag%202020&body=Hallo,%0A
+      mailto:hessen@vcp.de?subject=PfadiTag%202021&body=Hallo,%0A
       %0A
-      ich möchte eine Aktion meines Stammes zum Pfadi Tag 2020 anmelden. Dazu sind hier die wesentlichen Informationen für unsere Aktion.%0A
+      ich möchte eine Aktion meines Stammes zum PfadiTag 2021 anmelden. Dazu sind hier die wesentlichen Informationen für unsere Aktion.%0A
       %0A
       Stamm: %0A
       Ansprechpartner*innen: %0A
@@ -402,7 +402,7 @@ page_sections:
 #   content: Noch Fragen? Schreibe unserem Landesbüro...
 #   teaser: "Hallo, ..."
 #   cta_text: "E-Mail schreiben"
-#   url: mailto:hessen@vcp.de?subject=Pfadi%20Tag%202020
+#   url: mailto:hessen@vcp.de?subject=PfadiTag%202021
 
 - template: footer
   block: footer-2
@@ -417,7 +417,7 @@ page_sections:
       <img src="assets/social/014-instagram.svg" height="20pt" alt="Instagram" /></a> 
     <a href="https://hessen.vcp.de" target="_blank">
       <img src="assets/social/012-network.svg" height="20pt" alt="Website" /></a>  
-    <a href="mailto:hessen@vcp.de?subject=Pfadi%20Tag" target="_blank">
+    <a href="mailto:hessen@vcp.de?subject=PfadiTag" target="_blank">
       <img src="assets/social/043-email.svg" height="20pt" alt="E-Mail" /></a> 
   col_3: |
     <a href="https://hessen.vcp.de/impressum" target="_blank" style="text-decoration: none;">Impressum & Datenschutz</a> 
