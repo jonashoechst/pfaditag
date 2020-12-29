@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: ... wir müssen draußen bleiben!
+title: ...wir müssen draußen bleiben!
 date: 2020-12-22T23:58:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
@@ -25,35 +25,17 @@ page_sections:
     url: |
       mailto:hessen@vcp.de?subject=PfadiTag%202021&body=Hallo,%0A
       %0A
-      ich möchte eine Aktion meines Stammes zum PfadiTag 2021 anmelden. Dazu sind hier die wesentlichen Informationen für unsere Aktion.%0A
+      ich möchte meinen Stamm zum PfadiTag 2021 anmelden. Dazu sind hier die wesentlichen Informationen für unsere Aktion.%0A
       %0A
       Stamm: %0A
       Ansprechpersonen: %0A
       Telefon: %0A
       Email: %0A
-      Adresse: %0A
-      Ziel unserer Aktion (bitte ankreuzen):%0A
-          [ ] Kinder für unsere Gruppen%0A
-          [ ] neue Mitarbeitende%0A
-          [ ] Spenden für unseren Stamm%0A
-          [ ] Anerkennung im Ort%0A
-          [ ] Sonstiges: %0A
+      Titel der Aktion: %0A
       %0A
-      Dauer unserer Aktion:%0A
-          [ ] Freitag abend%0A
-          [ ] Samstag früh%0A
-          [ ] Samstag mittag%0A
-          [ ] Samstag abend%0A
-          [ ] Sonntag früh%0A
-          [ ] Sonntag mittag%0A
+      Die Wette des PfadiTag-Teams: %22Wir wetten, dass die Stämme es nicht schaffen mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.%22%0A
       %0A
-      Wir können gebrauchen:%0A
-          [ ] Zeltmaterial%0A
-          [ ] Geräte zum Kochen%0A
-          [ ] Gast von der LaFü%0A
-          [ ] Geräte für Aktionen (Siebdruck, Buttonmaschine, Bälle, ...)%0A
-          [ ] Hessen-Keks-Backmischung für __ Kekse%0A
-          [ ] Sonstiges: %0A
+      Wir halten die Wette und wetten, dass wir in unserem Stamm __ Kinder und Jugendliche am PfadiTag vom VCP begeistern können.%0A
       %0A
       Gut Pfad, %0A
           %0A
@@ -76,7 +58,7 @@ page_sections:
     alt_text: "Ein angebissener Pfadfinderkeks."
   progress: 
     percent: 7
-    message: Unsere Stämme haben gewettet, dass wir im nächsten Jahr mindestens 7 neue Pfadfinder*innen werden. Schaffen wir auch hundert? 
+    message: "<i>Wir wetten, dass die Stämme es nicht schaffen mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br> Bis jetzt machen zwei Stämme mit, halten die Wette und wollen 7 neue Pfadfinder*innen begeistern."
   background_image: "assets/hero-2-bg.png"
 
 - template: detail-content
@@ -85,11 +67,11 @@ page_sections:
   headline: Pfadi was? 
   content: |
     <p>Vielleicht hast Du ja schon was davon gehört, vielleicht hiermit zum ersten Mal. Ganz egal, hier die wichtigsten Infos zum PfadiTag.</p>
-    <p><b>Was ist?</b> Der Pfaditag ist eine neue Aktion im VCP Hessen um Menschen für das Pfadfinden zu begeistern.</p> 
-    <p><b>Was genau?</b> Am Pfaditag macht Ihr Werbung für Euren Stamm und das, was Ihr genau erreichen wollt: eine neue Gruppe, neue Mitarbeitende, Geld, Liebe und Anerkennung – was auch immer.</p> 
-    <p><b>Wer macht?</b> Euer Stamm macht die Aktion vor Ort, so wie Ihr es braucht. Das Land unterstützt Euch mit einer Werbekampagne, Material und wenn Ihr wollt auch Besuch von der Landesführungsrunde.</p> 
+    <p><b>Was ist?</b> Der PfadiTag ist eine neue Aktion im VCP Hessen um Menschen für das Pfadfinden zu begeistern.</p> 
+    <p><b>Was genau?</b> Am PfadiTag macht Ihr Werbung für euren Stamm. In diesem Jahr wollen wir besonderen Fokus auf neue Mitglieder*innen legen.</p> 
+    <p><b>Wer macht?</b> Euer Stamm macht die Aktion vor Ort, so wie Ihr es braucht. Das Land unterstützt Euch mit einer Werbekampagne, Material, guten Ideen und Beratung.</p> 
     <p><b>Wir sollen das ganze Wochenende...</b> könnt Ihr, muss aber nicht sein. Ob Eure Aktion jetzt 2 oder 72 Stunden geht bleibt ganz Euch überlassen. Schaut, was Ihr bewältigen könnt.</p> 
-    <p><b>Und was macht das Land?</b> Wir haben Plakate für Euch gestaltet, die Ihr nutzen könnt. Wir planen andere Werbekonzepte, etwa Kinowerbung, Plakatwerbung in Bus & Bahn oder eine Social Media Kampagne umzusetzen. Außerdem gibt es ganz konkrete Ideen was ihr an eurem PfadiTag machen könnt von uns. Wenn Ihr Lust habt, könnt Ihr auch jemand von der Lafü einladen, zum Helfen, hübsch sein, was auch immer.</p> 
+    <p><b>Und was macht das Land?</b> Wir haben Plakate für Euch gestaltet, die Ihr nutzen könnt. Wir planen andere Werbekonzepte, etwa Kinowerbung, Plakatwerbung in Bus & Bahn oder eine Social Media Kampagne umzusetzen. Außerdem gibt es ganz konkrete Ideen was ihr an eurem PfadiTag machen könnt von uns.</p> 
     <p><b>Aber wieso denn?</b> Jeder Stamm macht immer wieder Werbung für sich und organisiert dafür kleine Veranstaltungen. Genau das wollen wir unterstützen und ein bisschen bekannter machen, so dass vielleicht auch Leute vom Nachbarort kommen oder Menschen, die keinen Gemeindebrief lesen.</p>
 
 # - template: content-feature
@@ -358,41 +340,23 @@ page_sections:
 
 - block: mailto
   id: signup
-  content: Melde deinen Stamm zum PfadiTag 2021 an...
-  teaser: "Hallo, ich möchte eine Aktion..."
+  content: Jetzt Wette halten und Stamm anmelden!
+  teaser: "Hallo, ich möchte meinem Stamm zum PfadiTag ..."
   cta_text: "Anmelden"
   url: |
       mailto:hessen@vcp.de?subject=PfadiTag%202021&body=Hallo,%0A
       %0A
-      ich möchte eine Aktion meines Stammes zum PfadiTag 2021 anmelden. Dazu sind hier die wesentlichen Informationen für unsere Aktion.%0A
+      ich möchte meinen Stamm zum PfadiTag 2021 anmelden. Dazu sind hier die wesentlichen Informationen für unsere Aktion.%0A
       %0A
       Stamm: %0A
-      Ansprechpartner*innen: %0A
+      Ansprechpersonen: %0A
       Telefon: %0A
       Email: %0A
-      Adresse: %0A
-      Ziel unserer Aktion (bitte ankreuzen):%0A
-          [ ] Kinder für unsere Gruppen%0A
-          [ ] neue Mitarbeitende%0A
-          [ ] Spenden für unseren Stamm%0A
-          [ ] Anerkennung im Ort%0A
-          [ ] Sonstiges: %0A
+      Titel der Aktion: %0A
       %0A
-      Dauer unserer Aktion:%0A
-          [ ] Freitag abend%0A
-          [ ] Samstag früh%0A
-          [ ] Samstag mittag%0A
-          [ ] Samstag abend%0A
-          [ ] Sonntag früh%0A
-          [ ] Sonntag mittag%0A
+      Die Wette des PfadiTag-Teams: %22Wir wetten, dass die Stämme es nicht schaffen mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.%22%0A
       %0A
-      Wir können gebrauchen:%0A
-          [ ] Zeltmaterial%0A
-          [ ] Geräte zum Kochen%0A
-          [ ] Gast von der LaFü%0A
-          [ ] Geräte für Aktionen (Siebdruck, Buttonmaschine, Bälle, ...)%0A
-          [ ] Hessen-Keks-Backmischung für __ Kekse%0A
-          [ ] Sonstiges: %0A
+      Wir halten die Wette und wetten, dass wir in unserem Stamm __ Kinder und Jugendliche am PfadiTag vom VCP begeistern können.%0A
       %0A
       Gut Pfad, %0A
           %0A
