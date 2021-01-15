@@ -54,12 +54,20 @@ page_sections:
     url: "#detail"
     button_text: 'PfadiTag?'
   image:
-    image: "assets/keks.png"
+    image: "assets/baum.png"
     alt_text: "Ein angebissener Pfadfinderkeks."
   progress:
-    percent: 7
-    message: "<i>Wir wetten, dass die Stämme es nicht schaffen mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br> Bis jetzt machen zwei Stämme mit, halten die Wette und wollen 7 neue Pfadfinder*innen begeistern."
+    percent: 0
+    message: "<i>Das PfadiTag-Team wettet, dass die Stämme des VCP Hessen es nicht schaffen, mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br>
+    Wetteinsatz: Solltet ihr es schaffen, 100 Kinder & Jugendliche zu erreichen, dann begeben wir uns für einen Tag in eine Innenstadt und befragen 10 fremde Personen nach ihren Pfadfinder-Klischees und produzieren davon ein Video.<br><br>
+    Bis jetzt machen 0 Stämme mit, halten die Wette und wollen 0 neue Pfadfinder*innen begeistern."
   background_image: "assets/hero-2-bg.png"
+
+- template: content-feature
+  block: iframe-1
+  id: infovideo
+  headline: PfadiTag 2021 - Infos für die Stämme
+  iframe: <iframe src="https://www.youtube.com/embed/Z-3KThyY3CI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - template: detail-content
   block: text-1
@@ -208,6 +216,11 @@ page_sections:
         <b>Stamm Butzbach</b>
       lat: 50.434873
       lon: 8.6736498
+    - text: >-
+        <b>Stamm Haiger</b><br>
+        <a href='https://www.ev-dill.de/gemeinden/35708-haiger/haiger.html'>https://www.ev-dill.de/gemeinden/35708-haiger/haiger.html</a>
+      lat: 50.7418325
+      lon: 8.2009489
     # Rhein-Main
     - text: >-
         <b>Stamm Schinderhannes, Taunusstein</b><br>
