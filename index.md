@@ -66,7 +66,8 @@ page_sections:
 - template: content-feature
   block: iframe-1
   id: infovideo
-  headline: PfadiTag 2021 - Infos für die Stämme
+  headline: Infos für die Stämme
+  content: Im Video erfahrt ist alles wichtige, um beim PfadiTag 2021 mitzumachen. 
   iframe: <iframe src="https://www.youtube.com/embed/Z-3KThyY3CI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - template: detail-content
