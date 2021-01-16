@@ -23,7 +23,7 @@ page_sections:
   cta:
     button_text: "Stamm Anmelden"
     url: |
-      mailto:hessen@vcp.de?subject=PfadiTag%202021&body=Hallo,%0A
+      mailto:hallo@pfaditag.de?subject=PfadiTag%202021&body=Hallo,%0A
       %0A
       ich möchte meinen Stamm zum PfadiTag 2021 anmelden. Dazu sind hier die wesentlichen Informationen für unsere Aktion.%0A
       %0A
@@ -42,7 +42,7 @@ page_sections:
 
   # cta:
   #   button_text: "Kontakt"
-  #   url: mailto:hessen@vcp.de?subject=PfadiTag%202021
+  #   url: mailto:hallo@pfaditag.desubject=PfadiTag%202021
 
 - template: hero-banner-w-image
   block: hero-2
@@ -403,7 +403,7 @@ page_sections:
   teaser: "Hallo, ich möchte meinem Stamm zum PfadiTag ..."
   cta_text: "Anmelden"
   url: |
-      mailto:hessen@vcp.de?subject=PfadiTag%202021&body=Hallo,%0A
+      mailto:hallo@pfaditag.de?subject=PfadiTag%202021&body=Hallo,%0A
       %0A
       ich möchte meinen Stamm zum PfadiTag 2021 anmelden. Dazu sind hier die wesentlichen Informationen für unsere Aktion.%0A
       %0A
@@ -425,7 +425,7 @@ page_sections:
 #   content: Noch Fragen? Schreibe unserem Landesbüro...
 #   teaser: "Hallo, ..."
 #   cta_text: "E-Mail schreiben"
-#   url: mailto:hessen@vcp.de?subject=PfadiTag%202021
+#   url: mailto:hallo@pfaditag.de?subject=PfadiTag%202021
 
 - template: footer
   block: footer-2
@@ -440,7 +440,7 @@ page_sections:
       <img src="assets/social/014-instagram.svg" height="20pt" alt="Instagram" /></a>&nbsp;
     <a href="https://hessen.vcp.de" target="_blank">
       <img src="assets/social/012-network.svg" height="20pt" alt="Website" /></a>&nbsp;
-    <a href="mailto:hessen@vcp.de?subject=PfadiTag" target="_blank">
+    <a href="mailto:hallo@pfaditag.de?subject=PfadiTag%202021" target="_blank">
       <img src="assets/social/043-email.svg" height="20pt" alt="E-Mail" /></a>
   col_3: |
     <a href="https://hessen.vcp.de/impressum" target="_blank" style="text-decoration: none;">Impressum & Datenschutz</a>
