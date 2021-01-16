@@ -388,6 +388,13 @@ page_sections:
       caption: "Poster 4: Singerunde"
       link: assets/pfaditag-poster4.jpg
 
+- template: three-column
+  block: three-column-1
+  id: downloads
+  col_2: 
+    headline: "<a href='downloads/StammesKit1.zip'>StammesKit 1</a>"
+    content: "Logos, Poster & Infotexte für eure Stammeswerbung." 
+
 - block: mailto
   id: signup
   content: Jetzt Wette halten und Stamm anmelden!
