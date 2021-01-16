@@ -334,8 +334,8 @@ page_sections:
       style: grey
     - text: >-
         <b>Stamm Wikinger, Ober-Ramstadt</b><br>
-      lat: 49.8307499
-      lon: 8.7443319
+      lat: 49.82532710650306
+      lon: 8.750237727335346
       style: grey
     - text: >-
         <b>Stamm Masilla, Messel</b>
@@ -348,13 +348,13 @@ page_sections:
       lon: 8.3443731
       style: grey
     - text: >-
-        <b>Stamm Zugvögel, Kelsterbach</b>
+        <b>Stamm Zugvögel, Kelsterbach</b><br>
         <a href='https://vcp-kelsterbach.de.tl/'>https://vcp-kelsterbach.de.tl/</a><br>
       lat: 50.0599382
       lon: 8.5276003
       style: grey
     - text: >-
-        <b>Stamm Staufen, Bischofsheim</b>
+        <b>Stamm Staufen, Bischofsheim</b><br>
         <a href='https://ev-kirchengemeinde-bischofsheim.ekhn.de/startseite/ueber-uns/kinder-jugend.html'>https://ev-kirchengemeinde-bischofsheim.ekhn.de/startseite/ueber-uns/kinder-jugend.html</a><br>
       lat: 49.988734
       lon: 8.3550981
@@ -364,11 +364,12 @@ page_sections:
       lat: 49.9448646
       lon: 8.4549813
       style: grey
-    # - text: >-
-    #     <b>Stamm Christophorus, Roßdorf</b><br>
-    #   lat: 49.9448646
-    #   lon: 8.4549813
-    #   style: grey
+    - text: >-
+        <b>Stamm Christophorus, Roßdorf</b><br>
+        <a href='mailto:stammesleitung-rossdorf@web.de'>stammesleitung-rossdorf@web.de</a>
+      lat: 49.8584165
+      lon: 8.7393829
+      style: grey
 
 - template: detail-content
   block: media-4
@@ -431,13 +432,13 @@ page_sections:
   image: "assets/logo-pfaditag.png"
   col_2: |
     <a href="https://www.youtube.com/channel/UCcffpRuB1hnpn7uiJ6GnDGA" target="_blank">
-      <img src="assets/social/018-youtube.svg" height="20pt" alt="YouTube" /></a>
+      <img src="assets/social/018-youtube.svg" height="20pt" alt="YouTube" /></a>&nbsp;
     <a href="https://www.facebook.com/VCPHessen/" target="_blank">
-      <img src="assets/social/013-facebook.svg" height="20pt" alt="Facebook" /></a>
+      <img src="assets/social/013-facebook.svg" height="20pt" alt="Facebook" /></a>&nbsp;
     <a href="https://www.instagram.com/vcp.hessen/" target="_blank">
-      <img src="assets/social/014-instagram.svg" height="20pt" alt="Instagram" /></a>
+      <img src="assets/social/014-instagram.svg" height="20pt" alt="Instagram" /></a>&nbsp;
     <a href="https://hessen.vcp.de" target="_blank">
-      <img src="assets/social/012-network.svg" height="20pt" alt="Website" /></a>
+      <img src="assets/social/012-network.svg" height="20pt" alt="Website" /></a>&nbsp;
     <a href="mailto:hessen@vcp.de?subject=PfadiTag" target="_blank">
       <img src="assets/social/043-email.svg" height="20pt" alt="E-Mail" /></a>
   col_3: |
