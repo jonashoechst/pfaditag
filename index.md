@@ -55,7 +55,7 @@ page_sections:
     button_text: 'PfadiTag?'
   image:
     image: "assets/baum.png"
-    alt_text: "Ein angebissener Pfadfinderkeks."
+    alt_text: "Logo vom PfadiTag 2021"
   progress:
     percent: 0
     message: "<i>Das PfadiTag-Team wettet, dass die Stämme des VCP Hessen es nicht schaffen, mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br>
@@ -393,6 +393,9 @@ page_sections:
 - template: three-column
   block: three-column-1
   id: downloads
+  col_1: 
+    headline: "<a href='downloads/pfaditag2021-presentation.pdf'>Präsentation</a>"
+    content: "Ideen & Konzepte für den PfadiTag 2021 - als Präsentation." 
   col_2: 
     headline: "<a href='downloads/StammesKit1.zip'>StammesKit 1</a>"
     content: "Logos, Poster & Infotexte für eure Stammeswerbung." 
