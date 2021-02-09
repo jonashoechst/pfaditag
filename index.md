@@ -59,7 +59,7 @@ page_sections:
   progress:
     percent: 0
     message: "<i>Das PfadiTag-Team wettet, dass die Stämme des VCP Hessen es nicht schaffen, mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br>
-    Wetteinsatz: Solltet ihr es schaffen, 100 Kinder & Jugendliche zu erreichen, dann begeben wir uns für einen Tag in eine Innenstadt und befragen 10 fremde Personen nach ihren Pfadfinder-Klischees und produzieren davon ein Video.<br><br>
+    Wetteinsatz: Solltet ihr es schaffen, 100 Kinder & Jugendliche zu erreichen, dann begeben wir uns für einen Tag in eine Innenstadt und befragen 100 fremde Personen nach ihren Pfadfinder-Klischees und produzieren davon ein Video.<br><br>
     Bis jetzt machen 0 Stämme mit, halten die Wette und wollen 0 neue Pfadfinder*innen begeistern."
   background_image: "assets/hero-2-bg.png"
 
