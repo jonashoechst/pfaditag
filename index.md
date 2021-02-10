@@ -25,13 +25,13 @@ page_sections:
     url: |
       mailto:hallo@pfaditag.de?subject=PfadiTag%202021&body=Hallo,%0A
       %0A
-      ich möchte meinen Stamm zum PfadiTag 2021 anmelden. Dazu sind hier die wesentlichen Informationen für unsere Aktion.%0A
+      ich möchte meinen Stamm zum PfadiTag 2021 anmelden. Dazu sind hier die wesentlichen Informationen für unsere Aktion. Die Daten (außer der Handynummer) sind für die Website https://pfaditag.de gedacht.%0A
       %0A
       Stamm: %0A
       Ansprechpersonen: %0A
-      Telefon: %0A
       Email: %0A
       Titel der Aktion: %0A
+      Telefon (nur zur internen Verwendung): %0A
       %0A
       Die Wette des PfadiTag-Teams: %22Wir wetten, dass die Stämme es nicht schaffen mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.%22%0A
       %0A
@@ -57,10 +57,10 @@ page_sections:
     image: "assets/baum.png"
     alt_text: "Logo vom PfadiTag 2021"
   progress:
-    percent: 0
+    percent: 10
     message: "<i>Das PfadiTag-Team wettet, dass die Stämme des VCP Hessen es nicht schaffen, mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br>
     Wetteinsatz: Solltet ihr es schaffen, 100 Kinder & Jugendliche zu erreichen, dann begeben wir uns für einen Tag in eine Innenstadt und befragen 100 fremde Personen nach ihren Pfadfinder-Klischees und produzieren davon ein Video.<br><br>
-    Bis jetzt machen 0 Stämme mit, halten die Wette und wollen 0 neue Pfadfinder*innen begeistern."
+    Bis jetzt macht 1 Stamm mit, hält die Wette und will 10 neue Pfadfinder*innen begeistern."
   background_image: "assets/hero-2-bg.png"
 
 - template: content-feature
@@ -131,13 +131,15 @@ page_sections:
       lon: 9.6807718
       style: grey
     - text: >-
-        <b>Neuanfang, Kirchhain</b><br>
-        <a href='https://vcp-kirchhain.de'>https://vcp-kirchhain.de</a><br>
-        <span><b>Ansprechperson: </b><a href='mailto:pfadfinder@jonashoechst.de'>Jonas Höchst</a>
+        <h3>PfadiTag in Kirchhain</h3>
+        <div>VCP Neuanfang Kirchhain</div>
+        <div><b>Website: </b><a href='https://vcp-kirchhain.de'>https://vcp-kirchhain.de</a></div>
+        <div><b>Ansprechperson: </b><a href='mailto:pfadfinder@jonashoechst.de'>Jonas Höchst</a></div>
+        <div><b>Ziel: </b>10 neue Pfadis</div>
 
       lat: 50.8204667
       lon: 8.9193417
-      style: grey
+      style: focus
     - text: >-
         <b>Stamm Martin Luther, Lumdatal</b><br>
         <a href='https://vcp-lumdatal.de'>https://vcp-lumdatal.de</a><br>
