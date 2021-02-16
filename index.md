@@ -57,10 +57,10 @@ page_sections:
     image: "assets/baum.png"
     alt_text: "Logo vom PfadiTag 2021"
   progress:
-    percent: 10
+    percent: 16
     message: "<i>Das PfadiTag-Team wettet, dass die Stämme des VCP Hessen es nicht schaffen, mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br>
     Wetteinsatz: Solltet ihr es schaffen, 100 Kinder & Jugendliche zu erreichen, dann begeben wir uns für einen Tag in eine Innenstadt und befragen 100 fremde Personen nach ihren Pfadfinder-Klischees und produzieren davon ein Video.<br><br>
-    Bis jetzt macht 1 Stamm mit, hält die Wette und will 10 neue Pfadfinder*innen begeistern."
+    Bis jetzt machen 2 Stämme mit, halten die Wette und wollen 16 neue Pfadfinder*innen begeistern."
   background_image: "assets/hero-2-bg.png"
 
 - template: content-feature
@@ -257,11 +257,14 @@ page_sections:
       lon: 8.3030815
       style: grey
     - text: >-
-        <b>Stamm Ansgar, Dauborn</b><br>
-        <a href='http://vcp-dauborn.de/'>http://vcp-dauborn.de/</a>
+        <h3>PfadiTag in Dauborn</h3>
+        <div>Stamm Ansgar, Dauborn</div>
+        <div><b>Website: </b><a href='http://vcp-dauborn.de/'>http://vcp-dauborn.de/</a></div>
+        <div><b>Ansprechperson: </b><a href='mailto:jens@vcp-dauborn.de'>Jens Huesmann</a></div>
+        <div><b>Ziel: </b>6 neue Pfadis</div>
       lat: 50.3277451
       lon: 8.1744336
-      style: grey
+      style: focus
     - text: >-
         <b>Stamm Johannes Opilio de Elss, Elz</b><br>
         <a href='https://opilio-elz.de'>https://opilio-elz.de</a>
