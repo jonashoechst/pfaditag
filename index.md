@@ -57,10 +57,10 @@ page_sections:
     image: "assets/baum.png"
     alt_text: "Logo vom PfadiTag 2021"
   progress:
-    percent: 16
+    percent: 24
     message: "<i>Das PfadiTag-Team wettet, dass die Stämme des VCP Hessen es nicht schaffen, mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br>
     Wetteinsatz: Solltet ihr es schaffen, 100 Kinder & Jugendliche zu erreichen, dann begeben wir uns für einen Tag in eine Innenstadt und befragen 100 fremde Personen nach ihren Pfadfinder-Klischees und produzieren davon ein Video.<br><br>
-    Bis jetzt machen 2 Stämme mit, halten die Wette und wollen 16 neue Pfadfinder*innen begeistern."
+    Bis jetzt machen 3 Stämme mit, halten die Wette und wollen 24 neue Pfadfinder*innen begeistern."
   background_image: "assets/hero-2-bg.png"
 
 - template: content-feature
@@ -149,13 +149,15 @@ page_sections:
       lon: 8.8621879
       style: grey
     - text: >-
-        <b>Stamm Gottfried von Ebersberg, Hettenhausen</b><br>
-        <a href='https://www.vcp-hettenhausen.de'>https://www.vcp-hettenhausen.de</a><br>
-        <span><b>Ansprechperson: </b><a href='mailto:soescharf3105@gmail.com'>Sören Scharf</a>
+        <h3>PfadiTag in Hettenhausen</h3>
+        <div>Stamm Gottfried von Ebersberg, Hettenhausen</div>
+        <div><b>Website: </b><a href='https://www.vcp-hettenhausen.de'>https://www.vcp-hettenhausen.de</a></div>
+        <div><b>Ansprechperson: </b><a href='mailto:stammesleitung@vcp-hettenhausen.de'>Patrick Nix</a></div>
+        <div><b>Ziel: </b>8 neue Pfadis</div>
 
       lat: 50.4518321
       lon: 9.8146037
-      style: grey
+      style: focus
     - text: >-
         <b>Stamm Mückenstürmer, Bad Hersfeld</b><br>
         <a href='https://vcp-hef.de'>https://vcp-hef.de</a>
