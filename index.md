@@ -57,10 +57,10 @@ page_sections:
     image: "assets/baum.png"
     alt_text: "Logo vom PfadiTag 2021"
   progress:
-    percent: 24
+    percent: 29
     message: "<i>Das PfadiTag-Team wettet, dass die Stämme des VCP Hessen es nicht schaffen, mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br>
     Wetteinsatz: Solltet ihr es schaffen, 100 Kinder & Jugendliche zu erreichen, dann begeben wir uns für einen Tag in eine Innenstadt und befragen 100 fremde Personen nach ihren Pfadfinder-Klischees und produzieren davon ein Video.<br><br>
-    Bis jetzt machen 3 Stämme mit, halten die Wette und wollen 24 neue Pfadfinder*innen begeistern."
+    Bis jetzt machen 4 Stämme mit, halten die Wette und wollen 29 neue Pfadfinder*innen begeistern."
   background_image: "assets/hero-2-bg.png"
 
 - template: content-feature
@@ -351,10 +351,14 @@ page_sections:
       lon: 8.7413121
       style: grey
     - text: >-
-        <b>Stamm Ginsheim</b>
+        <h3>Pfadfinden in Ginsheim</h3>
+        <div>VCP Stamm Ginsheim</div>
+        <div><b>Website: </b><a href='https://www.pfadfinder-ginsheim.de'>https://www.pfadfinder-ginsheim.de</a></div>
+        <div><b>Ansprechperson: </b><a href='mailto:kloeppi91@gmx.de'>Michael Klöppinger</a></div>
+        <div><b>Ziel: </b>5 neue Pfadis</div>
       lat: 49.9634016
       lon: 8.3443731
-      style: grey
+      style: focus
     - text: >-
         <b>Stamm Zugvögel, Kelsterbach</b><br>
         <a href='https://vcp-kelsterbach.de.tl/'>https://vcp-kelsterbach.de.tl/</a><br>
