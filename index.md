@@ -57,10 +57,10 @@ page_sections:
     image: "assets/baum.png"
     alt_text: "Logo vom PfadiTag 2021"
   progress:
-    percent: 29
+    percent: 33
     message: "<i>Das PfadiTag-Team wettet, dass die Stämme des VCP Hessen es nicht schaffen, mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br>
     Wetteinsatz: Solltet ihr es schaffen, 100 Kinder & Jugendliche zu erreichen, dann begeben wir uns für einen Tag in eine Innenstadt und befragen 100 fremde Personen nach ihren Pfadfinder-Klischees und produzieren davon ein Video.<br><br>
-    Bis jetzt machen 4 Stämme mit, halten die Wette und wollen 29 neue Pfadfinder*innen begeistern."
+    Bis jetzt machen 5 Stämme mit, halten die Wette und wollen 33 neue Pfadfinder*innen begeistern."
   background_image: "assets/hero-2-bg.png"
 
 - template: content-feature
@@ -123,13 +123,15 @@ page_sections:
       style: grey
     # Kurhessen
     - text: >-
-        <b>Stamm Graf Folke Bernadotte, Fulda</b><br>
-        <a href='http://vcp-fd.de'>http://vcp-fd.de</a><br>
-        <span><b>Ansprechperson: </b><a href='mailto:stammesfuehrer@vcp-fd.de'>Cara Corell</a>
+        <h3>PfadiTag in Kirchhain</h3>
+        <div>Stamm Graf Folke Bernadotte, Fulda</div>
+        <div><b>Website: </b><a href='http://vcp-fd.de'>http://vcp-fd.de</a></div>
+        <div><b>Ansprechperson: </b><a href='mailto:stammesfuehrer@vcp-fd.de'>Cara Corell</a></div>
+        <div><b>Ziel: </b>4 neue Pfadis</div>
 
       lat: 50.5554376
       lon: 9.6807718
-      style: grey
+      style: focus
     - text: >-
         <h3>PfadiTag in Kirchhain</h3>
         <div>VCP Neuanfang Kirchhain</div>
