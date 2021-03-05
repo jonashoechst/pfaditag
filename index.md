@@ -123,7 +123,7 @@ page_sections:
       style: grey
     # Kurhessen
     - text: >-
-        <h3>PfadiTag in Kirchhain</h3>
+        <h3>PfadiTag in Fulda</h3>
         <div>Stamm Graf Folke Bernadotte, Fulda</div>
         <div><b>Website: </b><a href='http://vcp-fd.de'>http://vcp-fd.de</a></div>
         <div><b>Ansprechperson: </b><a href='mailto:stammesfuehrer@vcp-fd.de'>Cara Corell</a></div>
