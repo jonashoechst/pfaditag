@@ -413,7 +413,7 @@ page_sections:
     headline: "<a href='downloads/pfaditag2021-presentation.pdf'>Präsentation</a>"
     content: "Ideen & Konzepte für den PfadiTag 2021 - als Präsentation." 
   col_2: 
-    headline: "<a href='downloads/StammesKit1.zip'>StammesKit 1</a>"
+    headline: "<a href='downloads/stammeskit-1.zip'>StammesKit 1</a>"
     content: "Logos, Poster & Infotexte für eure Stammeswerbung." 
 
 - block: mailto
