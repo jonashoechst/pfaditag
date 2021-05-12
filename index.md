@@ -57,10 +57,10 @@ page_sections:
     image: "assets/baum.png"
     alt_text: "Logo vom PfadiTag 2021"
   progress:
-    percent: 38
+    percent: 40
     message: "<i>Das PfadiTag-Team wettet, dass die Stämme des VCP Hessen es nicht schaffen, mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br>
     Wetteinsatz: Solltet ihr es schaffen, 100 Kinder & Jugendliche zu erreichen, dann begeben wir uns für einen Tag in eine Innenstadt und befragen 100 fremde Personen nach ihren Pfadfinder-Klischees und produzieren davon ein Video.<br><br>
-    Bis jetzt machen 6 Stämme mit, halten die Wette und wollen 38 neue Pfadfinder*innen begeistern."
+    Bis jetzt machen 7 Stämme mit, halten die Wette und wollen 40 neue Pfadfinder*innen begeistern."
   background_image: "assets/hero-2-bg.png"
 
 - template: content-feature
@@ -145,11 +145,13 @@ page_sections:
     - text: >-
         <b>Stamm Martin Luther, Lumdatal</b><br>
         <a href='https://vcp-lumdatal.de'>https://vcp-lumdatal.de</a><br>
+        <div><b>Website: </b><a href='https://vcp-lumdatal.de'>https://vcp-lumdatal.de</a></div>
         <span><b>Ansprechperson: </b><a href='mailto:madita.peper@web.de'>Madita Peper</a>
+        <div><b>Ziel: </b>2 neue Pfadis</div>
 
       lat: 50.6743844
       lon: 8.8621879
-      style: grey
+      style: focus
     - text: >-
         <h3>PfadiTag in Hettenhausen</h3>
         <div>Stamm Gottfried von Ebersberg, Hettenhausen</div>
