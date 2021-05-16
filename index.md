@@ -417,6 +417,9 @@ page_sections:
   col_2: 
     headline: "<a href='downloads/stammeskit-1.zip'>StammesKit 1</a>"
     content: "Logos, Poster & Infotexte für eure Stammeswerbung." 
+  col_3: 
+    headline: "<a href='downloads/stammeskit-2.zip'>StammesKit 2</a>"
+    content: "Instagram, Briefkopf & Logo für eure Stammeswerbung." 
 
 - block: mailto
   id: signup
