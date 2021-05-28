@@ -57,10 +57,10 @@ page_sections:
     image: "assets/baum.png"
     alt_text: "Logo vom PfadiTag 2021"
   progress:
-    percent: 40
+    percent: 42
     message: "<i>Das PfadiTag-Team wettet, dass die Stämme des VCP Hessen es nicht schaffen, mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br>
     Wetteinsatz: Solltet ihr es schaffen, 100 Kinder & Jugendliche zu erreichen, dann begeben wir uns für einen Tag in eine Innenstadt und befragen 100 fremde Personen nach ihren Pfadfinder-Klischees und produzieren davon ein Video.<br><br>
-    Bis jetzt machen 7 Stämme mit, halten die Wette und wollen 40 neue Pfadfinder*innen begeistern."
+    Bis jetzt machen 8 Stämme mit, halten die Wette und wollen 42 neue Pfadfinder*innen begeistern."
   background_image: "assets/hero-2-bg.png"
 
 - template: content-feature
@@ -169,13 +169,15 @@ page_sections:
       lon: 9.7016599
       style: grey
     - text: >-
-        <b>Stamm St. Georg, Hann. Münden</b><br>
-        <a href='https://vcp-muenden.de'>https://vcp-muenden.de</a><br>
-        <span><b>Ansprechperson: </b><a href='mailto:l.cemus@t-online.de'>Lucie Cemus</a>
+        <h3>Pfadfinden (auch) in Südniedersachsen</h3>
+        <div>Stamm St. Georg, Hann. Münden</div>
+        <div><b>Website: </b><a href='https://vcp-muenden.de'>https://vcp-muenden.de</a></div>
+        <div><b>Ansprechperson: </b><a href='mailto:a.cemus@t-online.de'>Anna Cemus</a></div>
+        <div><b>Ziel: </b>2 neue Pfadis</div>
 
       lat: 51.4131858
       lon: 9.6522681
-      style: grey
+      style: focus
     - text: >-
         <b>Neuanfang, Niestetal</b><br>
         <a href='https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/'>https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/</a>
