@@ -57,10 +57,10 @@ page_sections:
     image: "assets/baum.png"
     alt_text: "Logo vom PfadiTag 2021"
   progress:
-    percent: 42
+    percent: 46
     message: "<i>Das PfadiTag-Team wettet, dass die Stämme des VCP Hessen es nicht schaffen, mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br>
     Wetteinsatz: Solltet ihr es schaffen, 100 Kinder & Jugendliche zu erreichen, dann begeben wir uns für einen Tag in eine Innenstadt und befragen 100 fremde Personen nach ihren Pfadfinder-Klischees und produzieren davon ein Video.<br><br>
-    Bis jetzt machen 8 Stämme mit, halten die Wette und wollen 42 neue Pfadfinder*innen begeistern."
+    Bis jetzt machen 9 Stämme mit, halten die Wette und wollen 46 neue Pfadfinder*innen begeistern."
   background_image: "assets/hero-2-bg.png"
 
 - template: content-feature
@@ -317,11 +317,14 @@ page_sections:
       lon: 9.2879058
       style: grey
     - text: >-
-        <b>Stamm Gelnhausen</b><br>
-        <a href='http://vcp-gelnhausen.de'>http://vcp-gelnhausen.de</a><br>
-      lat: 50.2023812
-      lon: 9.1907133
-      style: grey
+        <h3>Tag der offenen Jurte mit vielen spannenden Aktionen</h3>
+        <div>Stamm Ansgar, Gelnhausen</div>
+        <div><b>Website: </b><a href='http://vcp-gelnhausen.de'>http://vcp-gelnhausen.de</a></div>
+        <div><b>Ansprechperson: </b><a href='mailto:Carolin.blaschke@outlook.de'>Carolin Blaschke</a></div>
+        <div><b>Ziel: </b>4 neue Pfadis</div>
+      lat: 50.2023611
+      lon: 9.1929372
+      style: focus
     - text: >-
         <b>Stamm Hohenburg, Bad Homburg</b><br>
         <a href='https://vcpbadhomburg.de.tl'>https://vcpbadhomburg.de.tl</a><br>
