@@ -48,7 +48,7 @@ page_sections:
   block: hero-2
   id: opener
   headline: PfadiTag 2021<br><strong>... wir müssen draußen bleiben!</strong>
-  content: "10. - 12. September 2021"
+  content: "10. - 12. September 2021 | Anmeldeschluss: 30. Juni 2021"
   cta:
     enabled: true
     url: "#detail"
