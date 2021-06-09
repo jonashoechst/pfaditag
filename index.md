@@ -60,7 +60,7 @@ page_sections:
     percent: 46
     message: "<i>Das PfadiTag-Team wettet, dass die Stämme des VCP Hessen es nicht schaffen, mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br>
     Wetteinsatz: Solltet ihr es schaffen, 100 Kinder & Jugendliche zu erreichen, dann begeben wir uns für einen Tag in eine Innenstadt und befragen 100 fremde Personen nach ihren Pfadfinder-Klischees und produzieren davon ein Video.<br><br>
-    Bis jetzt machen 9 Stämme mit, halten die Wette und wollen 46 neue Pfadfinder*innen begeistern."
+    Bis jetzt machen 10 Stämme mit, halten die Wette und wollen 46 neue Pfadfinder*innen begeistern."
   background_image: "assets/hero-2-bg.png"
 
 - template: content-feature
@@ -179,11 +179,14 @@ page_sections:
       lon: 9.6522681
       style: focus
     - text: >-
-        <b>Neuanfang, Niestetal</b><br>
-        <a href='https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/'>https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/</a>
+        <h3>Tag der offenen Jurte</h3>
+        <div>Neuanfang, Niestetal</div>
+        <div><b>Website: </b><a href='https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/'>https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/</a></div>
+        <div><b>Ansprechperson: </b><a href='mailto:irene.pd@gmx.de'>Irene Papendieck</a></div>
+        <!-- <div><b>Ziel: </b>2 neue Pfadis</div> -->
       lat: 51.3068659
       lon: 9.5797486
-      style: grey
+      style: focus
     - text: >-
         <b>Neuanfang, Schrecksbach</b><br>
         <a href='https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/'>https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/</a>
