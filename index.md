@@ -57,10 +57,10 @@ page_sections:
     image: "assets/baum.png"
     alt_text: "Logo vom PfadiTag 2021"
   progress:
-    percent: 46
+    percent: 50
     message: "<i>Das PfadiTag-Team wettet, dass die Stämme des VCP Hessen es nicht schaffen, mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br>
     Wetteinsatz: Solltet ihr es schaffen, 100 Kinder & Jugendliche zu erreichen, dann begeben wir uns für einen Tag in eine Innenstadt und befragen 100 fremde Personen nach ihren Pfadfinder-Klischees und produzieren davon ein Video.<br><br>
-    Bis jetzt machen 10 Stämme mit, halten die Wette und wollen 46 neue Pfadfinder*innen begeistern."
+    Bis jetzt machen 11 Stämme mit, halten die Wette und wollen 50 neue Pfadfinder*innen begeistern."
   background_image: "assets/hero-2-bg.png"
 
 - template: content-feature
@@ -217,10 +217,15 @@ page_sections:
       lon: 8.7539428
       style: grey
     - text: >-
-        <b>Stamm Bad Nauheim</b>
+        <h3>Waldgeländespiel zum PfadiTag</h3>
+        <div>Stamm Bad Nauheim</div>
+        <div><b>Website: </b><a href='http://vcp.ev-kirche-bn.de/wp/'>http://vcp.ev-kirche-bn.de/wp/</a></div>
+        <div><b>Ansprechperson: </b><a href='mailto:feluheja@web.de'>Jacob Jäger</a></div>
+        <div><b>Ziel: </b>4 neue Pfadis</div>
+
       lat: 50.3641348
       lon: 8.7294721
-      style: grey
+      style: focus
     - text: >-
         <b>Stamm Zecke, Grävenwiesbach</b>
       lat: 50.38234
