@@ -57,10 +57,10 @@ page_sections:
     image: "assets/baum.png"
     alt_text: "Logo vom PfadiTag 2021"
   progress:
-    percent: 50
+    percent: 53
     message: "<i>Das PfadiTag-Team wettet, dass die Stämme des VCP Hessen es nicht schaffen, mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br>
     Wetteinsatz: Solltet ihr es schaffen, 100 Kinder & Jugendliche zu erreichen, dann begeben wir uns für einen Tag in eine Innenstadt und befragen 100 fremde Personen nach ihren Pfadfinder-Klischees und produzieren davon ein Video.<br><br>
-    Bis jetzt machen 11 Stämme mit, halten die Wette und wollen 50 neue Pfadfinder*innen begeistern."
+    Bis jetzt machen 12 Stämme mit, halten die Wette und wollen 53 neue Pfadfinder*innen begeistern."
   background_image: "assets/hero-2-bg.png"
 
 - template: content-feature
@@ -288,11 +288,14 @@ page_sections:
       lon: 8.0456274
       style: grey
     - text: >-
-        <b>Stamm Sophie Scholl, Neuenhain</b><br>
-        <a href='http://vcp-rhein-main.de/staemme/vcp-neuenhain/'>http://vcp-rhein-main.de/staemme/vcp-neuenhain/</a>
-      lat: 50.1602265
-      lon: 8.4708935
-      style: grey
+        <h3>PfadiTag in Neuenhain</h3>
+        <div>Stamm Sophie Scholl, Neuenhain</div>
+        <div><b>Website: </b><a href='http://vcp-rhein-main.de/staemme/vcp-neuenhain/'>http://vcp-rhein-main.de/staemme/vcp-neuenhain/</a></div>
+        <div><b>Ansprechperson: </b><a href='mailto:info@vcp-neuenhain.de'>Ellen Bielfeldt</a></div>
+        <div><b>Ziel: </b>3 neue Pfadis</div>
+      lat: 50.1559154
+      lon: 8.4908175
+      style: focus
     - text: >-
         <b>Stamm Johann Friedrich Oberlin, Weilmünster</b><br>
         <a href='https://ev-kirchengemeinde-weilmuenster.ekhn.de/startseite/gruppen/pfadfinder.html'>https://ev-kirchengemeinde-weilmuenster.ekhn.de/startseite/gruppen/pfadfinder.html</a>
