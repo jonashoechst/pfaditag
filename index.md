@@ -57,10 +57,10 @@ page_sections:
     image: "assets/baum.png"
     alt_text: "Logo vom PfadiTag 2021"
   progress:
-    percent: 58
+    percent: 60
     message: "<i>Das PfadiTag-Team wettet, dass die Stämme des VCP Hessen es nicht schaffen, mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br>
     Wetteinsatz: Solltet ihr es schaffen, 100 Kinder & Jugendliche zu erreichen, dann begeben wir uns für einen Tag in eine Innenstadt und befragen 100 fremde Personen nach ihren Pfadfinder-Klischees und produzieren davon ein Video.<br><br>
-    Bis jetzt machen 12 Stämme mit, halten die Wette und wollen 58 neue Pfadfinder*innen begeistern."
+    Bis jetzt machen 13 Stämme mit, halten die Wette und wollen 60 neue Pfadfinder*innen begeistern."
   background_image: "assets/hero-2-bg.png"
 
 - template: content-feature
@@ -350,11 +350,14 @@ page_sections:
       style: grey
     # Starkenburg
     - text: >-
-        <b>Stamm Eldar, Pfungstadt</b><br>
-        <a href='http://vcp-pfungstadt.de/'>http://vcp-pfungstadt.de/</a><br>
+        <h3>PfadiTag in Pfungstadt</h3>
+        <div>Stamm Eldar, Pfungstadt</div>
+        <div><b>Website: </b><a href='http://vcp-pfungstadt.de/'>http://vcp-pfungstadt.de/</a></div>
+        <div><b>Ansprechperson: </b><a href='mailto:josefine.kiel@gmx.de'>Josefine Kiel</a></div>
+        <div><b>Ziel: </b>2 neue Pfadis</div>
       lat: 49.7982247
       lon: 8.6094998
-      style: grey
+      style: focus
     - text: >-
         <b>Stamm Eldar, Crumstadt</b><br>
       lat: 49.80925
