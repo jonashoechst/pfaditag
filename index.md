@@ -57,10 +57,10 @@ page_sections:
     image: "assets/baum.png"
     alt_text: "Logo vom PfadiTag 2021"
   progress:
-    percent: 60
+    percent: 62
     message: "<i>Das PfadiTag-Team wettet, dass die Stämme des VCP Hessen es nicht schaffen, mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br>
     Wetteinsatz: Solltet ihr es schaffen, 100 Kinder & Jugendliche zu erreichen, dann begeben wir uns für einen Tag in eine Innenstadt und befragen 100 fremde Personen nach ihren Pfadfinder-Klischees und produzieren davon ein Video.<br><br>
-    Bis jetzt machen 14 Stämme mit, halten die Wette und wollen 60 neue Pfadfinder*innen begeistern."
+    Bis jetzt machen 15 Stämme mit, halten die Wette und wollen 62 neue Pfadfinder*innen begeistern."
   background_image: "assets/hero-2-bg.png"
 
 - template: content-feature
@@ -313,7 +313,7 @@ page_sections:
         <h3>PfadiTag in Niedernhausen</h3>
         <div>Stamm Parzival, Niedernhausen</div>
         <div><b>Website: </b><a href='http://www.vcp-niedernhausen.de'>http://www.vcp-niedernhausen.de</a></div>
-        <div><b>Ansprechpersonen: </b>Evelyn Nesswetter, <a href='mailto:ndarge@web.de '>Niklas Darge</a></div>
+        <div><b>Ansprechpersonen: </b>Evelyn Nesswetter, <a href='mailto:ndarge@web.de'>Niklas Darge</a></div>
         # <div><b>Ziel: </b>2 neue Pfadis</div>
       lat: 50.161476
       lon: 8.312123
@@ -407,11 +407,14 @@ page_sections:
       lon: 8.4549813
       style: grey
     - text: >-
-        <b>Stamm Christophorus, Roßdorf</b><br>
-        <a href='mailto:stammesleitung-rossdorf@web.de'>stammesleitung-rossdorf@web.de</a>
+        <h3>PfadiTag in Roßdorf</h3>
+        <div>Stamm Christophorus, Roßdorf</div>
+        <div><b>Website: </b><a href='http://www.vcp-niedernhausen.de'>http://www.vcp-niedernhausen.de</a></div>
+        <div><b>Ansprechpersonen: </b><a href='mailto:stammesleitung-rossdorf@web.de'>Sarah Kreickenbaum</a></div>
+        # <div><b>Ziel: </b>2 neue Pfadis</div>
       lat: 49.8584165
       lon: 8.7393829
-      style: grey
+      style: focus
 
 - template: detail-content
   block: media-4
