@@ -60,7 +60,7 @@ page_sections:
     percent: 62
     message: "<i>Das PfadiTag-Team wettet, dass die Stämme des VCP Hessen es nicht schaffen, mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br>
     Wetteinsatz: Solltet ihr es schaffen, 100 Kinder & Jugendliche zu erreichen, dann begeben wir uns für einen Tag in eine Innenstadt und befragen 100 fremde Personen nach ihren Pfadfinder-Klischees und produzieren davon ein Video.<br><br>
-    Bis jetzt machen 15 Stämme mit, halten die Wette und wollen 62 neue Pfadfinder*innen begeistern."
+    Bis jetzt machen 17 Stämme mit, halten die Wette und wollen 62 neue Pfadfinder*innen begeistern."
   background_image: "assets/hero-2-bg.png"
 
 - template: content-feature
@@ -207,10 +207,13 @@ page_sections:
       style: grey
     # Wetterau
     - text: >-
-        <b>Stamm Friedberg</b>
-      lat:  50.3323554
+        <h3>PfadiTag in Friedberg</h3>
+        <div>Stamm Friedberg</div>
+        <div><b>Ansprechperson: </b><a href='mailto:stammesleitung@vcp-friedberg.de'>Insa Messerschmidt und Lena Uebelacker</a></div>
+        <!-- <div><b>Ziel: </b>4 neue Pfadis</div> -->
+      lat: 50.3323554
       lon: 8.7519085
-      style: grey
+      style: focus
     - text: >-
         <b>Stamm Kojoten, Nieder-Mörlen</b>
       lat: 50.3620209
@@ -222,7 +225,6 @@ page_sections:
         <div><b>Website: </b><a href='http://vcp.ev-kirche-bn.de/wp/'>http://vcp.ev-kirche-bn.de/wp/</a></div>
         <div><b>Ansprechperson: </b><a href='mailto:feluheja@web.de'>Jacob Jäger</a></div>
         <div><b>Ziel: </b>4 neue Pfadis</div>
-
       lat: 50.3641348
       lon: 8.7294721
       style: focus
