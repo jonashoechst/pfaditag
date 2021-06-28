@@ -242,13 +242,14 @@ page_sections:
       lon: 8.2009489
     # Rhein-Main
     - text: >-
-        <b>Stamm Schinderhannes, Taunusstein</b><br>
-        <a href='http://www.vcp-taunusstein.de/'>http://www.vcp-taunusstein.de/</a><br>
-        <span><b>Ansprechperson: </b><a href='mailto:kirchengemeinde.bleidenstadt@ekhn.de'>Kirchengemeinde Bleidenstadt</a>
-
+        <h3>Pfaditag in Taunusstein</h3>
+        <div>Stamm Schinderhannes, Taunusstein</div>
+        <div><b>Website: </b><a href='http://www.vcp-taunusstein.de/'>http://www.vcp-taunusstein.de/</a></div>
+        <div><b>Ansprechperson: </b><a href='mailto:lukas.peter99@gmx.de'>Lukas Peter</a></div>
+        <!--<div><b>Ziel: </b>4 neue Pfadis</div>-->
       lat: 50.1371867
       lon: 8.1385843
-      style: grey
+      style: focus
     - text: >-
         <b>Stamm Robin Hood, Bad Schwalbach</b><br>
         <a href='https://vcp-badschwalbach.de'>https://vcp-badschwalbach.de</a><br>
@@ -314,7 +315,7 @@ page_sections:
         <div>Stamm Parzival, Niedernhausen</div>
         <div><b>Website: </b><a href='http://www.vcp-niedernhausen.de'>http://www.vcp-niedernhausen.de</a></div>
         <div><b>Ansprechpersonen: </b>Evelyn Nesswetter, <a href='mailto:ndarge@web.de'>Niklas Darge</a></div>
-        # <div><b>Ziel: </b>2 neue Pfadis</div>
+        <!-- <div><b>Ziel: </b>2 neue Pfadis</div> -->
       lat: 50.161476
       lon: 8.312123
       style: focus
@@ -411,7 +412,7 @@ page_sections:
         <div>Stamm Christophorus, Roßdorf</div>
         <div><b>Website: </b><a href='http://www.vcp-niedernhausen.de'>http://www.vcp-niedernhausen.de</a></div>
         <div><b>Ansprechpersonen: </b><a href='mailto:stammesleitung-rossdorf@web.de'>Sarah Kreickenbaum</a></div>
-        # <div><b>Ziel: </b>2 neue Pfadis</div>
+        <!--<div><b>Ziel: </b>2 neue Pfadis</div>-->
       lat: 49.8584165
       lon: 8.7393829
       style: focus
