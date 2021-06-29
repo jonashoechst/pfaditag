@@ -57,10 +57,10 @@ page_sections:
     image: "assets/baum.png"
     alt_text: "Logo vom PfadiTag 2021"
   progress:
-    percent: 62
+    percent: 64
     message: "<i>Das PfadiTag-Team wettet, dass die Stämme des VCP Hessen es nicht schaffen, mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br>
     Wetteinsatz: Solltet ihr es schaffen, 100 Kinder & Jugendliche zu erreichen, dann begeben wir uns für einen Tag in eine Innenstadt und befragen 100 fremde Personen nach ihren Pfadfinder-Klischees und produzieren davon ein Video.<br><br>
-    Bis jetzt machen 17 Stämme mit, halten die Wette und wollen 62 neue Pfadfinder*innen begeistern."
+    Bis jetzt machen 18 Stämme mit, halten die Wette und wollen 64 neue Pfadfinder*innen begeistern."
   background_image: "assets/hero-2-bg.png"
 
 - template: content-feature
@@ -163,11 +163,15 @@ page_sections:
       lon: 9.8146037
       style: focus
     - text: >-
-        <b>Stamm Mückenstürmer, Bad Hersfeld</b><br>
-        <a href='https://vcp-hef.de'>https://vcp-hef.de</a>
+        <h3>PfadiTag in Bad Hersfeld</h3>
+        <div>Stamm Mückenstürmer, Bad Hersfeld</div>
+        <div><b>Website: </b><a href='https://vcp-hef.de'>https://vcp-hef.de</a></div>
+        <div><b>Ansprechperson: </b><a href='mailto:jonas.rubener@gmail.com'>Jonas Rubener</a></div>
+        <div><b>Ziel: </b>2 neue Pfadis</div>
+
       lat: 50.8450519
       lon: 9.7016599
-      style: grey
+      style: focus
     - text: >-
         <h3>Pfadfinden (auch) in Südniedersachsen</h3>
         <div>Stamm St. Georg, Hann. Münden</div>
