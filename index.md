@@ -57,10 +57,10 @@ page_sections:
     image: "assets/baum.png"
     alt_text: "Logo vom PfadiTag 2021"
   progress:
-    percent: 64
+    percent: 67
     message: "<i>Das PfadiTag-Team wettet, dass die Stämme des VCP Hessen es nicht schaffen, mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br>
     Wetteinsatz: Solltet ihr es schaffen, 100 Kinder & Jugendliche zu erreichen, dann begeben wir uns für einen Tag in eine Innenstadt und befragen 100 fremde Personen nach ihren Pfadfinder-Klischees und produzieren davon ein Video.<br><br>
-    Bis jetzt machen 18 Stämme mit, halten die Wette und wollen 64 neue Pfadfinder*innen begeistern."
+    Bis jetzt machen 19 Stämme mit, halten die Wette und wollen 67 neue Pfadfinder*innen begeistern."
   background_image: "assets/hero-2-bg.png"
 
 - template: content-feature
@@ -310,12 +310,14 @@ page_sections:
       lon: 8.4708935
       style: grey
     - text: >-
-        <b>Stamm Ulrich von Hutten, Weilbach</b><br>
-        <a href='http://vcp-rhein-main.de/staemme/vcp-weilbach/'>http://vcp-rhein-main.de/staemme/vcp-weilbach/</a><br>
-        <span><b>Ansprechperson: </b><a href='mailto:mailto:ulrich_von_hutten@web.de'>Stammesführer</a>
+        <h3>Weilbach Rallye & Singeabend</h3>
+        <div>Stamm Ulrich von Hutten, Weilbach</div>
+        <div><b>Website: </b><a href='http://vcp-rhein-main.de/staemme/vcp-weilbach/'>http://vcp-rhein-main.de/staemme/vcp-weilbach/</a></div>
+        <div><b>Ansprechperson: </b><a href='mailto:noel.dieling@web.de'>Noel Dieling</a></div>
+        <div><b>Ziel: </b>3 neue Pfadis</div>
       lat: 50.0429466
       lon: 8.4301517
-      style: grey
+      style: focus
     - text: >-
         <h3>PfadiTag in Niedernhausen</h3>
         <div>Stamm Parzival, Niedernhausen</div>
