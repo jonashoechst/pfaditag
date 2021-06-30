@@ -418,7 +418,7 @@ page_sections:
     - text: >-
         <h3>PfadiTag in Roßdorf</h3>
         <div>Stamm Christophorus, Roßdorf</div>
-        <div><b>Website: </b><a href='http://www.vcp-niedernhausen.de'>http://www.vcp-niedernhausen.de</a></div>
+        <!-- g<div><b>Website: </b><a href='http://www.vcp-niedernhausen.de'>http://www.vcp-niedernhausen.de</a></div> -->
         <div><b>Ansprechpersonen: </b><a href='mailto:stammesleitung-rossdorf@web.de'>Sarah Kreickenbaum</a></div>
         <!--<div><b>Ziel: </b>2 neue Pfadis</div>-->
       lat: 49.8584165
