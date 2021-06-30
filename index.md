@@ -342,7 +342,7 @@ page_sections:
       style: grey
     - text: >-
         <h3>Tag der offenen Jurte mit vielen spannenden Aktionen</h3>
-        <div>Stamm Ansgar, Gelnhausen</div>
+        <div>Stamm Barbarossa, Gelnhausen</div>
         <div><b>Website: </b><a href='http://vcp-gelnhausen.de'>http://vcp-gelnhausen.de</a></div>
         <div><b>Ansprechperson: </b><a href='mailto:Carolin.blaschke@outlook.de'>Carolin Blaschke</a></div>
         <div><b>Ziel: </b>4 neue Pfadis</div>
