@@ -57,10 +57,10 @@ page_sections:
     image: "assets/baum.png"
     alt_text: "Logo vom PfadiTag 2021"
   progress:
-    percent: 67
+    percent: 70
     message: "<i>Das PfadiTag-Team wettet, dass die Stämme des VCP Hessen es nicht schaffen, mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br>
     Wetteinsatz: Solltet ihr es schaffen, 100 Kinder & Jugendliche zu erreichen, dann begeben wir uns für einen Tag in eine Innenstadt und befragen 100 fremde Personen nach ihren Pfadfinder-Klischees und produzieren davon ein Video.<br><br>
-    Bis jetzt machen 19 Stämme mit, halten die Wette und wollen 67 neue Pfadfinder*innen begeistern."
+    Bis jetzt machen 20 Stämme mit, halten die Wette und wollen 67 neue Pfadfinder*innen begeistern."
   background_image: "assets/hero-2-bg.png"
 
 - template: content-feature
@@ -385,10 +385,13 @@ page_sections:
       lon: 8.750237727335346
       style: focus
     - text: >-
-        <b>Stamm Masilla, Messel</b>
+        <h3>Offene Jurte!</h3>
+        <div>Stamm Masilla, Messel</div>
+        <div><b>Ansprechperson: </b><a href='mailto:kaiser.mm75@gmail.com'>Merle Meise</a></div>
+        <div><b>Ziel: </b>3 neue Pfadis</div>
       lat: 49.9397811
       lon: 8.7413121
-      style: grey
+      style: focus
     - text: >-
         <h3>Pfadfinden in Ginsheim</h3>
         <div>VCP Stamm Ginsheim</div>
