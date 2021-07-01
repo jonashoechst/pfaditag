@@ -121,6 +121,7 @@ page_sections:
       lat: 50.3953602
       lon: 8.5456105
       style: grey
+
     # Kurhessen
     - text: >-
         <h3>PfadiTag in Fulda</h3>
@@ -128,7 +129,6 @@ page_sections:
         <div><b>Website: </b><a href='http://vcp-fd.de'>http://vcp-fd.de</a></div>
         <div><b>Ansprechperson: </b><a href='mailto:stammesfuehrer@vcp-fd.de'>Cara Corell</a></div>
         <div><b>Ziel: </b>4 neue Pfadis</div>
-
       lat: 50.5554376
       lon: 9.6807718
       style: focus
@@ -138,7 +138,6 @@ page_sections:
         <div><b>Website: </b><a href='https://vcp-kirchhain.de'>https://vcp-kirchhain.de</a></div>
         <div><b>Ansprechperson: </b><a href='mailto:pfadfinder@jonashoechst.de'>Jonas Höchst</a></div>
         <div><b>Ziel: </b>10 neue Pfadis</div>
-
       lat: 50.8204667
       lon: 8.9193417
       style: focus
@@ -148,7 +147,6 @@ page_sections:
         <div><b>Website: </b><a href='https://vcp-lumdatal.de'>https://vcp-lumdatal.de</a></div>
         <span><b>Ansprechperson: </b><a href='mailto:madita.peper@web.de'>Madita Peper</a>
         <div><b>Ziel: </b>2 neue Pfadis</div>
-
       lat: 50.6743844
       lon: 8.8621879
       style: focus
@@ -158,7 +156,6 @@ page_sections:
         <div><b>Website: </b><a href='https://www.vcp-hettenhausen.de'>https://www.vcp-hettenhausen.de</a></div>
         <div><b>Ansprechperson: </b><a href='mailto:stammesleitung@vcp-hettenhausen.de'>Patrick Nix</a></div>
         <div><b>Ziel: </b>8 neue Pfadis</div>
-
       lat: 50.4518321
       lon: 9.8146037
       style: focus
@@ -168,7 +165,6 @@ page_sections:
         <div><b>Website: </b><a href='https://vcp-hef.de'>https://vcp-hef.de</a></div>
         <div><b>Ansprechperson: </b><a href='mailto:jonas.rubener@gmail.com'>Jonas Rubener</a></div>
         <div><b>Ziel: </b>2 neue Pfadis</div>
-
       lat: 50.8450519
       lon: 9.7016599
       style: focus
@@ -178,7 +174,6 @@ page_sections:
         <div><b>Website: </b><a href='https://vcp-muenden.de'>https://vcp-muenden.de</a></div>
         <div><b>Ansprechperson: </b><a href='mailto:a.cemus@t-online.de'>Anna Cemus</a></div>
         <div><b>Ziel: </b>2 neue Pfadis</div>
-
       lat: 51.4131858
       lon: 9.6522681
       style: focus
@@ -209,6 +204,7 @@ page_sections:
       lat: 51.2728434
       lon: 9.7094513
       style: grey
+
     # Wetterau
     - text: >-
         <h3>PfadiTag in Friedberg</h3>
@@ -244,11 +240,14 @@ page_sections:
         <div><b>Ziel: </b>10 neue Pfadis</div>
       lat: 50.434873
       lon: 8.6736498
+      style: focus
     - text: >-
         <b>Stamm Haiger</b><br>
         <a href='https://www.ev-dill.de/gemeinden/35708-haiger/haiger.html'>https://www.ev-dill.de/gemeinden/35708-haiger/haiger.html</a>
       lat: 50.7418325
       lon: 8.2009489
+      style: focus
+
     # Rhein-Main
     - text: >-
         <h3>Pfaditag in Taunusstein</h3>
@@ -333,6 +332,7 @@ page_sections:
       lat: 50.161476
       lon: 8.312123
       style: focus
+
     # Main-Kinzig
     - text: >-
         <b>Stamm Frankfurt-Eschersheim</b><br>
@@ -367,6 +367,7 @@ page_sections:
       lat: 50.1454234
       lon: 8.650696
       style: grey
+
     # Starkenburg
     - text: >-
         <h3>PfadiTag in Pfungstadt</h3>
