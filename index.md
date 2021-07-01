@@ -57,10 +57,10 @@ page_sections:
     image: "assets/baum.png"
     alt_text: "Logo vom PfadiTag 2021"
   progress:
-    percent: 74
+    percent: 84
     message: "<i>Das PfadiTag-Team wettet, dass die Stämme des VCP Hessen es nicht schaffen, mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br>
     Wetteinsatz: Solltet ihr es schaffen, 100 Kinder & Jugendliche zu erreichen, dann begeben wir uns für einen Tag in eine Innenstadt und befragen 100 fremde Personen nach ihren Pfadfinder-Klischees und produzieren davon ein Video.<br><br>
-    Bis jetzt machen 21 Stämme mit, halten die Wette und wollen 67 neue Pfadfinder*innen begeistern."
+    Bis jetzt machen 22 Stämme mit, halten die Wette und wollen 84 neue Pfadfinder*innen begeistern."
   background_image: "assets/hero-2-bg.png"
 
 - template: content-feature
@@ -238,7 +238,10 @@ page_sections:
       lon: 8.4554513
       style: grey
     - text: >-
-        <b>Stamm Butzbach</b>
+        <h3>Warum im Zelt schlafen?</h3>
+        <div>Stamm Dietrich Bonhoeffer, Butzbach</div>
+        <div><b>Ansprechperson: </b><a href='mailto:bjoern.hinsberger@gmail.com'>Björn Hinsberger</a></div>
+        <div><b>Ziel: </b>10 neue Pfadis</div>
       lat: 50.434873
       lon: 8.6736498
     - text: >-
