@@ -57,10 +57,10 @@ page_sections:
     image: "assets/baum.png"
     alt_text: "Logo vom PfadiTag 2021"
   progress:
-    percent: 84
+    percent: 86
     message: "<i>Das PfadiTag-Team wettet, dass die Stämme des VCP Hessen es nicht schaffen, mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br>
     Wetteinsatz: Solltet ihr es schaffen, 100 Kinder & Jugendliche zu erreichen, dann begeben wir uns für einen Tag in eine Innenstadt und befragen 100 fremde Personen nach ihren Pfadfinder-Klischees und produzieren davon ein Video.<br><br>
-    Bis jetzt machen 22 Stämme mit, halten die Wette und wollen 84 neue Pfadfinder*innen begeistern."
+    Bis jetzt machen 22 Stämme mit, halten die Wette und wollen 86 neue Pfadfinder*innen begeistern."
   background_image: "assets/hero-2-bg.png"
 
 - template: content-feature
@@ -210,7 +210,7 @@ page_sections:
         <h3>PfadiTag in Friedberg</h3>
         <div>Stamm Friedberg</div>
         <div><b>Ansprechperson: </b><a href='mailto:stammesleitung@vcp-friedberg.de'>Insa Messerschmidt und Lena Uebelacker</a></div>
-        <!-- <div><b>Ziel: </b>4 neue Pfadis</div> -->
+        <div><b>Ziel: </b>4 neue Pfadis</div>
       lat: 50.3323554
       lon: 8.7519085
       style: focus
@@ -254,7 +254,7 @@ page_sections:
         <div>Stamm Schinderhannes, Taunusstein</div>
         <div><b>Website: </b><a href='http://www.vcp-taunusstein.de/'>http://www.vcp-taunusstein.de/</a></div>
         <div><b>Ansprechperson: </b><a href='mailto:lukas.peter99@gmx.de'>Lukas Peter</a></div>
-        <!--<div><b>Ziel: </b>4 neue Pfadis</div>-->
+        <div><b>Ziel: </b> neue Pfadis</div>
       lat: 50.1371867
       lon: 8.1385843
       style: focus
@@ -328,7 +328,7 @@ page_sections:
         <div>Stamm Parzival, Niedernhausen</div>
         <div><b>Website: </b><a href='http://www.vcp-niedernhausen.de'>http://www.vcp-niedernhausen.de</a></div>
         <div><b>Ansprechpersonen: </b>Evelyn Nesswetter, <a href='mailto:ndarge@web.de'>Niklas Darge</a></div>
-        <!-- <div><b>Ziel: </b>2 neue Pfadis</div> -->
+        <div><b>Ziel: </b> neue Pfadis</div>
       lat: 50.161476
       lon: 8.312123
       style: focus
@@ -430,7 +430,7 @@ page_sections:
         <div>Stamm Christophorus, Roßdorf</div>
         <!-- g<div><b>Website: </b><a href='http://www.vcp-niedernhausen.de'>http://www.vcp-niedernhausen.de</a></div> -->
         <div><b>Ansprechpersonen: </b><a href='mailto:stammesleitung-rossdorf@web.de'>Sarah Kreickenbaum</a></div>
-        <!--<div><b>Ziel: </b>2 neue Pfadis</div>-->
+        <div><b>Ziel: </b> neue Pfadis</div>
       lat: 49.8584165
       lon: 8.7393829
       style: focus
