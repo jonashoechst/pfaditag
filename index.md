@@ -57,10 +57,10 @@ page_sections:
     image: "assets/baum.png"
     alt_text: "Logo vom PfadiTag 2021"
   progress:
-    percent: 86
+    percent: 94
     message: "<i>Das PfadiTag-Team wettet, dass die Stämme des VCP Hessen es nicht schaffen, mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br>
     Wetteinsatz: Solltet ihr es schaffen, 100 Kinder & Jugendliche zu erreichen, dann begeben wir uns für einen Tag in eine Innenstadt und befragen 100 fremde Personen nach ihren Pfadfinder-Klischees und produzieren davon ein Video.<br><br>
-    Bis jetzt machen 22 Stämme mit, halten die Wette und wollen 86 neue Pfadfinder*innen begeistern."
+    Bis jetzt machen 23 Stämme mit, halten die Wette und wollen 94 neue Pfadfinder*innen begeistern."
   background_image: "assets/hero-2-bg.png"
 
 - template: content-feature
@@ -265,11 +265,14 @@ page_sections:
       lon: 8.0714279
       style: grey
     - text: >-
-        <b>Stamm Ottheinrich von der Pfalz, Ingelheim</b><br>
-        <a href='https://www.vcp-ingelheim.de/'>https://www.vcp-ingelheim.de/</a>
+        <h3>Offenes Pfadiheim</h3>
+        <div>Stamm Ottheinrich von der Pfalz, Ingelheim</div>
+        <div><b>Website: </b><a href='https://www.vcp-ingelheim.de/'>https://www.vcp-ingelheim.de/</a></div>
+        <div><b>Ansprechperson: </b><a href='mailto:yasto@freenet.de'>Yara Storch</a>, Elias Wohleben, Jakob Widera</div>
+        <div><b>Ziel: </b>8 neue Pfadis</div>
       lat: 49.9649018
       lon: 8.0619247
-      style: grey
+      style: focus
     - text: >-
         <b>Stamm Dittrich von Bern, Hofheim</b><br>
         <a href='https://www.vcphofheim.de'>https://www.vcphofheim.de</a>
