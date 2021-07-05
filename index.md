@@ -252,7 +252,7 @@ page_sections:
         <h3>Pfaditag in Taunusstein</h3>
         <div>Stamm Schinderhannes, Taunusstein</div>
         <div><b>Website: </b><a href='http://www.vcp-taunusstein.de/'>http://www.vcp-taunusstein.de/</a></div>
-        <div><b>Ansprechperson: </b><a href='mailto:lukas.peter99@gmx.de'>Lukas Peter</a></div>
+        <div><b>Ansprechperson: </b><a href='mailto:stafue@vcp-taunusstein.de'>Lukas Peter</a></div>
         <div><b>Ziel: </b> neue Pfadis</div>
       lat: 50.1371867
       lon: 8.1385843
