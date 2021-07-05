@@ -103,8 +103,7 @@ page_sections:
   block: leaflet-1
   id: map
   media_alignment: Right
-  headline: <strong>Aktionen zum Mitmachen</strong><span
-    class="light"> am PfadiTag 2021</span>
+  headline: <strong>Aktionen zum Mitmachen</strong><span class="light"> am PfadiTag 2021</span>
   content: Übersicht der Aktionen am PfadiTag in deiner Nähe!
   tilesUrl: https://api.mapbox.com/styles/v1/mapbox/light-v10/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiaG9lY2hzdCIsImEiOiJjazVueDhyMWkwenpuM2RydzltNjhraDAzIn0.HntghYG9IBZvVd0bUJEY9Q
   attribution: Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>
@@ -114,13 +113,13 @@ page_sections:
         <a href='https://hessen.vcp.de/'>https://hessen.vcp.de/</a>
       lat: 50.36552
       lon: 8.73049
-      style: grey
+      style: alt
     - text: >-
         <b>Pfadfinderzentrum Donnerskopf, Bodenrod</b><br>
         <a href='https://donnerskopf.de/'>https://donnerskopf.de/</a>
       lat: 50.3953602
       lon: 8.5456105
-      style: grey
+      style: alt
 
     # Kurhessen
     - text: >-
@@ -142,10 +141,10 @@ page_sections:
       lon: 8.9193417
       style: focus
     - text: >-
-        <b>Stamm Martin Luther, Lumdatal</b><br>
-        <a href='https://vcp-lumdatal.de'>https://vcp-lumdatal.de</a><br>
+        <h3>PfadiTag im Lumdatal</h3>
+        <div>Stamm Martin Luther, Lumdatal</div>
         <div><b>Website: </b><a href='https://vcp-lumdatal.de'>https://vcp-lumdatal.de</a></div>
-        <span><b>Ansprechperson: </b><a href='mailto:madita.peper@web.de'>Madita Peper</a>
+        <div><b>Ansprechperson: </b><a href='mailto:madita.peper@web.de'>Madita Peper</a></div>
         <div><b>Ziel: </b>2 neue Pfadis</div>
       lat: 50.6743844
       lon: 8.8621879
