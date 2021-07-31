@@ -57,10 +57,10 @@ page_sections:
     image: "assets/baum.png"
     alt_text: "Logo vom PfadiTag 2021"
   progress:
-    percent: 94
+    percent: 97
     message: "<i>Das PfadiTag-Team wettet, dass die Stämme des VCP Hessen es nicht schaffen, mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br>
     Wetteinsatz: Solltet ihr es schaffen, 100 Kinder & Jugendliche zu erreichen, dann begeben wir uns für einen Tag in eine Innenstadt und befragen 100 fremde Personen nach ihren Pfadfinder-Klischees und produzieren davon ein Video.<br><br>
-    Bis jetzt machen 23 Stämme mit, halten die Wette und wollen 94 neue Pfadfinder*innen begeistern."
+    Bis jetzt machen 23 Stämme mit, halten die Wette und wollen 97 neue Pfadfinder*innen begeistern."
   background_image: "assets/hero-2-bg.png"
 
 - template: content-feature
@@ -330,7 +330,7 @@ page_sections:
         <div>Stamm Parzival, Niedernhausen</div>
         <div><b>Website: </b><a href='http://www.vcp-niedernhausen.de'>http://www.vcp-niedernhausen.de</a></div>
         <div><b>Ansprechpersonen: </b>Evelyn Nesswetter, <a href='mailto:ndarge@web.de'>Niklas Darge</a></div>
-        <div><b>Ziel: </b> neue Pfadis</div>
+        <div><b>Ziel: </b>3 neue Pfadis</div>
       lat: 50.161476
       lon: 8.312123
       style: focus
