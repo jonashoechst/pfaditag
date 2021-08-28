@@ -345,7 +345,7 @@ page_sections:
         <div><b>Wo? </b>Evangelisches Gemeindehaus Dauborn (Rheinstraße 3a, Dauborn)</div>
         <div>Wir veranstalten den Pfaditag unter dem Motto „Pfadfinderlager hautnah“. Am Samstag, den 11.09.2021 haben wir ein spannendes Programm mit dem Thema Mafia für euch. Abends gibt es einen Singeabend, wie er auf keinem Lager fehlen darf. Wer möchte, kann auch mit uns in unseren Pfadizelten übernachten. Schaut doch mal vorbei und erlebt, was die Pfadfinder*innen so alles zu bieten haben. Wir freuen uns auf Euch!</div>
         <div><b>Website: </b><a href='https://tinyurl.com/pfaditag21'>https://tinyurl.com/pfaditag21</a></div>
-        <div><b>Ansprechperson: </b><a href='mailto:mail@vcp-dauborn.de'>mail@vcp-dauborn.de</a></div>
+        <div><b>Ansprechperson: </b><a href='mailto:oliver@vcp-dauborn.de'>Oliver Bargon</a></div>
         <div><b>Ziel: </b>6 neue Pfadis</div>
       lat: 50.3277451
       lon: 8.1744336
