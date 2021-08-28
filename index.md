@@ -144,6 +144,16 @@ page_sections:
       lon: 9.6807718
       style: focus
     - text: >-
+        <h3>Übernachtung in Wohratal</h3>
+        <div>Pfadiprojekt Wohratal</div>
+        <div><b>Wann? </b>Samstag, 11.09.2021</div>
+        <div><b>Wo? </b>Evangelische Gemeinschaft Wohratal (Bergstraße 1, 35288 Wohratal)</div>
+        <div></div>
+        <div><b>Ansprechperson: </b><a href='mailto:frederik.s.peper@gmail.com'>Frederik Peper</a> (Telefon: <a href='tel:+491714325474'>+49 171 4325474</a></div>
+      lat: 50.9361588
+      lon: 8.9453639
+      style: focus
+    - text: >-
         <h3>PfadiTag in Kirchhain</h3>
         <div>VCP Neuanfang Kirchhain</div>
         <div><b>Wann? </b>Samstag, 11.09.2021</div>
