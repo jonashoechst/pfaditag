@@ -129,7 +129,7 @@ page_sections:
         <div>Stamm Graf Folke Bernadotte, Fulda</div>
         <div><b>Wann? </b>Samstag, 11.09.2021, 10 - 14 Uhr</div>
         <div><b>Wo? </b>Uniplatz in Fulda</div>
-        <div>Trefft uns am Uniplatz in Fulda, wir bauen dort ein Jurte (schwarzes Pfadfinderzelt) auf und spielen mit euch einige typische Pfadfinder-Spiele und gehen auf eine Schnitzeljagd. Wir freuen uns auf euch!</div>
+        <div>Trefft uns am Uniplatz in Fulda, wir bauen dort eine Jurte (schwarzes Pfadfinderzelt) auf und spielen mit euch einige typische Pfadfinder-Spiele und gehen auf eine Schnitzeljagd. Wir freuen uns auf euch!</div>
         <div><b>Ansprechperson: </b><a href='mailto:stammesfuehrer@vcp-fd.de'>Pia Salentin</a></div>
         <div><b>Ziel: </b>4 neue Pfadis</div>
         <div><b>Website: </b><a href='http://vcp-fd.de'>http://vcp-fd.de</a> | Instagram: <a href='https://www.instagram.com/vcp.fulda/'>@vcp.fulda</a></div>
@@ -139,8 +139,15 @@ page_sections:
     - text: >-
         <h3>PfadiTag in Kirchhain</h3>
         <div>VCP Neuanfang Kirchhain</div>
-        <div><b>Website: </b><a href='https://vcp-kirchhain.de'>https://vcp-kirchhain.de</a></div>
-        <div><b>Ansprechperson: </b><a href='mailto:pfadfinder@jonashoechst.de'>Jonas Höchst</a></div>
+        <div><b>Wann? </b>Samstag, 11.09.2021</div>
+        <div><b>Wo? </b>von 10:00 bis 12:30 Uhr an der Martin-Luther Kirche, von 16:00 bis 22:00 Uhr an der Stadtkirche</div>
+        <div>Wir öffnen unsere Zelte für alle, die das Pfadfinden schon immer mal ausprobieren wollten. Feuer machen, Zelte aufbauen, gemeinsam Singen und Abenteuer erleben. Der PfadiTag ist der Startschuss für die Gründung neuer Gruppen vor Ort und damit der perfekte Einstieg für jeden und jede, die schon immer mal reinschnuppern wollte. Wir freuen uns auf euch!</div><br><div>
+        <ul>
+        <li>Für Kinder zwischen 7 und 10 Jahren von 10:00 bis 12:30 Uhr an der Martin-Luther-Kirche: Pfadi-Spiele und Stockbrot.</li>
+        <li>Für Kinder & Jugendliche ab 10 von 16:00 Uhr bis 22:00 Uhr an der Stadtkirche: Feuer machen & Kochen auf dem Feuer</li>
+        </ul></div>
+        <div><b>Website: </b><a href='https://vcp-kirchhain.de'>https://vcp-kirchhain.de</a> | Instagram: <a href='https://www.instagram.com/vcp_kirchhain/'>@vcp_kirchhain</a></div>
+        <div><b>Ansprechperson: </b><a href='mailto:pfadfinder@jonashoechst.de'>Jonas Höchst</a> (Telefon: <a href='tel:+4917663385990'>0176 63385990</a></div>
         <div><b>Ziel: </b>10 neue Pfadis</div>
       lat: 50.8204667
       lon: 8.9193417
@@ -158,7 +165,7 @@ page_sections:
         <div>Stamm Gottfried von Ebersberg, Hettenhausen</div>
         <div><b>Wann? </b>Samstag, 11.09.2021, 16:00 - 20:00 Uhr</div>
         <div><b>Wo? </b>Stammesheim am Martin-Luther-Haus der Ev. Kirchengemeinde (Ebersberger Straße 11, Hettenhausen)</div>
-        <div>Wir wollen gemeinsam mit euch einen Nachmittag am Lagerfeuer mit Stockbrot und verschiedenen Spielen verbringen. Am Abend Singen wir gemeinsam Pfadfinderlieder und lassen den Tag so ausklingen.</div>
+        <div>Am Samstag gibt es einen bunten Spielenachmittag und ein Lagerfeuer mit Stockbrot! Den Abend lassen wir mit einem typischen Pfadi-Singeabend ausklingen – wir freuen uns auf Euch!</div>
         <div><b>Website: </b><a href='https://www.vcp-hettenhausen.de'>https://www.vcp-hettenhausen.de</a> | Instagram: <a href='https://www.instagram.com/vcphettenhausen/'>@vcphettenhausen</a></div>
         <div><b>Ansprechperson: </b><a href='mailto:info@vcp-hettenhausen.de'>Sören Scharf</a></div>
         <div><b>Ziel: </b>8 neue Pfadis</div>
@@ -170,7 +177,7 @@ page_sections:
         <div>Stamm Mückenstürmer, Bad Hersfeld</div>
         <div><b>Wann? </b>Samstag, 10.00 - 18.00 Uhr</div>
         <div><b>Wo? </b>Stammesheim (Sanddornweg 5, 36251 Bad Hersfeld)</div>
-        <div>Wir wollen eine Jurte (typisches Pfadfinderzelt) aufbauen und vielen Jugendlichen das Leben als Pfadfinder*innen schmackhaft machen. Wir freuen uns auf euch!</div>
+        <div>Was machen Pfadfinder*innen eigentlich so? Am Samstag könnt ihr das bei uns ausprobieren: Wir bauen eine Jurte (typisches Pfadfinderzelt) auf, spielen mit Euch und beantworten Eure Fragen.</div>
         <div><b>Website: </b><a href='https://vcp-hef.de'>https://vcp-hef.de</a> | Instagram: <a href='https://www.instagram.com/vcpmueckenstuermer/'>@vcpmueckenstuermer</a></div>
         <div><b>Ansprechperson: </b><a href='mailto:jonas.rubener@gmail.com'>Jonas Rubener</a> (Telefon: <a href='tel:+4915128986542'>+49 151 28986542</a></div>
         <div><b>Ziel: </b>2 neue Pfadis</div>
@@ -182,7 +189,7 @@ page_sections:
         <div>Stamm St. Georg, Hann. Münden</div>
         <div><b>Wann? </b>Samstag, 11.09.2021, 15:00 - 18:00 Uhr</div>
         <div><b>Wo? </b>Pfadiheim, Feuerteich 17a, Hann. Münden</div>
-        <div>Wir bieten euch ein Pfadi-Schnuppertag und wollen mit euch Kekse backen, spielen, basteln, singen, Stöcker schnitzen und Tee kochen auf dem Trangia. Wir freuen uns auf euch!</div>
+        <div>Wir bieten euch einen Pfadi-Schnuppertag und wollen mit euch Kekse backen, spielen, basteln, singen, Stöcker schnitzen und Tee kochen auf dem Trangia. Wir freuen uns auf euch!</div>
         <div><b>Website: </b><a href='https://vcp-muenden.de'>https://vcp-muenden.de</a></div>
         <div><b>Ansprechperson: </b><a href='mailto:a.cemus@t-online.de'>Anna Cemus</a></div>
         <div><b>Ziel: </b>2 neue Pfadis</div>
@@ -191,10 +198,10 @@ page_sections:
       style: focus
     - text: >-
         <h3>Tag der offenen Jurte</h3>
-        <div>Neuanfang, Niestetal</div>
+        <div>Pfadfinder Niestetal</div>
         <div><b>Wann? </b>Samstag, 11.09.2021, 15:00 - 20:00 Uhr</div>
         <div><b>Wo? </b>Ev. Gemeindehaus, Breite Straße 9a, Niestetal</div>
-        <div>Bei uns könnt ihr Pfadis ausprobieren und verschiedene Pfadi-Spiele testen, eine Jurte (typisches Pfadfinderzelt) aufbauen, Stockbrot über dem Lagerfeuer machen und Pfadilieder singen. Wir freuen uns auf euch!</div>
+        <div>Bei uns könnt ihr Pfadi-Sein ausprobieren und verschiedene Pfadi-Spiele testen, eine Jurte (typisches Pfadfinderzelt) aufbauen, Stockbrot über dem Lagerfeuer machen und Pfadilieder singen. Wir freuen uns auf euch!</div>
         <div><b>Website: </b><a href='https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/'>https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/</a></div>
         <div><b>Ansprechperson: </b><a href='mailto:irene.pd@gmx.de'>Irene Papendieck</a></div>
         <div><b>Ziel: </b>5 neue Pfadis</div>
@@ -202,7 +209,7 @@ page_sections:
       lon: 9.5797486
       style: focus
     - text: >-
-        <b>Neuanfang, Schrecksbach</b><br>
+        <b>Pfadfinder Schrecksbach</b><br>
         <a href='https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/'>https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/</a>
       lat: 50.8345016
       lon: 9.2870296
@@ -224,7 +231,10 @@ page_sections:
     - text: >-
         <h3>PfadiTag in Friedberg</h3>
         <div>Stamm Friedberg</div>
-        <div><b>Ansprechperson: </b><a href='mailto:stammesleitung@vcp-friedberg.de'>Insa Messerschmidt und Lena Uebelacker</a></div>
+        <div><b>Wann? </b>Samstag, 11.09.21, 14:00 - 17:00 Uhr</div>
+        <div><b>Wo? </b>Pfadiheim an der Seewiese, 61169 Friedberg (Hinter den Tennisplätzen)</div>
+        <div>Kommt vorbei zu Kaffee, Kakao und Kuchen! Dabei könnt ihr mit uns basteln oder an einer spannenden Schnitzeljagd teilnehmen.</div>
+        <div><b>Ansprechperson: </b><a href='mailto:stammesleitung@vcp-friedberg.de'>Ina Messerschmidt und Lena Uebelacker</a> (Telefon: <a href='tel:+4915231844854'+49 1523 1844854</a>)</div>
         <div><b>Ziel: </b>4 neue Pfadis</div>
       lat: 50.3323554
       lon: 8.7519085
@@ -237,6 +247,9 @@ page_sections:
     - text: >-
         <h3>Waldgeländespiel zum PfadiTag</h3>
         <div>Stamm Bad Nauheim</div>
+        <div><b>Wann? </b>Samstag, 11.09.2021, 14:00 - 18:00 Uhr</div>
+        <div><b>Wo? </b>Gemeindegarten Bad Nauheim (Wilhelmstraße 12, 61231 Bad Nauheim)</div>
+        <div>Besucht unseren Pfadistamm beim Sommerfest und macht mit bei unserem Waldgeländespiel. Wir freuen uns auf Euch!</div>
         <div><b>Website: </b><a href='http://vcp.ev-kirche-bn.de/wp/'>http://vcp.ev-kirche-bn.de/wp/</a></div>
         <div><b>Ansprechperson: </b><a href='mailto:feluheja@web.de'>Jacob Jäger</a></div>
         <div><b>Ziel: </b>4 neue Pfadis</div>
@@ -251,14 +264,20 @@ page_sections:
     - text: >-
         <h3>Warum im Zelt schlafen?</h3>
         <div>Stamm Dietrich Bonhoeffer, Butzbach</div>
-        <div><b>Ansprechperson: </b><a href='mailto:bjoern.hinsberger@gmail.com'>Björn Hinsberger</a></div>
+        <div><b>Wann? </b>Samstag, 11.09.2021</div>
+        <div><b>Wo? </b>Am Kirchplatz 13, 35510 Butzbach</div>
+        <div>Wir zeigen Euch, wie umweltbewusst Pfadis sind! Außerdem bauen wir mit Euch unsere besonderen Pfadizelte auf – vielleicht brichst du den neuen Rekord?</div>
+        <div><b>Ansprechperson: </b><a href='mailto:bjoern.hinsberger@gmail.com'>Björn Hinsberger</a> (Telefon: <a href='tel:+4915731848392'>+49 157 31848392</a></div>
         <div><b>Ziel: </b>10 neue Pfadis</div>
       lat: 50.434873
       lon: 8.6736498
       style: focus
     - text: >-
-        <b>Stamm Haiger</b><br>
-        <a href='https://www.ev-dill.de/gemeinden/35708-haiger/haiger.html'>https://www.ev-dill.de/gemeinden/35708-haiger/haiger.html</a>
+        <h3>PfadiTag</h3>
+        <div>Stamm Johann Textor, Haiger</div>
+        <div>Wir laden Euch ganz herzlich ein, in unserem Pfadiheim vorbeizukommen!</div>
+        <div><b>Website: </b><a href='https://www.ev-dill.de/gemeinden/35708-haiger/haiger.html'>https://www.ev-dill.de/gemeinden/35708-haiger/haiger.html</a></div>
+        <div><b>Ansprechperson: </b><a href='mailto:vcp-haiger@gmx.de'>Stephan Schol</a> (Telefon: <a href='tel:+491783558635'>0178 3558635</a></div>
       lat: 50.7418325
       lon: 8.2009489
       style: focus
@@ -282,6 +301,9 @@ page_sections:
     - text: >-
         <h3>Offenes Pfadiheim</h3>
         <div>Stamm Ottheinrich von der Pfalz, Ingelheim</div>
+        <div><b>Wann? </b>Samstag, 11.09.2021</div>
+        <div><b>Wo? </b>Pfadiheim Ingelheim, Ringgasse 20, Ingelheim</div>
+        <div>In unserer Jurte (typisches Pfadizelt) gibt es viel zu erleben: Stockbrot über dem Lagerfeuer backen, zusammen etwas basteln und mit uns über das Pfadfinderleben quatschen.</div>
         <div><b>Website: </b><a href='https://www.vcp-ingelheim.de/'>https://www.vcp-ingelheim.de/</a></div>
         <div><b>Ansprechperson: </b><a href='mailto:yasto@freenet.de'>Yara Storch</a>, Elias Wohleben, Jakob Widera</div>
         <div><b>Ziel: </b>8 neue Pfadis</div>
@@ -289,7 +311,7 @@ page_sections:
       lon: 8.0619247
       style: focus
     - text: >-
-        <b>Stamm Dittrich von Bern, Hofheim</b><br>
+        <b>Stamm Dietrich von Bern, Hofheim</b><br>
         <a href='https://www.vcphofheim.de'>https://www.vcphofheim.de</a>
       lat: 50.0787893
       lon: 8.4320407
@@ -302,8 +324,11 @@ page_sections:
     - text: >-
         <h3>PfadiTag in Dauborn</h3>
         <div>Stamm Ansgar, Dauborn</div>
+        <div><b>Wann? </b>Samstag, 11.09.2021 10:00 – 22:00 Uhr</div>
+        <div><b>Wo? </b>Evangelisches Gemeindehaus Dauborn (Rheinstraße 3a, Dauborn)</div>
+        <div>Wir veranstalten den Pfaditag unter dem Motto „Pfadfinderlager hautnah“. Am Samstag, den 11.09.2021 haben wir ein spannendes Programm mit dem Thema Mafia für euch. Abends gibt es einen Singeabend, wie er auf keinem Lager fehlen darf. Wer möchte, kann auch mit uns in unseren Pfadizelten übernachten. Schaut doch mal vorbei und erlebt, was die Pfadfinder*innen so alles zu bieten haben. Wir freuen uns auf Euch!</div>
         <div><b>Website: </b><a href='https://tinyurl.com/pfaditag21'>https://tinyurl.com/pfaditag21</a></div>
-        <div><b>Ansprechperson: </b><a href='mailto:oliver@vcp-dauborn.de'>oliver@vcp-dauborn.de</a></div>
+        <div><b>Ansprechperson: </b><a href='mailto:mail@vcp-dauborn.de'>mail@vcp-dauborn.de</a></div>
         <div><b>Ziel: </b>6 neue Pfadis</div>
       lat: 50.3277451
       lon: 8.1744336
@@ -320,6 +345,9 @@ page_sections:
     - text: >-
         <h3>PfadiTag in Neuenhain</h3>
         <div>Stamm Sophie Scholl, Neuenhain</div>
+        <div><b>Wann? </b>Samstag, 11.09.2021 15:00 - 22:00 Uhr</div>
+        <div><b>Wo? </b>Quellenpark, Bad Soden</div>
+        <div>Im Quellenpark bauen wir eine Jurte (typisches Pfadizelt) auf, spielen Spiele und ihr könnt über dem Lagerfeuer Stockbrot backen!</div>
         <div><b>Website: </b><a href='http://vcp-rhein-main.de/staemme/vcp-neuenhain/'>http://vcp-rhein-main.de/staemme/vcp-neuenhain/</a></div>
         <div><b>Ansprechperson: </b><a href='mailto:info@vcp-neuenhain.de'>Ellen Bielfeldt</a></div>
         <div><b>Ziel: </b>3 neue Pfadis</div>
@@ -335,6 +363,9 @@ page_sections:
     - text: >-
         <h3>Weilbach Rallye & Singeabend</h3>
         <div>Stamm Ulrich von Hutten, Weilbach</div>
+        <div><b>Wann? </b>Samstag, 11.09.2021, ab 12:00 Uhr Geländespiel, ab 18:00 Uhr Singeabend</div>
+        <div><b>Wo? </b>Evangelische Kirchengemeinde (Dorothee-Sölle-Weg 1, 65439 Flörsheim Weilbach)</div>
+        <div>Das Geländespiel ist für Kinder im Alter von 8 bis 14 Jahren. Der Singeabend ist ohne Altersbeschränkung. Die Stationen des Geländespiels werden auf ganz Weilbach verteilt, pro Station gibt es ein lustiges Spiel. Beim Singeabend werden Snacks und Tschai angeboten. Zwischen den Aktionen bieten wir eine große Runde des Spiels 'Werwolf' an und ab 16:00 Uhr gibt es verschiedene Spiele und andere Aktivitäten zum mitmachen.</div>
         <div><b>Website: </b><a href='http://vcp-rhein-main.de/staemme/vcp-weilbach/'>http://vcp-rhein-main.de/staemme/vcp-weilbach/</a></div>
         <div><b>Ansprechperson: </b><a href='mailto:noel.dieling@web.de'>Noel Dieling</a></div>
         <div><b>Ziel: </b>3 neue Pfadis</div>
@@ -367,8 +398,11 @@ page_sections:
     - text: >-
         <h3>Tag der offenen Jurte mit vielen spannenden Aktionen</h3>
         <div>Stamm Barbarossa, Gelnhausen</div>
+        <div><b>Wann? </b>Samstag, 11.09.2021, 10:00 bis 19:00 Uhr</div>
+        <div><b>Wo? </b>Jugendhaus Steiz (Braugasse 10, Gelnhausen)</div>
+        <div>Jurte wird aufgebaut, verschiendene Spiele, Stockbrot, Infos und Bilder, Eindrücke von Pfadiarbeit.</div>
         <div><b>Website: </b><a href='http://vcp-gelnhausen.de'>http://vcp-gelnhausen.de</a></div>
-        <div><b>Ansprechperson: </b><a href='mailto:Carolin.blaschke@outlook.de'>Carolin Blaschke</a></div>
+        <div><b>Ansprechperson: </b><a href='mailto:carolin.blaschke@outlook.de'>Carolin Blaschke</a></div>
         <div><b>Ziel: </b>4 neue Pfadis</div>
       lat: 50.2023611
       lon: 9.1929372
@@ -390,21 +424,33 @@ page_sections:
     - text: >-
         <h3>PfadiTag in Pfungstadt</h3>
         <div>Stamm Eldar, Pfungstadt</div>
-        <div><b>Website: </b><a href='http://vcp-pfungstadt.de/'>http://vcp-pfungstadt.de/</a></div>
+        <div><b>Wann? </b>Samstag, 11.09.2021</div>
+        <div><b>Wo? </b>Dietrich-Bonhoeffer-Haus (Odenwaldstraße 1, 64319 Pfungstadt)</div>
+        <div>Bei unserem Tag des offenen Zeltes könnt ihr vorbeikommen, mit uns spielen und über dem Lagerfeuer leckeres Stockbrot backen. Wir freuen uns auf euch!</div>
+        <div><b>Website: </b><a href='http://vcp-pfungstadt.de/'>http://vcp-pfungstadt.de/</a> | Instagram: <a href='https://www.instagram.com/vcp_eldar/'>@vcp_eldar</a></div>
         <div><b>Ansprechperson: </b><a href='mailto:josefine.kiel@gmx.de'>Josefine Kiel</a></div>
         <div><b>Ziel: </b>2 neue Pfadis</div>
       lat: 49.7982247
       lon: 8.6094998
       style: focus
-    - text: >-
-        <b>Stamm Eldar, Crumstadt</b><br>
+    - text: >-        
+        <h3>PfadiTag in Crumstadt</h3>
+        <div>Stamm Eldar, Crumstadt</div>
+        <div><b>Wann? </b>Samstag, 11.09.2021</div>
+        <div><b>Wo? </b>Evangelisches Gemeindehaus (Darmstädter Straße 3, 64560 Riedstadt)</div>
+        <div>Bei unserem Tag des offenen Zeltes könnt ihr vorbeikommen, mit uns spielen und über dem Lagerfeuer leckeres Stockbrot backen. Wir freuen uns auf euch!</div>
+        <div><b>Website: </b><a href='http://vcp-pfungstadt.de/'>http://vcp-pfungstadt.de/</a> | Instagram: <a href='https://www.instagram.com/vcp_eldar/'>@vcp_eldar</a></div>
+        <div><b>Ansprechperson: </b><a href='mailto:felix.bokowski@vcp-pfungstadt.de'>Felix Bokowski</a></div>
       lat: 49.80925
       lon: 8.5129013
-      style: grey
+      style: focus
     - text: >-
         <h3>PfadiTag in Ober-Ramstadt</h3>
         <div>Stamm Wikinger, Ober-Ramstadt</div>
-        <div><b>Ansprechperson: </b>Leo Keller, <a href='mailto:idamoeckl@mail.de'>Ida Möckl</a></div>
+        <div><b>Wann? </b>Sonntag, 12.09.2021, 13:00 - 17:00 Uhr</div>
+        <div><b>Wo? </b>Bibelgarten der evangelischen Kirchengemeinde Ober Ramstadt (Grabengasse 15, Ober-Ramstadt)</div>
+        <div>Schonmal etwas von Schwarzmat gehört? Beim PfadiTag wollen wir Euch die typischen Pfadizelte zeigen, dazu gibt es viele Spiele und natürlich auch etwas zu essen!</div>
+        <div><b>Ansprechperson: </b>Leo Keller, <a href='mailto:idamoeckl@mail.de'>Ida Möckl</a> (Telefon: <a href='tel:+4915223690737'>+49 1522 3690737</a>)</div>
         <div><b>Ziel: </b>5 neue Pfadis</div>
       lat: 49.82532710650306
       lon: 8.750237727335346
@@ -412,6 +458,9 @@ page_sections:
     - text: >-
         <h3>Offene Jurte!</h3>
         <div>Stamm Masilla, Messel</div>
+        <div><b>Wann? </b>Samstag, 11.09.2021, 13:00 - 17:00 Uhr</div>
+        <div><b>Wo? </b>Spielplatz Kohlweg, 64409 Messel</div>
+        <div>Wir bauen eine Jurte auf, das ist ein typisches Pfadfinder-Zelt und Spielen gemeinsam. Es gibt ein buntes Programm für Kinder im Grundschulalter. Wir freuen uns auf euch!</div>
         <div><b>Ansprechperson: </b><a href='mailto:kaiser.mm75@gmail.com'>Merle Meise</a></div>
         <div><b>Ziel: </b>3 neue Pfadis</div>
       lat: 49.9397811
@@ -420,6 +469,9 @@ page_sections:
     - text: >-
         <h3>Pfadfinden in Ginsheim</h3>
         <div>VCP Stamm Ginsheim</div>
+        <div><b>Wann? </b>Sonntag, 12.09.2021, 14:00 - 18:00 Uhr</div>
+        <div><b>Wo? </b>Evangelische Kirche, (Dammstr. 25, Ginsheim)</div>
+        <div>Ein großes Zelt mitten in der Kirche? Bei unserem Tag des offenen Zeltes könnt ihr das erleben und Euch nebenbei über unsere Pfadiarbeit informieren. Wir starten um 14:00 mit einem Pfadfindergottesdienst, zu dem Jede und Jeder herzlich eingeladen ist!</div>
         <div><b>Website: </b><a href='https://www.pfadfinder-ginsheim.de'>https://www.pfadfinder-ginsheim.de</a></div>
         <div><b>Ansprechperson: </b><a href='mailto:kloeppi91@gmx.de'>Michael Klöppinger</a></div>
         <div><b>Ziel: </b>5 neue Pfadis</div>
@@ -446,7 +498,9 @@ page_sections:
     - text: >-
         <h3>PfadiTag in Roßdorf</h3>
         <div>Stamm Christophorus, Roßdorf</div>
-        <!-- g<div><b>Website: </b><a href='http://www.vcp-niedernhausen.de'>http://www.vcp-niedernhausen.de</a></div> -->
+        <div><b>Wann? </b>Samstag, 11.09.2021 von 15:00 - 18:00 Uhr</div>
+        <div><b>Wo? </b>Pfadfindergelände (Schillerstraße 50. 64380 Roßdorf)</div>
+        <div>Wir laden Euch ganz herzlich ein, einen Tag auf unserem Pfadfinderlager zu erleben!</div>
         <div><b>Ansprechpersonen: </b><a href='mailto:stammesleitung-rossdorf@web.de'>Sarah Kreickenbaum</a></div>
         <div><b>Ziel: </b> neue Pfadis</div>
       lat: 49.8584165
