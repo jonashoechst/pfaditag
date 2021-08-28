@@ -116,18 +116,23 @@ page_sections:
       style: alt
     - text: >-
         <b>Pfadfinderzentrum Donnerskopf, Bodenrod</b><br>
-        <a href='https://donnerskopf.de/'>https://donnerskopf.de/</a>
+        <a href='https://donnerskopf.de/'>https://donnerskopf.de/</a>        <div><b>Wann? </b></div>
+        <div><b>Wo? </b></div>
+        <div></div>
       lat: 50.3953602
       lon: 8.5456105
       style: alt
 
     # Kurhessen
     - text: >-
-        <h3>PfadiTag in Fulda</h3>
+        <h3>PfadiTag am Uniplatz</h3>
         <div>Stamm Graf Folke Bernadotte, Fulda</div>
-        <div><b>Website: </b><a href='http://vcp-fd.de'>http://vcp-fd.de</a></div>
-        <div><b>Ansprechperson: </b><a href='mailto:stammesfuehrer@vcp-fd.de'>Cara Corell</a></div>
+        <div><b>Wann? </b>Samstag, 11.09.2021, 10 - 14 Uhr</div>
+        <div><b>Wo? </b>Uniplatz in Fulda</div>
+        <div>Trefft uns am Uniplatz in Fulda, wir bauen dort ein Jurte (schwarzes Pfadfinderzelt) auf und spielen mit euch einige typische Pfadfinder-Spiele und gehen auf eine Schnitzeljagd. Wir freuen uns auf euch!</div>
+        <div><b>Ansprechperson: </b><a href='mailto:stammesfuehrer@vcp-fd.de'>Pia Salentin</a></div>
         <div><b>Ziel: </b>4 neue Pfadis</div>
+        <div><b>Website: </b><a href='http://vcp-fd.de'>http://vcp-fd.de</a> | Instagram: <a href='https://www.instagram.com/vcp.fulda/'>@vcp.fulda</a></div>
       lat: 50.5554376
       lon: 9.6807718
       style: focus
@@ -141,19 +146,21 @@ page_sections:
       lon: 8.9193417
       style: focus
     - text: >-
-        <h3>PfadiTag im Lumdatal</h3>
+        <h3>U18-Wahl</h3>
         <div>Stamm Martin Luther, Lumdatal</div>
         <div><b>Website: </b><a href='https://vcp-lumdatal.de'>https://vcp-lumdatal.de</a></div>
         <div><b>Ansprechperson: </b><a href='mailto:madita.peper@web.de'>Madita Peper</a></div>
-        <div><b>Ziel: </b>2 neue Pfadis</div>
       lat: 50.6743844
       lon: 8.8621879
       style: focus
     - text: >-
-        <h3>PfadiTag in Hettenhausen</h3>
+        <h3>Pfadis & Friends</h3>
         <div>Stamm Gottfried von Ebersberg, Hettenhausen</div>
-        <div><b>Website: </b><a href='https://www.vcp-hettenhausen.de'>https://www.vcp-hettenhausen.de</a></div>
-        <div><b>Ansprechperson: </b><a href='mailto:stammesleitung@vcp-hettenhausen.de'>Patrick Nix</a></div>
+        <div><b>Wann? </b>Samstag, 11.09.2021, 16:00 - 20:00 Uhr</div>
+        <div><b>Wo? </b>Stammesheim am Martin-Luther-Haus der Ev. Kirchengemeinde (Ebersberger Straße 11, Hettenhausen)</div>
+        <div>Wir wollen gemeinsam mit euch einen Nachmittag am Lagerfeuer mit Stockbrot und verschiedenen Spielen verbringen. Am Abend Singen wir gemeinsam Pfadfinderlieder und lassen den Tag so ausklingen.</div>
+        <div><b>Website: </b><a href='https://www.vcp-hettenhausen.de'>https://www.vcp-hettenhausen.de</a> | Instagram: <a href='https://www.instagram.com/vcphettenhausen/'>@vcphettenhausen</a></div>
+        <div><b>Ansprechperson: </b><a href='mailto:info@vcp-hettenhausen.de'>Sören Scharf</a></div>
         <div><b>Ziel: </b>8 neue Pfadis</div>
       lat: 50.4518321
       lon: 9.8146037
@@ -161,8 +168,11 @@ page_sections:
     - text: >-
         <h3>PfadiTag in Bad Hersfeld</h3>
         <div>Stamm Mückenstürmer, Bad Hersfeld</div>
-        <div><b>Website: </b><a href='https://vcp-hef.de'>https://vcp-hef.de</a></div>
-        <div><b>Ansprechperson: </b><a href='mailto:jonas.rubener@gmail.com'>Jonas Rubener</a></div>
+        <div><b>Wann? </b>Samstag, 10.00 - 18.00 Uhr</div>
+        <div><b>Wo? </b>Stammesheim (Sanddornweg 5, 36251 Bad Hersfeld)</div>
+        <div>Wir wollen eine Jurte (typisches Pfadfinderzelt) aufbauen und vielen Jugendlichen das Leben als Pfadfinder*innen schmackhaft machen. Wir freuen uns auf euch!</div>
+        <div><b>Website: </b><a href='https://vcp-hef.de'>https://vcp-hef.de</a> | Instagram: <a href='https://www.instagram.com/vcpmueckenstuermer/'>@vcpmueckenstuermer</a></div>
+        <div><b>Ansprechperson: </b><a href='mailto:jonas.rubener@gmail.com'>Jonas Rubener</a> (Telefon: <a href='tel:+4915128986542'>+49 151 28986542</a></div>
         <div><b>Ziel: </b>2 neue Pfadis</div>
       lat: 50.8450519
       lon: 9.7016599
@@ -170,6 +180,9 @@ page_sections:
     - text: >-
         <h3>Pfadfinden (auch) in Südniedersachsen</h3>
         <div>Stamm St. Georg, Hann. Münden</div>
+        <div><b>Wann? </b>Samstag, 11.09.2021, 15:00 - 18:00 Uhr</div>
+        <div><b>Wo? </b>Pfadiheim, Feuerteich 17a, Hann. Münden</div>
+        <div>Wir bieten euch ein Pfadi-Schnuppertag und wollen mit euch Kekse backen, spielen, basteln, singen, Stöcker schnitzen und Tee kochen auf dem Trangia. Wir freuen uns auf euch!</div>
         <div><b>Website: </b><a href='https://vcp-muenden.de'>https://vcp-muenden.de</a></div>
         <div><b>Ansprechperson: </b><a href='mailto:a.cemus@t-online.de'>Anna Cemus</a></div>
         <div><b>Ziel: </b>2 neue Pfadis</div>
@@ -179,6 +192,9 @@ page_sections:
     - text: >-
         <h3>Tag der offenen Jurte</h3>
         <div>Neuanfang, Niestetal</div>
+        <div><b>Wann? </b>Samstag, 11.09.2021, 15:00 - 20:00 Uhr</div>
+        <div><b>Wo? </b>Ev. Gemeindehaus, Breite Straße 9a, Niestetal</div>
+        <div>Bei uns könnt ihr Pfadis ausprobieren und verschiedene Pfadi-Spiele testen, eine Jurte (typisches Pfadfinderzelt) aufbauen, Stockbrot über dem Lagerfeuer machen und Pfadilieder singen. Wir freuen uns auf euch!</div>
         <div><b>Website: </b><a href='https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/'>https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/</a></div>
         <div><b>Ansprechperson: </b><a href='mailto:irene.pd@gmx.de'>Irene Papendieck</a></div>
         <div><b>Ziel: </b>5 neue Pfadis</div>
@@ -286,8 +302,8 @@ page_sections:
     - text: >-
         <h3>PfadiTag in Dauborn</h3>
         <div>Stamm Ansgar, Dauborn</div>
-        <div><b>Website: </b><a href='http://vcp-dauborn.de/'>http://vcp-dauborn.de/</a></div>
-        <div><b>Ansprechperson: </b><a href='mailto:jens@vcp-dauborn.de'>Jens Huesmann</a></div>
+        <div><b>Website: </b><a href='https://tinyurl.com/pfaditag21'>https://tinyurl.com/pfaditag21</a></div>
+        <div><b>Ansprechperson: </b><a href='mailto:oliver@vcp-dauborn.de'>oliver@vcp-dauborn.de</a></div>
         <div><b>Ziel: </b>6 neue Pfadis</div>
       lat: 50.3277451
       lon: 8.1744336
