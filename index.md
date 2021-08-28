@@ -380,8 +380,11 @@ page_sections:
       lon: 8.4301517
       style: focus
     - text: >-
-        <h3>PfadiTag in Niedernhausen</h3>
+        <h3>Pfadfinder-Lager zum Ausprobieren</h3>
         <div>Stamm Parzival, Niedernhausen</div>
+        <div><b>Wann? </b>Samstag, 11.09.2021, 15:00 bis 22:00 Uhr</div>
+        <div><b>Wo? </b>Pfarrgarten (Fritz-Gontermann-Straße 4, 65527 Niedernhausen)</div>
+        <div>Wir begrüßen euch im Pfarrgarten und zeigen euch einen typischen Tag bei den Pfadfindern. Natürliche machen wir Lagerfeuer, hacken Holz und Singen. Wir kochen aber auch auf dem Feuer und danach gibt es einen ganz besonderen Nachtisch - Seid gespannt! Der Tag klingt mit einem Singeabend bis 22:00 Uhr aus.</div>
         <div><b>Website: </b><a href='http://www.vcp-niedernhausen.de'>http://www.vcp-niedernhausen.de</a></div>
         <div><b>Ansprechpersonen: </b>Evelyn Nesswetter, <a href='mailto:ndarge@web.de'>Niklas Darge</a></div>
         <div><b>Ziel: </b>3 neue Pfadis</div>
