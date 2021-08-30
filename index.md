@@ -70,7 +70,7 @@ page_sections:
   id: trailer
   headline: Pfadfinder?
   content: Draußen sein, gemeinsam kochen, am Feuer sitzen, unter Sternen einschlafen – das ist Pfadfinden.
-  iframe: <iframe src="https://www.youtube.com/embed/62mAaBb8EnY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  iframe: <iframe src="https://www.youtube.com/embed/tiSduOOPS-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - template: detail-content
   block: text-1
