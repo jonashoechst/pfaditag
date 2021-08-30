@@ -362,8 +362,8 @@ page_sections:
     - text: >-
         <h3>PfadiTag in Neuenhain</h3>
         <div>Stamm Sophie Scholl, Neuenhain</div>
-        <div><b>Wann? </b>Samstag, 11.09.2021 15:00 - 22:00 Uhr</div>
-        <div><b>Wo? </b>Quellenpark, Bad Soden</div>
+        <div><b>Wann? </b>Samstag, 11.09.2021 15:00 - 20:00 Uhr</div>
+        <div><b>Wo? </b>Neuer Kurpark, Bad Soden</div>
         <div>Im Quellenpark bauen wir eine Jurte (typisches Pfadizelt) auf, spielen Spiele und ihr könnt über dem Lagerfeuer Stockbrot backen!</div>
         <div><b>Website: </b><a href='http://vcp-rhein-main.de/staemme/vcp-neuenhain/'>http://vcp-rhein-main.de/staemme/vcp-neuenhain/</a></div>
         <div><b>Ansprechperson: </b><a href='mailto:info@vcp-neuenhain.de'>Ellen Bielfeldt</a></div>
