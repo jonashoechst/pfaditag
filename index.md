@@ -353,6 +353,9 @@ page_sections:
     - text: >-
         <h3>PfadiTag in Elz</h3>
         <div>Stamm Johannes Opilio de Elss, Elz</div>
+        <div><b>Wann? </b>Freitag, 10.09.21, 16:30 Uhr - 19:00 Uhr</div>
+        <div><b>Wo? </b>Evangelisches Gemeindezentrum Elz (Roterd 2, Elz)</div>
+        <div>Bei uns könnt ihr lernen wie man ein Pfadfinderzelt aufbaut. Und wenn wir das geschafft haben, machen wir ein Feuer und garen darauf ein leckeres Stockbrot. Wir freuen uns auf euch!</div>
         <div><b>Website: </b><a href='https://opilio-elz.de'>https://opilio-elz.de</a></div>
         <div><b>Ansprechperson: </b><a href='mailto:opilio-elz@gmx.de'>Ina Aßhauer</a></div>
         <div><b>Ziel: </b>4 neue Pfadis</div>
