@@ -444,7 +444,7 @@ page_sections:
     - text: >-
         <h3>PfadiTag in Pfungstadt</h3>
         <div>Stamm Eldar, Pfungstadt</div>
-        <div><b>Wann? </b>Samstag, 11.09.2021</div>
+        <div><b>Wann? </b>Samstag, 11.09.2021, 14:00 bis 18:00 Uhr</div>
         <div><b>Wo? </b>Dietrich-Bonhoeffer-Haus (Odenwaldstraße 1, 64319 Pfungstadt)</div>
         <div>Bei unserem Tag des offenen Zeltes könnt ihr vorbeikommen, mit uns spielen und über dem Lagerfeuer leckeres Stockbrot backen. Wir freuen uns auf euch!</div>
         <div><b>Website: </b><a href='http://vcp-pfungstadt.de/'>http://vcp-pfungstadt.de/</a> | Instagram: <a href='https://www.instagram.com/vcp_eldar/'>@vcp_eldar</a></div>
@@ -456,8 +456,8 @@ page_sections:
     - text: >-        
         <h3>PfadiTag in Crumstadt</h3>
         <div>Stamm Eldar, Crumstadt</div>
-        <div><b>Wann? </b>Samstag, 11.09.2021</div>
-        <div><b>Wo? </b>Evangelisches Gemeindehaus (Darmstädter Straße 3, 64560 Riedstadt)</div>
+        <div><b>Wann? </b>Sonntag, 12.09.2021, 14:00 bis 18:00 Uhr</div>
+        <div><b>Wo? </b>Gemeindehaus auf dem Kirchplatz (Poppenheimerstraße 1, 64560 Riedstadt)</div>
         <div>Bei unserem Tag des offenen Zeltes könnt ihr vorbeikommen, mit uns spielen und über dem Lagerfeuer leckeres Stockbrot backen. Wir freuen uns auf euch!</div>
         <div><b>Website: </b><a href='http://vcp-pfungstadt.de/'>http://vcp-pfungstadt.de/</a> | Instagram: <a href='https://www.instagram.com/vcp_eldar/'>@vcp_eldar</a></div>
         <div><b>Ansprechperson: </b><a href='mailto:felix.bokowski@vcp-pfungstadt.de'>Felix Bokowski</a></div>
