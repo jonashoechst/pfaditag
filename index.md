@@ -519,10 +519,9 @@ page_sections:
         <h3>PfadiTag in Roßdorf</h3>
         <div>Stamm Christophorus, Roßdorf</div>
         <div><b>Wann? </b>Samstag, 11.09.2021 von 15:00 - 18:00 Uhr</div>
-        <div><b>Wo? </b>Pfadfindergelände (Schillerstraße 50. 64380 Roßdorf)</div>
-        <div>Wir laden Euch ganz herzlich ein, einen Tag auf unserem Pfadfinderlager zu erleben!</div>
+        <div><b>Wo? </b>Pfadfindergelände (Schillerstraße 50, 64380 Roßdorf)</div>
+        <div>Wir laden Euch ganz herzlich ein, einen Tag auf unserem Pfadfinderlager zu erleben: Holz sägen, Feuer machen und alles Rund um das Schwarzzelten. Außerdem beantworten wir alle Fragen rund um die Pfadfinderei und hoffen neue Kinder und Gruppenleiter für die pfadfinderische Arbeit begeistern zu können.</div>
         <div><b>Ansprechpersonen: </b><a href='mailto:stammesleitung-rossdorf@web.de'>Sarah Kreickenbaum</a></div>
-        <div><b>Ziel: </b> neue Pfadis</div>
       lat: 49.8584165
       lon: 8.7393829
       style: focus
