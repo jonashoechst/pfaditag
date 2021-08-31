@@ -156,12 +156,12 @@ page_sections:
     - text: >-
         <h3>PfadiTag in Kirchhain</h3>
         <div>VCP Neuanfang Kirchhain</div>
-        <div><b>Wann? </b>Samstag, 11.09.2021</div>
-        <div><b>Wo? </b>von 10:00 bis 12:30 Uhr an der Martin-Luther Kirche, von 16:00 bis 22:00 Uhr an der Stadtkirche</div>
+        <div><b>Wann? </b>Samstag, 11.09.2021, 10:00 - 12:30 Uhr und 16:00 - 21:00 Uhr</div>
+        <div><b>Wo? </b>Stadtkirche Kirchhain (Hinterm Kirchhof 39, Kirchhain)</div>
         <div>Wir öffnen unsere Zelte für alle, die das Pfadfinden schon immer mal ausprobieren wollten. Feuer machen, Zelte aufbauen, gemeinsam Singen und Abenteuer erleben. Der PfadiTag ist der Startschuss für die Gründung neuer Gruppen vor Ort und damit der perfekte Einstieg für jeden und jede, die schon immer mal reinschnuppern wollte. Wir freuen uns auf euch!</div><br><div>
         <ul>
-        <li>Für Kinder zwischen 7 und 10 Jahren von 10:00 bis 12:30 Uhr an der Martin-Luther-Kirche: Pfadi-Spiele und Stockbrot.</li>
-        <li>Für Kinder & Jugendliche ab 10 von 16:00 Uhr bis 22:00 Uhr an der Stadtkirche: Feuer machen & Kochen auf dem Feuer</li>
+        <li>Für Kinder zwischen 7 und 10 Jahren von 10:00 bis 12:30 Uhr: Pfadi-Spiele und Stockbrot.</li>
+        <li>Für Kinder & Jugendliche zwischen 10 und 12 von 16:00 Uhr bis 21:00 Uhr: Zelte aufbauen, Spielen und Kochen auf dem Feuer</li>
         </ul></div>
         <div><b>Website: </b><a href='https://vcp-kirchhain.de'>https://vcp-kirchhain.de</a> | Instagram: <a href='https://www.instagram.com/vcp_kirchhain/'>@vcp_kirchhain</a></div>
         <div><b>Ansprechperson: </b><a href='mailto:pfadfinder@jonashoechst.de'>Jonas Höchst</a> (Telefon: <a href='tel:+4917663385990'>0176 63385990</a></div>
