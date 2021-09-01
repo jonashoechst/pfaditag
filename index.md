@@ -320,7 +320,7 @@ page_sections:
     - text: >-
         <h3>Offenes Pfadiheim</h3>
         <div>Stamm Ottheinrich von der Pfalz, Ingelheim</div>
-        <div><b>Wann? </b>Samstag, 11.09.2021</div>
+        <div><b>Wann? </b>Samstag, 11.09.2021, 15:00 Uhr</div>
         <div><b>Wo? </b>Pfadiheim Ingelheim, Ringgasse 20, Ingelheim</div>
         <div>In unserer Jurte (typisches Pfadizelt) gibt es viel zu erleben: Stockbrot über dem Lagerfeuer backen, zusammen etwas basteln und mit uns über das Pfadfinderleben quatschen.</div>
         <div><b>Website: </b><a href='https://www.vcp-ingelheim.de/'>https://www.vcp-ingelheim.de/</a></div>
@@ -439,11 +439,16 @@ page_sections:
       lon: 8.6057382
       style: grey
     - text: >-
-        <b>Stamm Abe Lincoln, Frankfurt-Ginnheim</b><br>
-        <a href='http://www.evangelische-bethlehemgemeinde.de/index.php/de/vcp-pfadfinder'>http://www.evangelische-bethlehemgemeinde.de/index.php/de/vcp-pfadfinder</a><br>
+        <h3>PfadiTag am Ginnheimer Wäldchen</h3>
+        <div>Stamm Abe Lincoln, Frankfurt-Ginnheim</div>
+        <div><b>Wann? </b>Samstag, 11.09.2021, 11:00 bis 19:00 Uhr</div>
+        <div><b>Wo? </b>Spielplatz am Ginnheimer Wäldchen  (Am Ginnheimer Wäldchen 3, Frankfurt am Main) U-Bahn Station Niddapark</div>
+        <div>Wir wollen ein Zelt aufbauen, Gitarre spielen und singen, dazu gibt's verschiedene AG's: Kreide selbst herstellen, Armbändchen mit selbst geprägten Cent-Münzen und leckeren Pfadfinder-Tschai zum trinken. Wir freuen uns über alle, zwischen 7 und 10 Jahren. Kommt vorbei, wir freuen uns auf euch!</div>
+        <div><b>Instagram</b>: <a href='https://www.instagram.com/VcpGinnheim/'>@VcpGinnheim</a> | Website: <a href='http://www.evangelische-bethlehemgemeinde.de/index.php/de/vcp-pfadfinder'>http://www.evangelische-bethlehemgemeinde.de/index.php/de/vcp-pfadfinder</a></div>
+        <div><b>Ansprechperson: </b><a href='mailto:dominik@kapasedo.de'>Dominik Zisch</a> oder via Telefon bei Phil-Maurice Albrecht (<a href='tel:+4915775447400'>01577 5447400</a>).</div>
       lat: 50.1454234
       lon: 8.650696
-      style: grey
+      style: focus
 
     # Starkenburg
     - text: >-
