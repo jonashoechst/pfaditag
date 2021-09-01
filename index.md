@@ -292,7 +292,9 @@ page_sections:
     - text: >-
         <h3>PfadiTag</h3>
         <div>Stamm Johann Textor, Haiger</div>
-        <div>Wir laden Euch ganz herzlich ein, in unserem Pfadiheim vorbeizukommen!</div>
+        <div><b>Wann? </b>Sonntag, 12.09.2021 von 13:00 - 17:00 Uhr</div>
+        <div><b>Wo? </b>Gemeindehaus der Ev. Kirchengemeinde Haiger (Frigghof 4, 35708 Haiger)</div>
+        <div>Wir bieten einen Spiel- und Bastelnachmittag für Kinder ab dem 1. Schuljahr an. Wir werden ein klassisches Pfadfinderzelt (Jurte) aufbauen und gemeinsam Stockbrote backen. Wir freuen uns auf euch!</div>
         <div><b>Website: </b><a href='https://www.ev-dill.de/gemeinden/35708-haiger/haiger.html'>https://www.ev-dill.de/gemeinden/35708-haiger/haiger.html</a></div>
         <div><b>Ansprechperson: </b><a href='mailto:vcp-haiger@gmx.de'>Stephan Schol</a> (Telefon: <a href='tel:+491783558635'>0178 3558635</a></div>
       lat: 50.7418325
