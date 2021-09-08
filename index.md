@@ -132,11 +132,11 @@ page_sections:
 
     # Kurhessen
     - text: >-
-        <h3>PfadiTag am Uniplatz</h3>
+        <h3>PfadiTag im Schlosspark</h3>
         <div>Stamm Graf Folke Bernadotte, Fulda</div>
         <div><b>Wann? </b>Samstag, 11.09.2021, 10 - 14 Uhr</div>
-        <div><b>Wo? </b>Uniplatz in Fulda</div>
-        <div>Trefft uns am Uniplatz in Fulda, wir bauen dort eine Jurte (schwarzes Pfadfinderzelt) auf und spielen mit euch einige typische Pfadfinder-Spiele und gehen auf eine Schnitzeljagd. Wir freuen uns auf euch!</div>
+        <div><b>Wo? </b>Schlosspark zwischen Pavillon und See in Fulda</div>
+        <div>Trefft uns im Schlosspark zwischen dem Pavillon und dem See in Fulda, wir bauen dort eine Jurte (schwarzes Pfadfinderzelt) auf und spielen mit euch einige typische Pfadfinder-Spiele und gehen auf eine Schnitzeljagd. Wir freuen uns auf euch!</div>
         <div><b>Ansprechperson: </b><a href='mailto:stammesfuehrer@vcp-fd.de'>Pia Salentin</a></div>
         <div><b>Ziel: </b>4 neue Pfadis</div>
         <div><b>Website: </b><a href='http://vcp-fd.de'>http://vcp-fd.de</a> | Instagram: <a href='https://www.instagram.com/vcp.fulda/'>@vcp.fulda</a></div>
