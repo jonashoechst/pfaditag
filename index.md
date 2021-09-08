@@ -146,10 +146,10 @@ page_sections:
     - text: >-
         <h3>Übernachtung in Wohratal</h3>
         <div>Pfadiprojekt Wohratal</div>
-        <div><b>Wann? </b>Samstag, 11.09.2021</div>
-        <div><b>Wo? </b>Evangelische Gemeinschaft Wohratal (Bergstraße 1, 35288 Wohratal)</div>
-        <div></div>
-        <div><b>Ansprechperson: </b><a href='mailto:frederik.s.peper@gmail.com'>Frederik Peper</a> (Telefon: <a href='tel:+491714325474'>+49 171 4325474</a></div>
+        <div><b>Wann? </b>Samstag, 11.09.2021, 11:00 - 16:00 Uhr</div>
+        <div><b>Wo? </b>Dorfscheune in Langendorf (Flohweg, hinter der Kirche, 35288 Wohratal)</div>
+        <div>Gemeinsam wollen wir uns auf die Suche nach versteckten Hinweisen und verborgenen Schätzen machen und dabei neue Techniken des Pfadfindens erlenen und ausprobieren. Bringt hierzu festes Schuhwerk und je nach Wetterlage regenfeste Kleidung mit. Die Aktion ist für alle zwischen 10 und 15 Jahren. Für das Mittagessen ist gesorgt. Bitte bringt der 3G-Regel entsprechend einen tagesaktuellen Testnachweis, einen Genesenennachweis oder einen Impfnachweis mit.<br>Du bist älter als 15, hast aber trotzdem Interesse an der Pfafinderei? Wir suchen auch noch Helfende die uns in den kommenden Aktionen und darüber hinaus unterstützen wollen! Melde dich gerne bei uns.</div>
+        <div><b>Ansprechperson: </b><a href='mailto:cordulaletmade@gmx.de'>Cordula Letmate</a> (Telefon: <a href='tel:+4964537019'>06453 7019</a>) oder <a href='mailto:frederik.s.peper@gmail.com'>Frederik Peper</a> (Telefon: <a href='tel:+491714325474'>+49 171 4325474</a></div>
       lat: 50.9361588
       lon: 8.9453639
       style: focus
