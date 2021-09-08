@@ -486,16 +486,11 @@ page_sections:
       lon: 8.750237727335346
       style: focus
     - text: >-
-        <h3>Offene Jurte!</h3>
         <div>Stamm Masilla, Messel</div>
-        <div><b>Wann? </b>Samstag, 11.09.2021, 13:00 - 17:00 Uhr</div>
-        <div><b>Wo? </b>Spielplatz Kohlweg, 64409 Messel</div>
-        <div>Wir bauen eine Jurte auf, das ist ein typisches Pfadfinder-Zelt und Spielen gemeinsam. Es gibt ein buntes Programm für Kinder im Grundschulalter. Wir freuen uns auf euch!</div>
         <div><b>Ansprechperson: </b><a href='mailto:kaiser.mm75@gmail.com'>Merle Meise</a></div>
-        <div><b>Ziel: </b>3 neue Pfadis</div>
       lat: 49.9397811
       lon: 8.7413121
-      style: focus
+      style: grey
     - text: >-
         <h3>Pfadfinden in Ginsheim</h3>
         <div>VCP Stamm Ginsheim</div>
