@@ -15,8 +15,8 @@ page_sections:
     link_text: "Details"
   - link: "#map"
     link_text: "Vor Ort"
-  - link: "#posters"
-    link_text: "Materialien"
+#   - link: "#posters"
+#     link_text: "Materialien"
   # - link: "#contact"
   #   link_text: "Kontakt"
 
@@ -48,21 +48,21 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   id: opener
-  headline: PfadiTag 2021<br><strong>... wir müssen draußen bleiben!</strong>
-  content: "10. - 12. September 2021"
+  headline: PfadiTag 2022<br><strong>... auf ins Abenteuer!</strong>
+  content: "23. - 25. September 2022"
   cta:
     enabled: true
     url: "#trailer"
     button_text: 'Pfadfinder?'
   image:
     image: "assets/baum.png"
-    alt_text: "Logo vom PfadiTag 2021"
+    alt_text: "Logo vom PfadiTag 2022"
   progress:
     percent: 100
     # message: "<i>Das PfadiTag-Team wettet, dass die Stämme des VCP Hessen es nicht schaffen, mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br>
     # Wetteinsatz: Solltet ihr es schaffen, 100 Kinder & Jugendliche zu erreichen, dann begeben wir uns für einen Tag in eine Innenstadt und befragen 100 fremde Personen nach ihren Pfadfinder-Klischees und produzieren davon ein Video.<br><br>
     # Bis jetzt machen 23 Stämme mit, halten die Wette und wollen 97 neue Pfadfinder*innen begeistern."
-    message: "25 Stämme vom VCP Hessen öffnen ihre Türen und laden Kinder & Jugendliche ein Pfadfinden auszuprobieren!<br><br><i>Die Stämme des VCP Hessen haben gewettet, dass sie es schaffen, mit ihren Aktionen in 25 Stämmen 100 neue Pfadfinder*innen für das Pfadfinden zu begeistern.</i>"
+    message: "Beim PfadiTag öffnen die Pfadfinderstämme des Verbandes Christlicher Pfadfinderinnen und Pfadfinder ihre Türen und laden Kinder & Jugendliche ein Pfadfinden auszuprobieren!<br><br><i>Wie viele Menschen werden können wir in diesem Jahr erreichen?</i>"
   background_image: "assets/hero-2-bg.png"
 
 - template: content-feature
@@ -77,7 +77,7 @@ page_sections:
   id: detail
   headline: Aufschwung nach der Pandemie  
   content: |
-    <p>Mehr Eigenverantwortung und Selbstbewusstsein, ein friedliches Miteinander, der sorgsame Umgang mit der Natur sowie der Verzicht auf Smartphone, Laptop und Co. – das Konzept Pfadfinden kann eine unglaubliche Bereicherung für Kinder und Jugendliche sein. Weit verbreitet ist es aber noch nicht. Mit dem ‚PfadiTag‘ will der Verband Christlicher Pfadfinderinnen und Pfadfinder (VCP) in Hessen nun mehr Aufmerksamkeit erreichen. Schon 2020 beteiligten sich fast alle der 30 hessischen Stämme (Ortsgruppen). Am Wochenende vom 10. bis 12. September 2021 geht es in die zweite Runde. Unter dem Motto ‚wir müssen draußen bleiben‘ organisieren 24 Stämme individuelle Aktionen, von Geländespielen über Singerunden bis hin zum Ganztagesprogramm. </p>
+    <p>Mehr Eigenverantwortung und Selbstbewusstsein, ein friedliches Miteinander, der sorgsame Umgang mit der Natur sowie der Verzicht auf Smartphone, Laptop und Co. – das Konzept Pfadfinden kann eine unglaubliche Bereicherung für Kinder und Jugendliche sein. Weit verbreitet ist es aber noch nicht. Mit dem "PfadiTag" will der Verband Christlicher Pfadfinderinnen und Pfadfinder (VCP) nun mehr Aufmerksamkeit erreichen. Schon 2020 und 2021 beteiligten sich fast alle der 30 hessischen Stämme (Ortsgruppen). Am Wochenende vom 23. bis 25. September 2022 geht es in die dritte Runde, diesmal mit allen Stämmen in Deutschland. Unter dem Motto "Auf ins Abenteuer!" organisieren die Gruppen individuelle Aktionen, von Geländespielen über Singerunden bis hin zum Ganztagesprogramm. </p>
 
 # - template: detail-content
 #   block: text-1
@@ -113,7 +113,7 @@ page_sections:
   id: map
   media_alignment: Right
   headline: <strong>Aktionen zum Mitmachen</strong><span class="light"> am PfadiTag 2021</span>
-  content: Übersicht der Aktionen am PfadiTag in deiner Nähe - jetzt Aktion raussuchen und anmelden!
+  content: Übersicht der Aktionen am PfadiTag 2021 - zu inspiration für den PfadiTag 2022!
   tilesUrl: https://api.mapbox.com/styles/v1/mapbox/light-v10/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiaG9lY2hzdCIsImEiOiJjazVueDhyMWkwenpuM2RydzltNjhraDAzIn0.HntghYG9IBZvVd0bUJEY9Q
   attribution: Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>
   markers:
@@ -549,18 +549,18 @@ page_sections:
       caption: "Poster 4: Singerunde"
       link: assets/pfaditag-poster4.jpg
 
-- template: three-column
-  block: three-column-1
-  id: downloads
-  col_1: 
-    headline: "<a href='downloads/pfaditag2021-presentation.pdf'>Präsentation</a>"
-    content: "Ideen & Konzepte für den PfadiTag 2021 - als Präsentation." 
-  col_2: 
-    headline: "<a href='downloads/stammeskit-1.zip'>StammesKit 1</a>"
-    content: "Logos, Poster & Infotexte für eure Stammeswerbung." 
-  col_3: 
-    headline: "<a href='downloads/stammeskit-2.zip'>StammesKit 2</a>"
-    content: "Instagram, Briefkopf & Logo für eure Stammeswerbung." 
+# - template: three-column
+#   block: three-column-1
+#   id: downloads
+#   col_1: 
+#     headline: "<a href='downloads/pfaditag2021-presentation.pdf'>Präsentation</a>"
+#     content: "Ideen & Konzepte für den PfadiTag 2021 - als Präsentation." 
+#   col_2: 
+#     headline: "<a href='downloads/stammeskit-1.zip'>StammesKit 1</a>"
+#     content: "Logos, Poster & Infotexte für eure Stammeswerbung." 
+#   col_3: 
+#     headline: "<a href='downloads/stammeskit-2.zip'>StammesKit 2</a>"
+#     content: "Instagram, Briefkopf & Logo für eure Stammeswerbung." 
 
 # - block: mailto
 #   id: signup

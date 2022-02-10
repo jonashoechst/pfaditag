@@ -95,18 +95,18 @@ p {
 }
 
 .button.primary {
-    background-color: #006666;
-    color:#fff
+    background-color: #fecf16;
+    color:#603609
 }
 
 .button.primary.inverted {
-    background-color: #fff;
-    color:#000
+    background-color: #603609;
+    color:#fff
 }
 
 .button.secondary {
     background-color: transparent;
-    border:1.5px solid #006666
+    border:1.5px solid #fecf16
 }
 
 .button.small {
@@ -196,7 +196,7 @@ a:hover {
 }
 
 a:hover {
-    color:#006666
+    color:#fecf16
 }
 
 .block-header-1 .nav-item:last-of-type {
@@ -238,7 +238,7 @@ a:hover {
 }
 
 .block-header-2 .nav-item.active a {
-    color:#006666
+    color:#fecf16
 }
 
 .block-header-2 .nav-item a {
@@ -251,7 +251,7 @@ a:hover {
 }
 
 .block-header-2 .nav-item.active a:hover {
-    color:#006666
+    color:#fecf16
 }
 
 .block-header-2 .nav-item:last-of-type {
@@ -281,8 +281,8 @@ a:hover {
 }
 
 .block-hero-1 {
-    --bg: #006666;
-    --text: #fff;
+    --bg: #fecf16;
+    --text: #603609;
     display: -ms-flexbox;
     display: flex;
     -ms-flex-direction: column;
@@ -304,8 +304,8 @@ a:hover {
 }
 
 .block-hero-2 {
-    --bg: #006666;
-    --text: #fff;
+    --bg: #fecf16;
+    --text: #603609;
     -ms-flex-direction: column;
     flex-direction: column;
     -ms-flex-pack: center;
@@ -354,7 +354,7 @@ a:hover {
 .block-hero-2 .column.text p {
     margin: 16px 0 32px;
     margin: 1rem 0 2rem;
-    color: #fff;
+    color: #603609;
     font-size: 16px;
     font-size:1rem
 }
@@ -471,8 +471,8 @@ a:hover {
 .block-cta-bar {
     padding: 32px;
     padding: 2rem;
-    background: #006666;
-    color:#fff
+    background: #fecf16;
+    color:#603609
 }
 
 .block-cta-bar .columns {
@@ -501,7 +501,7 @@ a:hover {
 .block-cta-bar .text p {
     font-size: 20px;
     font-size: 1.25rem;
-    color:#fff
+    color:#603609
 }
 
 .block-cta-bar .cta {
