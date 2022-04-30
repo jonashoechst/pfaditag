@@ -55,7 +55,7 @@ page_sections:
     url: "#trailer"
     button_text: 'Pfadfinder?'
   image:
-    image: "assets/baum.png"
+    image: "assets/22_04_30_HeldinFreunde-small.png"
     alt_text: "Logo vom PfadiTag 2022"
   progress:
     percent: 100
