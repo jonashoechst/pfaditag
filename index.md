@@ -534,7 +534,7 @@ page_sections:
 - template: detail-content
   block: media-4
   id: posters
-  caption: Poster von <a href="https://www.tobidahmen.de">Tobi Dahmen</a> &copy; VCP Hessen
+  caption: Poster von <a href="https://www.tobidahmen.de">Tobi Dahmen</a> &copy; VCP e.V.
   images:
     - image: assets/pfaditag-poster1.jpg
       caption: "Poster 1: Essen"
@@ -597,18 +597,22 @@ page_sections:
   id: contact
   image: "assets/logo-pfaditag.png"
   col_2: |
-    <a href="https://www.youtube.com/channel/UCcffpRuB1hnpn7uiJ6GnDGA" target="_blank">
+    <a href="https://www.youtube.com/user/VCPde" target="_blank">
       <img src="assets/social/018-youtube.svg" height="20pt" alt="YouTube" /></a>&nbsp;
-    <a href="https://www.facebook.com/VCPHessen/" target="_blank">
+    <a href="https://vimeo.com/vcp" target="_blank">
+      <img src="assets/social/041-vimeo.svg" height="20pt" alt="Vimeo" /></a>&nbsp;
+    <a href="https://www.facebook.com/vcp.de" target="_blank">
       <img src="assets/social/013-facebook.svg" height="20pt" alt="Facebook" /></a>&nbsp;
-    <a href="https://www.instagram.com/vcp.hessen/" target="_blank">
+    <a href="https://www.instagram.com/vcp_de/" target="_blank">
       <img src="assets/social/014-instagram.svg" height="20pt" alt="Instagram" /></a>&nbsp;
-    <a href="https://hessen.vcp.de" target="_blank">
+    <a href="https://www.vcp.de/" target="_blank">
       <img src="assets/social/012-network.svg" height="20pt" alt="Website" /></a>&nbsp;
     <a href="mailto:hallo@pfaditag.de?subject=PfadiTag%202021" target="_blank">
       <img src="assets/social/043-email.svg" height="20pt" alt="E-Mail" /></a>
   col_3: |
-    <a href="https://hessen.vcp.de/impressum" target="_blank" style="text-decoration: none;">Impressum & Datenschutz</a>
-  col_4: <a href="https://hessen.vcp.de" target="_blank"><img src="assets/logo-vcp.png" width="100%" /></a>
+    <a href="https://www.vcp.de/kontakt/impressum" target="_blank" style="text-decoration: none;">Impressum</a>
+    &nbsp;&amp;&nbsp;
+    <a href="https://www.vcp.de/kontakt/datenschutzerklaerung" target="_blank" style="text-decoration: none;">Datenschutz</a> 
+  col_4: <a href="https://www.vcp.de" target="_blank"><img src="assets/VCP-WBM_VCP-Blau_RGB-crop.svg" width="100%" /></a>
 
 ---
