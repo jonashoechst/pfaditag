@@ -62,7 +62,7 @@ page_sections:
     # message: "<i>Das PfadiTag-Team wettet, dass die Stämme des VCP Hessen es nicht schaffen, mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br>
     # Wetteinsatz: Solltet ihr es schaffen, 100 Kinder & Jugendliche zu erreichen, dann begeben wir uns für einen Tag in eine Innenstadt und befragen 100 fremde Personen nach ihren Pfadfinder-Klischees und produzieren davon ein Video.<br><br>
     # Bis jetzt machen 23 Stämme mit, halten die Wette und wollen 97 neue Pfadfinder*innen begeistern."
-    message: "Beim PfadiTag öffnen die Pfadfinderstämme des Verbandes Christlicher Pfadfinderinnen und Pfadfinder ihre Türen und laden Kinder & Jugendliche ein Pfadfinden auszuprobieren!<br><br><i>Wie viele Menschen werden können wir in diesem Jahr erreichen?</i>"
+    message: "Beim PfadiTag öffnen die Pfadfinderstämme des Verbandes Christlicher Pfadfinderinnen und Pfadfinder ihre Türen und laden Kinder & Jugendliche ein Pfadfinden auszuprobieren!<br><br><i>Wie viele Menschen werden können wir in diesem Jahr erreichen?</i><br><br><a href='https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTM4NGVjNzMtZjhlNi00YzEzLTkyOGItZTg4OTc0OTFiOTlm%40thread.v2/0?context=%7b%22Tid%22%3a%2277e0667b-faeb-438f-9aaa-ab6702ef8014%22%2c%22Oid%22%3a%229d7c5d7a-6cdc-44d9-a973-0e23a43594a2%22%7d' target='_blank'>Vernetzungstreffen am Montag, den 27. Juni 2022 von 20:00 bis 22:00 Uhr</a> für alle Stammesführer:innen und Gruppenleiter:innen"
   background_image: "assets/hero-2-bg.png"
 
 - template: content-feature
