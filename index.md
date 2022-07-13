@@ -10,7 +10,7 @@ page_sections:
   # - link: "#"
     # link_text: Home
   - link: "#trailer"
-    link_text: "Pfadfinder?"
+    link_text: "Pfadfinder*innen?"
   - link: "#detail"
     link_text: "Details"
   - link: "#map"
@@ -53,7 +53,7 @@ page_sections:
   cta:
     enabled: true
     url: "#trailer"
-    button_text: 'Pfadfinder?'
+    button_text: 'Pfadfinder*innen?'
   image:
     image: "assets/22_04_30_HeldinFreunde-small.png"
     alt_text: "Logo vom PfadiTag 2022"
@@ -62,13 +62,13 @@ page_sections:
     # message: "<i>Das PfadiTag-Team wettet, dass die Stämme des VCP Hessen es nicht schaffen, mit ihren Aktionen 100 neue Pfadfinder*innen für den VCP zu begeistern.</i><br>
     # Wetteinsatz: Solltet ihr es schaffen, 100 Kinder & Jugendliche zu erreichen, dann begeben wir uns für einen Tag in eine Innenstadt und befragen 100 fremde Personen nach ihren Pfadfinder-Klischees und produzieren davon ein Video.<br><br>
     # Bis jetzt machen 23 Stämme mit, halten die Wette und wollen 97 neue Pfadfinder*innen begeistern."
-    message: "Beim PfadiTag öffnen die Pfadfinderstämme des Verbandes Christlicher Pfadfinderinnen und Pfadfinder ihre Türen und laden Kinder & Jugendliche ein Pfadfinden auszuprobieren!<br><br><i>Wie viele Menschen werden können wir in diesem Jahr erreichen?</i><br><br><a href='https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTM4NGVjNzMtZjhlNi00YzEzLTkyOGItZTg4OTc0OTFiOTlm%40thread.v2/0?context=%7b%22Tid%22%3a%2277e0667b-faeb-438f-9aaa-ab6702ef8014%22%2c%22Oid%22%3a%229d7c5d7a-6cdc-44d9-a973-0e23a43594a2%22%7d' target='_blank'>Vernetzungstreffen am Montag, den 27. Juni 2022 von 20:00 bis 22:00 Uhr</a> für alle Stammesführer:innen und Gruppenleiter:innen"
+    message: "Beim PfadiTag öffnen die Pfadfinderstämme des Verbandes Christlicher Pfadfinderinnen und Pfadfinder ihre Türen und laden Kinder & Jugendliche ein Pfadfinden auszuprobieren!<br><br><i>Wie viele Menschen werden können wir in diesem Jahr erreichen?</i><br><br><a href='https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTM4NGVjNzMtZjhlNi00YzEzLTkyOGItZTg4OTc0OTFiOTlm%40thread.v2/0?context=%7b%22Tid%22%3a%2277e0667b-faeb-438f-9aaa-ab6702ef8014%22%2c%22Oid%22%3a%229d7c5d7a-6cdc-44d9-a973-0e23a43594a2%22%7d' target='_blank'>Vernetzungstreffen am Montag, den 27. Juni 2022 von 20:00 bis 22:00 Uhr</a> für alle Stammesführer*innen und Gruppenleiter*innen"
   background_image: "assets/hero-2-bg.png"
 
 - template: content-feature
   block: iframe-1
   id: trailer
-  headline: Pfadfinder?
+  headline: Pfadfinder*innen?
   content: Draußen sein, gemeinsam kochen, am Feuer sitzen, unter Sternen einschlafen – das ist Pfadfinden.
   iframe: <iframe src="https://www.youtube.com/embed/tiSduOOPS-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -215,7 +215,7 @@ page_sections:
       style: focus
     - text: >-
         <h3>Tag der offenen Jurte</h3>
-        <div>Pfadfinder Niestetal</div>
+        <div>Pfadfinder*innen Niestetal</div>
         <div><b>Wann? </b>Samstag, 11.09.2021, 15:00 - 20:00 Uhr</div>
         <div><b>Wo? </b>Ev. Gemeindehaus, Breite Straße 9a, Niestetal</div>
         <div>Bei uns könnt ihr Pfadi-Sein ausprobieren und verschiedene Pfadi-Spiele testen, eine Jurte (typisches Pfadfinderzelt) aufbauen, Stockbrot über dem Lagerfeuer machen und Pfadilieder singen. Wir freuen uns auf euch!</div>
@@ -226,7 +226,7 @@ page_sections:
       lon: 9.5797486
       style: focus
     - text: >-
-        <b>Pfadfinder Schrecksbach</b><br>
+        <b>Pfadfinder\*innen Schrecksbach</b><br>
         <a href='https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/'>https://www.evangelisch-in-niestetal.de/unsere-angebote/kinder-und-jugendliche/</a>
       lat: 50.8345016
       lon: 9.2870296
